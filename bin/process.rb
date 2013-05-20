@@ -3,6 +3,7 @@ DEST_FOLDER = "../public"
 
 require 'rexml/document'
 require 'erubis'
+require "cgi"
 
 class PlayParser
 
@@ -112,11 +113,11 @@ class InMemoryHashCollector < Collector
   end
 
   def play_title title
-    @play[:title] = title
+    @play[:title] = CGI::escapeHTML(title)
   end
   
   def play_subtitle subtitle
-    @play[:subtitle] = subtitle
+    @play[:subtitle] = CGI::escapeHTML(subtitle)
   end
 
   def start_act 
@@ -149,7 +150,7 @@ class InMemoryHashCollector < Collector
   end
 
   def act_title title
-    @current_act[:title] = title
+    @current_act[:title] = CGI::escapeHTML(title)
   end
 
   def start_scene
@@ -159,7 +160,7 @@ class InMemoryHashCollector < Collector
   end
 
   def scene_title title
-    @current_scene[:title] = title
+    @current_scene[:title] = CGI::escapeHTML(title)
   end
 
   def start_speech
@@ -168,6 +169,9 @@ class InMemoryHashCollector < Collector
   end
 
   def speaker speaker
+    if speaker != nil
+      speaker = CGI::escapeHTML(speaker)
+    end
     @current_speech[:speakers] << speaker
   end
 
@@ -177,25 +181,26 @@ class InMemoryHashCollector < Collector
   end
 
   def scene_stagedir stagedir
-    stagedir = {:stagedir => stagedir}
+    stagedir = {:stagedir => CGI::escapeHTML(stagedir)}
     @current_scene[:parts] << stagedir
+    
   end
 
   def speech_stagedir stagedir
-    @current_speech[:lines] << {:type => :stagedir, :text => stagedir } 
+    @current_speech[:lines] << {:type => :stagedir, :text => CGI::escapeHTML(stagedir) } 
   end
 
   def text text
     lines = @current_line_parts[:lines]
     if lines.length > 0 and lines[-1][:type] == :line 
-       lines[-1][:text] << text 
+       lines[-1][:text] << CGI::escapeHTML(text)
     else
-       @current_line_parts[:lines] << {:type => :line, :text => text }
+       @current_line_parts[:lines] << {:type => :line, :text => CGI::escapeHTML(text) }
     end
   end
 
   def parenthetical text
-    @current_line_parts[:lines] << {:type => :parenthetical, :text => text }
+    @current_line_parts[:lines] << {:type => :parenthetical, :text => CGI::escapeHTML(text) }
   end
 end
 
