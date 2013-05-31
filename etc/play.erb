@@ -8,6 +8,14 @@
 </head>
 <body>
   <h1><%= play[:title] %></h1>
+
+  <h2><%= play[:dptitle] %></h2>
+
+<%- for person in play[:persons] %>
+<h3><%= person %></h3>
+<%- end -%>
+
+	<h3></h3>
 <%- play[:acts].each_with_index do |act, act_idx| %>
 <div class="act">
 <h2><%= act[:title] %></h2>

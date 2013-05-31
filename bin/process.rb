@@ -26,6 +26,12 @@ class PlayParser
   end
 
   def scan(doc)
+    doc.elements.each('PLAY/PERSONAE/TITLE') do |t|
+      @out.personae_title t.text
+    end
+    if (doc.elements.to_a("PLAY/PERSONAE").length > 0)
+      dp(doc, 'PLAY/PERSONAE')
+    end
     doc.elements.each('PLAY/TITLE') do |t|
       @out.play_title t.text
     end 
@@ -51,6 +57,25 @@ class PlayParser
       optional_scene(a,'PROLOGUE') { @out.start_act_prologue }
       scenes(a,'SCENE') 
       optional_scene(a,'EPILOGUE') { @out.start_act_epilogue }
+    end
+  end
+
+  def dp(doc,pattern)
+
+    doc.elements.each(pattern) do |p|
+      p.elements.each do |pp|
+        case pp.name
+          when 'PERSONA'
+            @out.person_title pp.text
+          when 'PGROUP'
+            pp.elements.each('PERSONA') do |persona|
+              @out.person_title persona.text
+            end
+            pp.elements.each('GRPDESCR') do |grpdescr|
+              @out.person_title grpdescr.text
+          end 
+        end
+      end
     end
   end
 
@@ -159,6 +184,14 @@ class InMemoryHashCollector < Collector
     @current_act[:title] = CGI::escapeHTML(title)
   end
 
+  def person_title title
+    if title != nil
+      @play[:persons] ||= []
+      @play[:persons] << CGI::escapeHTML(title)
+    end
+  end
+
+
   def start_scene
     @current_act[:scenes] ||= []
     @current_scene = {:parts => []}
@@ -167,6 +200,10 @@ class InMemoryHashCollector < Collector
 
   def scene_title title
     @current_scene[:title] = CGI::escapeHTML(title)
+  end
+
+  def personae_title title
+    @play[:dptitle] = CGI::escapeHTML(title)
   end
 
   def start_speech
