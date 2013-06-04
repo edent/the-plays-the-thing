@@ -3,7 +3,6 @@
 <head>
   <meta charset=utf-8>
   <title><%= play[:title] %></title>
-  <link href='http://fonts.googleapis.com/css?family=Vollkorn:400italic,400' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
@@ -12,7 +11,7 @@
   <h2><%= play[:dptitle] %></h2>
 
 <%- for person in play[:persons] %>
-<h3><%= person %></h3>
+<p class="speaker"><%= person %></p>
 <%- end -%>
 
 	<h3></h3>

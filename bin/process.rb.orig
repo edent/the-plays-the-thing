@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+SRC_FOLDER = "../src/preprocessed"
+DEST_FOLDER = "../public"
+=======
 BASE_DIR = ENV["PTT_HOME"] || File.join(File.dirname(__FILE__), "..")
 
 def relative_path(filename)
@@ -6,6 +10,7 @@ end
 
 SRC_FOLDER = relative_path("src/preprocessed")
 DEST_FOLDER = relative_path("public")
+>>>>>>> upstream/master
 
 require 'rexml/document'
 require 'erubis'
@@ -26,12 +31,6 @@ class PlayParser
   end
 
   def scan(doc)
-    doc.elements.each('PLAY/PERSONAE/TITLE') do |t|
-      @out.personae_title t.text
-    end
-    if (doc.elements.to_a("PLAY/PERSONAE").length > 0)
-      dp(doc, 'PLAY/PERSONAE')
-    end
     doc.elements.each('PLAY/TITLE') do |t|
       @out.play_title t.text
     end 
@@ -57,24 +56,6 @@ class PlayParser
       optional_scene(a,'PROLOGUE') { @out.start_act_prologue }
       scenes(a,'SCENE') 
       optional_scene(a,'EPILOGUE') { @out.start_act_epilogue }
-    end
-  end
-
-  def dp(doc,pattern)
-    doc.elements.each(pattern) do |dp|
-      dp.elements.each do |pp|
-        case pp.name
-          when 'PERSONA'
-            @out.person_title pp.text
-          when 'PGROUP'
-            pp.elements.each('PERSONA') do |persona|
-              @out.person_title persona.text
-            end
-            pp.elements.each('GRPDESCR') do |grpdescr|
-              @out.person_title grpdescr.text
-          end 
-        end
-      end
     end
   end
 
@@ -183,19 +164,6 @@ class InMemoryHashCollector < Collector
     @current_act[:title] = CGI::escapeHTML(title)
   end
 
-  def personae_title title
-    if title != nil
-      @play[:dptitle] = CGI::escapeHTML(title)
-    end
-  end
-
-  def person_title title
-    if title != nil
-      @play[:persons] ||= []
-      @play[:persons] << CGI::escapeHTML(title)
-    end
-  end
-
   def start_scene
     @current_act[:scenes] ||= []
     @current_scene = {:parts => []}
@@ -226,6 +194,7 @@ class InMemoryHashCollector < Collector
   def scene_stagedir stagedir
     stagedir = {:stagedir => CGI::escapeHTML(stagedir)}
     @current_scene[:parts] << stagedir
+    
   end
 
   def speech_stagedir stagedir
@@ -246,6 +215,20 @@ class InMemoryHashCollector < Collector
   end
 end
 
+<<<<<<< HEAD
+index = []
+template = Erubis::Eruby.new(File.read("../etc/play.erb"))
+files_to_process = Dir.glob("#{SRC_FOLDER}/*.xml")
+files_to_process.each do |f|
+  doc = REXML::Document.new(File.new(f))
+  c = InMemoryHashCollector.new
+  p = PlayParser.new(c) 
+  p.scan(doc)
+  play = c.play
+
+  html = template.result(binding)
+  out = File.new(f.gsub("xml","html").gsub("#{SRC_FOLDER}/","#{DEST_FOLDER}/"),"w")
+=======
 def find_template(filename)
   Erubis::Eruby.new(File.read(relative_path(filename)))
 end
@@ -264,6 +247,7 @@ end
 def do_templating(template, template_vars, filename)
   html = template.result(template_vars)
   out = File.new(filename,"w")
+>>>>>>> upstream/master
   out.write html
   return out
 end
@@ -279,4 +263,11 @@ parse_plays("#{SRC_FOLDER}/*.xml") do |file, play|
   plays << {:title => play[:title], :subtitle => play[:subtitle], :file => File.basename(out)}
 end
 
+<<<<<<< HEAD
+index_file = File.new("#{DEST_FOLDER}/index.html", "w")
+index_temp = Erubis::Eruby.new(File.read("../etc/index.erb"))
+html = index_temp.result(binding)
+index_file.write html
+=======
 do_templating(index_template, {"index"=>plays}, "#{DEST_FOLDER}/index.html")
+>>>>>>> upstream/master

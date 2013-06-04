@@ -3,7 +3,6 @@
 <head>
   <meta charset=utf-8>
   <title>Readable Shakespeare Plays</title>
-  <link href='http://fonts.googleapis.com/css?family=Vollkorn:400italic,400' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
@@ -16,8 +15,8 @@
   
   <div class="playlist">
   <% for play in index  %><p>
-    <a href="<%= play[:file] %>"><%= play[:subtitle] %></a><br />
-    <%= play[:title] %>
+    <a href="<%= play[:file] %>"><%= play[:title] %></a><br />
+    <%= play[:subtitle] %>
     </p>
   <% end %>
 </div>

@@ -1,65 +1,19 @@
-/*@font-face {
+@font-face {
   font-family: 'titles';
-  src: url('fonts/Xin di paper-cut compact.ttf');
+  src: url('fonts/Xin di paper-cut Font -  Simplified Chinese .ttf');
 }
 @font-face {
   font-family: 'headings';
-  src: url('fonts/STXINGKA%20compact.ttf');
+  src: url('fonts/STXINGKA.ttf');
 }
 @font-face {
   font-family: 'character';
-  src: url('fonts/HanWangKaiBold-Gb5compact.ttf');
+  src: url('fonts/wts11.ttf');
 }
 @font-face {
   font-family: 'text';
   src: url('fonts/Han yi Jia shu Font.ttf');
 }
-*/
-
-@font-face {
-  font-family: 'text';
-  src: url('fonts/HYd2gj.ttf');
-}
-
-@font-face {
-    font-family: 'StxingkaiHeadings';
-    src: url('fonts/edentstxingkai-webfont.eot');
-    src: url('fonts/edentstxingkai-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/edentstxingkai-webfont.woff') format('woff'),
-         url('fonts/edentstxingkai-webfont.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'HanwangkaiboldCharacters';
-    src: url('fonts/hanwangkaibold-gb5compact-webfont.eot');
-    src: url('fonts/hanwangkaibold-gb5compact-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/hanwangkaibold-gb5compact-webfont.woff') format('woff'),
-         url('fonts/hanwangkaibold-gb5compact-webfont.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'PaperCutTitles';
-    src: url('fonts/xindipaper-cutcompact-webfont.eot');
-    src: url('fonts/xindipaper-cutcompact-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/xindipaper-cutcompact-webfont.woff') format('woff'),
-         url('fonts/xindipaper-cutcompact-webfont.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
 body {
   font-family: 'text';
   font-size: 100%;
@@ -70,7 +24,7 @@ p {
 }
 
 h1 {
-  font-family: 'PaperCutTitles';
+  font-family: 'titles';
   font-weight: normal;
   font-size: 700%;
   text-align: center;
@@ -179,7 +133,7 @@ span.line a {
 }
 
 b.speaker {
-  font-family: 'HanwangkaiboldCharacters';
+  font-family: 'character';
   font-weight: normal;
   font-size: 100%;
   content:after:"\00a0\00a0";
@@ -192,21 +146,21 @@ b.speaker {
 
 .act h2 {
   text-align: center;
-  font-family: 'StxingkaiHeadings';
+  font-family: 'headings';
   font-size: 450%;
   font-weight: normal;
 }
 
 h2 {
   text-align: center;
-  font-family: 'StxingkaiHeadings';
+  font-family: 'headings';
   font-size: 450%;
   font-weight: normal;
 }
 
 h3 {
   text-align: center;
-  font-family: 'StxingkaiHeadings';
+  font-family: 'headings';
   font-size: 350%;
   font-weight: normal;
 }
