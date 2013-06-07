@@ -1,0 +1,7261 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset=utf-8>
+	<title>爱的徒劳</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<a href="https://github.com/edent/xn--nlqx4w7ypemw.xn--fiqs8s/blob/master/src/preprocessed/爱的徒劳.xml"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
+
+	<h1>爱的徒劳</h1>
+
+	<h2>剧中人物</h2>
+
+	<p class="speaker">腓迪南</p>
+	<p class="speaker">俾　隆</p>
+	<p class="speaker">朗格维</p>
+	<p class="speaker">杜　曼</p>
+	<p class="speaker">鲍益</p>
+	<p class="speaker">马凯德</p>
+	<p class="speaker">唐·阿德里安诺·德·亚马多</p>
+	<p class="speaker">纳森聂尔</p>
+	<p class="speaker">霍罗福尼斯</p>
+	<p class="speaker">德尔</p>
+	<p class="speaker">考斯塔德</p>
+	<p class="speaker">毛子</p>
+	<p class="speaker">管林人</p>
+	<p class="speaker">法国公主</p>
+	<p class="speaker">罗瑟琳</p>
+	<p class="speaker">玛利娅</p>
+	<p class="speaker">凯瑟琳</p>
+	<p class="speaker">杰奎妮妲</p>
+	<p class="speaker">群臣、侍从等</p>
+
+	<div class="act">
+		<h2>第一幕</h2>
+		<div class="scene">
+			<h3>第一场　那瓦王御苑 </h3>
+			<p class="stagedir">国王、俾隆、朗格维及杜曼上。</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-3">
+			让众人所追求的名誉永远记录在我们的墓碑上，使我们在死亡的耻辱中获得不朽的光荣；不管饕餮的时间怎样吞噬着一切，我们要在这一息尚存的时候，努力博取我们的声名，使时间的镰刀不能伤害我们；我们的生命可以终了，我们的名誉却要永垂万古。所以，勇敢的战士们——因为你们都是向你们自己的感情和一切俗世的欲望奋勇作战的英雄——我们必须把我们最近的敕令严格实行起来：那瓦将要成为世界的奇迹；我们的宫廷将要成为一所小小的学院，潜心探讨有益人生的学术。你们三个人，俾隆、杜曼和朗格维，已经立誓在这三年之内，跟我一起生活，做我的学侣，并且绝对遵守这一纸戒约上所规定的各项条文；你们的誓已经宣过，现在就请你们签下自己的名字；这样一来，谁要是破坏了这戒约上最细微的一枝一节，就可以让亲笔的字迹勾消他的荣誉。要是你们已经下了最大的决心，愿你们签下名字，无渝斯盟。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="0-0-5">
+			我已经决定了。左右不过是三年的长斋；身体虽然憔悴，精神上却享受着盛宴。饱了肚皮，饿了头脑；美食珍馐可以充实肌肤，却会闭塞心窍。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="0-0-7">
+			陛下，杜曼已经抑制了他的情欲，把世间一切粗俗的物质的欢娱丢给伧夫俗子们去享受。恋爱、财富和荣华把人暗中催老；我要在哲学中间找寻生命的奥妙。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="0-0-9">
+			我所能够说的话，他们两人都已经说过了。我已经发誓，陛下，在这儿读书三年；可是其他严厉的戒条，例如在那时期以内，不许见一个女人，这一条我希望并不包括在内；还有每一星期中有一天不许接触任何食物，平常的日子，每天只有一餐，这一条我也希望并不包括在内；还有晚上只许睡三小时，白天不准瞌睡，这一条我也希望并不包括在内，因为我一向总是从天黑睡到天亮，还要再把半个白昼当作黑夜。啊！这些题目太难，叫人怎么办得到？不看女人尽读书，不吃饭又不许睡觉！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-11">
+			你在宣誓的时候，已经声明遵守这些条件了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="0-0-13">
+			请陛下恕我，我并没有发这样的誓。我只发誓陪着陛下读书，在您的宫廷里居住三年。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="0-0-15">
+			除了这一点以外，俾隆，其余的条件你也都发誓遵守的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="0-0-17">
+			那么，先生，我只是开玩笑说说的。我倒要请问，读书的目的究竟是什么？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-19">
+			知道我们所不知道的事情。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="0-0-21">
+			您的意思是说那些我们常识所不能窥察的事情吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-23">
+			正是，那就是读书的莫大的报酬。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="0-0-25">
+			好，那么我要发誓苦读，把天地间的奥秘勤搜冥索：当煌煌的禁令阻止我宴乐的时候，我要知道什么地方可以填满我的饥肠；当我们的肉眼望不见一个女人的时候，我要知道什么地方可以遇见天仙般的姑娘；要是我发了一个难以遵守的誓言，我要知道怎样可以一边叛誓，一边把我的信誉保全。要是读书果然有这样的用处，能够知道目前还不知道的东西，你尽可以命我发誓，我一定踊跃从命，决无二言。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-27">
+			这些是学问途中的障碍，引导我们的智慧去追寻无聊的愉快。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="0-0-29">
+			一切愉快都是无聊；最大的无聊却是为了无聊费尽辛劳。你捧着一本书苦苦钻研，为的是追寻真理的光明；真理却虚伪地使你的眼睛失明。这就叫作：本想找光明，反而失去了光明；因为黑暗里的光明尚未发现，你两眼的光明已经转为黑暗。我宁愿消受眼皮上的供养，把美人的妙目姿情鉴赏，那脉脉含情的夺人光艳可以扫去我眼中的雾障。学问就像是高悬中天的日轮，愚妄的肉眼不能测度它的高深；孜孜??的腐儒白首穷年，还不是从前人书本里掇拾些片爪寸鳞？那些自命不凡的文人学士，替每一颗星球取下一个名字；可是在众星吐辉的夜里，灿烂的星光一样会照射到无知的俗子。过分的博学无非浪博虚声；每一个教父都会替孩子命名。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-31">
+			他反对读书的理由多么充足！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="0-0-33">
+			他用巧妙的言辞阻善济恶！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="0-0-35">
+			他让莠草蔓生，刈除了嘉谷！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="0-0-37">
+			春天到了，小鹅孵出了蛋壳！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="0-0-39">
+			这句话是怎么接上去的？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="0-0-41">
+			各得其时，各如其分。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="0-0-43">
+			一点意思都没有。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="0-0-45">
+			聊以凑韵。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-47">
+			俾隆就像一阵冷酷无情的霜霰，用他的利嘴咬死了春天初生的婴孩。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="0-0-49">
+			好，就算我是；要是小鸟还没有啭动它的新腔，为什么要让盛夏夸耀它的荣光？为什么要我喜爱流产的婴儿？我不愿冰雪遮掩了五月的花天锦地，也不希望蔷薇花在圣诞节含娇弄媚；万物都各自有它生长的季节，太早太迟同样是过犹不及。你们到现在才去埋头功课，等于爬过了墙头去拔开门上的键锁。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-51">
+			好，那么你退出好了。回家去吧，俾隆，再会！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="0-0-53">
+			不，陛下；我已经宣誓陪着您在一起；虽然我说了这许多话为无知的愚昧张目，使你们理竭词穷，不能为神圣的知识辩护，可是请相信我，我一定遵守我的誓言，安心忍受这三年的苦行。把那纸儿给我，让我一条一条读下去，在这些严厉的规律下面把我的名字签署。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-55">
+			你这样回心转意，免去了你终身的耻辱！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="0-0-57">
+			“第一条，任何女子不得进入离朕宫廷一哩之内。”这一条有没有公布？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="0-0-59">
+			已经公布四天了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="0-0-61">
+			让我们看看违禁的有些什么处分。“如有故违，割去该女之舌示儆。”这惩罚是谁定出来的？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="0-0-63">
+			不敢，是我。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="0-0-65">
+			好大人，请问您的理由？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="0-0-67">
+			她们看见了这样可怕的刑罚，就会吓得不敢来了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="0-0-69">
+			好一条禁止良好风尚的野蛮法律！“第二条，倘有人在三年之内，被发现与任何女子交谈，当由其他朝臣共同议定最严厉之办法，予以公开之羞辱。”这一条，陛下，您自己就要破坏的；您知道法国国王的女儿，一位端庄淑美的姑娘，就要奉命到这儿来，跟您交涉把阿奎丹归还给她的老迈衰弱、卧病在床的父亲；所以这一条规律倘不是等于虚设，就只好让这位众人赞慕的公主白白跋涉这一趟。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-71">
+			你们怎么说，各位贤卿？这一件事情我全然忘了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="0-0-73">
+			读书人总是这样舍近而求远，当他一心研究着怎样可以达到他的志愿的时候，却把眼前所应该做的事情忘了；等到志愿成就，正像用火攻夺取城市一样，得到的只是一堆灰烬。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-75">
+			为了事实上的必要，我们只好废止这一条法令；她必须寄宿在我们的宫廷之内。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="0-0-77">
+			事实上的必要将使我们在这三年之内毁誓三千次，因为每个人都是生来就有他自己的癖好，对这些癖好只能宽大为怀，不能用强力来横加压制。要是我破坏了约誓，就可以用这个字眼作盾牌，说我所以背信是出于事实上的必要。所以我在这儿签下我的名字，全部接受这一切规律；
+					<i class="parenthetical">签名</i>
+			谁要是违反了戒约上最微细的一枝一节，让他永远不齿于人口。倘然别人受到诱惑，我也会同样受到诱惑；可是我相信，虽然今天你们看我是这样地不情愿，我一定是最后毁誓的一个。可是戒约上有没有允许我们可以找些有趣的消遣呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-79">
+			有，有。你们知道我们的宫廷里来了一个文雅的西班牙游客，他的身上包罗着全世界各地的奇腔异调，他的脑筋里收藏着取之不尽的古怪的辞句；从他自负不凡的舌头上吐出来的狂言，在他自己听起来就像迷人的音乐一样使人沉醉；他是个富有才能、善于折衷是非的人。这个幻想之儿，名字叫做亚马多的，将要在我们读书的余暇，用一些夸张的字句，给我们讲述在战争中丧生的热带之国西班牙骑士们的伟绩。我不知道你们喜不喜欢他；可是我自己很爱听他说谎，我要叫他作我的行吟诗人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="0-0-81">
+			亚马多是一个最出色的家伙，一个会用崭新字句的十足时髦的骑士。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="0-0-83">
+			考斯塔德那个村夫和他配成一对，可以替我们制造无穷的笑料；这样读书三年也不会觉得太长。
+				</span>
+			</p>
+			<p class="stagedir">德尔持信及考斯塔德同上。</p>
+			<p>
+				<b class="speaker">德尔</b>
+				<span class="line" id="0-0-86">
+			哪一位是王上本人？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="0-0-88">
+			这一位便是，家伙。你有什么事？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">德尔</b>
+				<span class="line" id="0-0-90">
+			我自己也是代表王上的，因为我是王上陛下的巡丁；可是我要看看王上本人。
+					<a class="line" href="#0-0-90">90</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="0-0-92">
+			这便是他。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">劳德尔</b>
+				<span class="line" id="0-0-94">
+			亚马——亚马——先生问候陛下安好。外边有人图谋不轨；这封信可以告诉您一切。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="0-0-96">
+			陛下，这封信里所提起的事情是跟我有关系的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-98">
+			伟大的亚马多写来的信！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="0-0-100">
+			不管内容多么罗苏，我希望它充满了夸大的字眼。
+					<a class="line" href="#0-0-100">100</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="0-0-102">
+			问题不大，希望倒满大的，愿上帝给我们忍耐吧！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="0-0-104">
+			耐着听，还是忍住笑？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="0-0-106">
+			随便听听，轻声笑笑，要不然就别听也别笑。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="0-0-108">
+			好，先生，我们应该怎么开心，还是让文章的本身替我们决定吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="0-0-110">
+			这件事，先生，是关于我和杰奎妮妲两个人的。至于情，我确是知情的。
+					<a class="line" href="#0-0-110">110</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="0-0-112">
+			知什么情？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="0-0-114">
+			其情其状随后即见分晓，先生；三者具备，一无欠缺：他们看见我在庄上和她并坐谈情，行为有些莽撞；等她走到御苑里的时候，我又随后跟着，结果被人抓住了。这不是“其情其状随后即见分晓”吗？说到情，先生，那只是男女之情；说到状——咳，不过是奇形怪状。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="0-0-116">
+			还有个随后呢，老兄？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="0-0-118">
+			随后就要看对我的处置了；愿上帝保佑善人！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-120">
+			你们愿意用心听我读这一封信吗？
+					<a class="line" href="#0-0-120">120</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="0-0-122">
+			我们愿意洗耳恭听，就像它是天神的圣谕一般。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="0-0-124">
+			愚蠢的世人对肉体的需要也是同样洗耳恭听的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-126">
+			“上天的伟大的代理人，那瓦的唯一的统治者，我的灵魂的地上的真神，我的肉体的养育的恩主——”
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="0-0-128">
+			还没有一个字提起考斯塔德。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-130">
+			“事情是这样的——”
+					<a class="line" href="#0-0-130">130</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="0-0-132">
+			也许是这样的；可是假如他说是这样的，那他，说实话，也不过这样。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-134">
+			闭嘴！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="0-0-136">
+			像我们这种安分守己，不敢跟人家打架的人，只好把一张嘴闭起来。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-138">
+			少说话！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="0-0-140">
+			我也恳求你，对别人的私事还是少说话为妙。
+					<a class="line" href="#0-0-140">140</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-142">
+			“事情是这样的，我因为被黑色的忧郁所包围，想要借着你的令人健康的空气的最灵效的医药，祛除这一种阴沉的重压的情绪，所以凭着我的绅士的身分，使我自己出外散步。是什么时间呢？大约在六点钟左右，正是畜类纷纷吃草，鸟儿成群啄食，人们坐下来享受那所谓晚餐的一种营养的时候：以上说明了时间。现在要说到什么场所：我的意思是说我散步的场所；那是称为你的御苑的所在。于是要说到什么地点：我的意思是说我在什么地点碰到这一桩最淫秽而荒谬的事件，使我从我的雪白的笔端注出了乌黑的墨水，成为现在你所看见、察阅、诵读或者浏览的这一封信。可是说到什么地点，那是在你的曲曲折折的花园里的西边角上东北偏北而略近东首的方向；就在那边我看见那卑鄙的村夫，那可发一笑的，下贱的小人物——”
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="0-0-144">
+			我。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-146">
+			“那没有教养的孤陋寡闻的灵魂——”
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="0-0-148">
+			我。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-150">
+			“那浅薄的东西——”
+					<a class="line" href="#0-0-150">150</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="0-0-152">
+			还是我。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-154">
+			“照我所记得，考斯塔德是他的名字——”
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="0-0-156">
+			啊，我。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-158">
+			“公然违反你的颁布晓谕的诏令和禁抑邪行的法典，跟一个——跟一个——啊！跟一个说起了就使我万分气愤的人结伴同行——”
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="0-0-160">
+			跟一个女人。
+					<a class="line" href="#0-0-160">160</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-162">
+			“跟一个我们祖母夏娃的孩儿，一个阴人；或者为了使你格外明白起见，一个女子。受着责任心的驱策，我把他交给陛下的巡丁安东尼·德尔，一个在名誉、态度、举止和信用方面都很优良的人，带到你的面前，领受应得的惩戒。——”
+				</span>
+			</p>
+			<p>
+				<b class="speaker">德尔</b>
+				<span class="line" id="0-0-164">
+			启禀陛下，我就是安东尼·德尔。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-166">
+			“至于杰奎妮妲——因为这就是那和前述村夫同时被我捕获的脆弱的东西的名称——我让她等候着你的法律的威严；一得到你的最轻微的传谕，我就会把她带来受审。抱着必恭必敬、燃烧全心的忠诚，你的仆人唐·阿德里安诺·德·亚马多敬上。”
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="0-0-168">
+			这封信还不能适如我的预期，可是在我所曾经听到过的书信中间，这不失为最有趣的一封。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-170">
+			是的，这是古今恶札中的杰作。喂，你对于这封信有什么话说吗？
+					<a class="line" href="#0-0-170">170</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="0-0-172">
+			陛下，我承认是有这么一个女人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-174">
+			你听见谕告吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="0-0-176">
+			我听倒是听见的，不过没有十分注意。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-178">
+			谕告上说，和妇人在一起而被捕，处以一年的监禁。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="0-0-180">
+			我不是和妇人在一起，陛下，我是跟一个姑娘在一起。
+					<a class="line" href="#0-0-180">180</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-182">
+			好，谕告上说姑娘也包括在内。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="0-0-184">
+			这也不是一个姑娘，陛下；她是个处女。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-186">
+			处女也包括在内。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="0-0-188">
+			那么我就否认她是个处女。我是跟一个女孩子在一起。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-190">
+			女孩子不女孩子，随你怎么说都没有用。
+					<a class="line" href="#0-0-190">190</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="0-0-192">
+			这女孩子对我很有用呢，陛下。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-194">
+			听我的判决：你必须禁食一星期，每天吃些糠喝些水。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="0-0-196">
+			我宁愿祈祷一个月，每天吃些羊肉喝些粥。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="0-0-198">
+			唐·亚马多将要做你的看守人。俾隆贤卿，你监视着把他押送过去。各位贤卿，我们现在就去把我们彼此坚决立誓的事情实行起来。
+					<i class="parenthetical">国王、朗格维、杜曼同下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="0-0-200">
+			我愿意用我的头去和无论哪一个人的帽子打赌，这些誓约和戒律不过是一场无聊的笑柄。喂，来。
+					<a class="line" href="#0-0-200">200</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="0-0-202">
+			我是为了真理而受难，先生；因为我跟杰奎妮妲在一起而被他们捉住，这是一件真实的事实，而且杰奎妮妲也是一个真心的女孩子。所以欢迎，幸运的苦杯！痛苦也许会有一天露出笑容；现在，歇歇吧，悲哀！
+					<i class="parenthetical">同下。</i>
+				</span>
+			</p>
+		</div>
+		<div class="scene">
+			<h3>第二场　同前 </h3>
+			<p class="stagedir">亚马多及毛子上。</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-3">
+			孩子，一个精神伟大的人要是变得忧郁起来，会有些什么征象？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-5">
+			他会显出悲哀的神气，主人，这是一个伟大的征象。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-7">
+			忧郁和悲哀不是同样的东西吗，亲爱的小鬼？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-9">
+			不，不，主啊！不，主人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-11">
+			你怎么可以把悲哀和忧郁分开，我的柔嫩的青年？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-13">
+			我可以从作用上举出很普通的证明，我的粗硬的长老。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-15">
+			为什么是粗硬的长老？为什么是粗硬的长老？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-17">
+			为什么是柔嫩的青年？为什么是柔嫩的青年？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-19">
+			我说你是柔嫩的青年，因为这是对于你的弱龄的一个适当的名称。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-21">
+			我说您是粗硬的长老，因为这是对于您的老年的一个合宜的尊号。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-23">
+			美不可言，妙不可言！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-25">
+			这怎么讲，主人？你是说我美、我的话妙呢，还是说我妙、我的话美？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-27">
+			我是说你美，因为身材娇小。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-29">
+			小人还美得了吗？那么妙从何来呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-31">
+			妙者，敏捷之谓也。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-33">
+			你说这话，主人，是捧我吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-35">
+			确系盛誉。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-37">
+			我倒想把你这番盛誉送给鳝鱼。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-39">
+			怎么，鳝鱼有何聪明可言？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-41">
+			鳝鱼算是够敏捷的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-43">
+			我是说你应对敏捷；你要使我肝火旺盛了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-45">
+			得，主人，我没什么说的了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-47">
+			我最讨厌的是贫。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-49">
+					<i class="parenthetical">旁白</i>
+			真叫他说着了，他口袋里一个子儿也没有。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-51">
+			我已经答应陪着王上研究三年。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-53">
+			主人，您用不着一点钟的工夫，就可以把它研究出来。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-55">
+			不可能的事。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-57">
+			一的三倍是多少？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-59">
+			我不会计算；那是堂倌酒保们干的事。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-61">
+			主人，您是一位绅士，也是一位赌徒。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-63">
+			这两个名义我都承认；它们都是一个堂堂男子的标识。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-65">
+			那么我相信您一定知道两点加一点一共几点。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-67">
+			比两点多一点。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-69">
+			那在下贱的俗人嘴里是称为三点的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-71">
+			不错。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-73">
+			瞧，主人，这不是很容易的研究吗？您还没有霎过三次眼睛，我们已经把三字研究出来了；要是再在“三”字后面加上一个“年”字，一共两个字，不是用不着那匹会跳舞的马
+					<i class="parenthetical">①</i>
+				</span>
+				<span class="line" id="0-1-74">
+			也可以给您算出来吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-76">
+			此论甚通。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-78">
+			这说明您不通。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-80">
+			我承认我是在恋爱了；一个军人谈恋爱是一件下流的事，所以我恋爱着一个下流的女人。要是我向爱情拔剑作战，可以把我从这种堕落的思想中间拯救出来的话，我就要把欲望作为我的俘虏，让无论哪一个法国宫廷里的朝士用一些新式的礼节把它赎去。我不屑于叹气，但是在骂誓这点上，丘匹德见了我也得甘拜下风。安慰我，孩子；哪几个伟大的人物是曾经恋爱过的？
+					<a class="line" href="#0-1-80">80</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-82">
+			赫剌克勒斯，主人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-84">
+			最亲爱的赫剌克勒斯！再举几个例子，好孩子，再举几个；我的亲爱的孩子，你必须替我举几个赫赫有名身担重任的人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-86">
+			参孙
+					<i class="parenthetical">②</i>
+				</span>
+				<span class="line" id="0-1-87">
+			，主人；说起身担重任，谁也比不了他。他曾经像一个脚夫似地把城门负在背上；他也恋爱过的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-89">
+			啊，结实的参孙！强壮的参孙！你在剑法上不如我，我在背城门这一件事情上也不如你。我也在恋爱了。谁是参孙的爱人，我的好毛子？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-91">
+			一个女人，主人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-93">
+			是什么肤色的女人？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-95">
+			一共四种肤色，也许她四种都有，也许她有四种之中的三种、两种，或是一种颜色。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-97">
+			正确一些告诉我她的皮肤是什么颜色？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-99">
+			是海水一样碧绿的颜色，主人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-101">
+			那也是四种肤色中的一种吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-103">
+			我在书上是这样读过的，主人；最好看的女人都是这种颜色。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-105">
+			绿色的确是情人们的颜色；可是我想参孙会爱上一个绿皮肤的女人，却是不可思议的。他准是看中她有头脑。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-107">
+			不错，主人。头脑要绿，帽子也会绿的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-109">
+			我爱的女人生得十分干净，红是红，白是白的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-111">
+			最污秽的思想，主人，都是藏匿在这种颜色之下的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-113">
+			说出你的理由来，懂事的婴孩。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-115">
+			我的父亲的智慧，我的母亲的舌头，帮助我！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-117">
+			一个孩子的可爱的祷告，非常佳妙而动人！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-119">
+				</span>
+				<span class="line" id="0-1-120">
+			要是她的脸色又红又白，
+					<a class="line" href="#0-1-120">120</a>
+				</span>
+				<span class="line" id="0-1-121">
+			　你永远不会发现她犯罪，
+				</span>
+				<span class="line" id="0-1-122">
+			因为白色表示惊恐惶迫，
+				</span>
+				<span class="line" id="0-1-123">
+			　绯红的胜表示羞耻惭愧；
+				</span>
+				<span class="line" id="0-1-124">
+			可是她倘然犯下了错误，
+				</span>
+				<span class="line" id="0-1-125">
+			　你不能从她的脸上看出，
+				</span>
+				<span class="line" id="0-1-126">
+			因为红的羞愧白的恐怖，
+				</span>
+				<span class="line" id="0-1-127">
+			　都是她天然生就的颜色。
+				</span>
+				<span class="line" id="0-1-128">
+			这几行诗句，主人，可以证明白和红是两种危险的颜色。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-130">
+			孩子，不是有一支谣曲歌咏着国王恋爱丐女的故事吗？
+					<a class="line" href="#0-1-130">130</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-132">
+			大概在三个世代以前，曾经流行着这么一支恶劣的谣曲；可是我想它现在已经失传了；即使还有人记得，也写不出来，而且不能歌唱的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-134">
+			我要把那题目重新写成一首诗，使它作为我的迷恋的一个有力的前例。孩子，我真的爱上了我在御苑里捉住的那个跟村夫考斯塔德在一起的乡下姑娘了；她应该有一个人好好地照顾她。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-136">
+					<i class="parenthetical">旁白</i>
+			好好地抽一顿鞭子；可是她应该有一个比我的主人更好的情郎。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-138">
+			唱吧，孩子；我的心灵因为爱情而沉重起来了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-140">
+			那是一件大大的奇事，因为您爱的是一个轻狂的女人。
+					<a class="line" href="#0-1-140">140</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-142">
+			我说，唱吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-144">
+			等这班人过去了再唱吧。
+				</span>
+			</p>
+			<p class="stagedir">德尔、考斯塔德及杰奎妮妲上。</p>
+			<p>
+				<b class="speaker">德尔</b>
+				<span class="line" id="0-1-147">
+			先生，王上的旨意，叫你把考斯塔德看守起来，不要叫他寻欢作乐也不要叫他忏悔，还要叫他每星期禁食三天。讲到这一位姑娘，我必须让她留在御苑里挤牛乳。再会！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-149">
+			我羞得满脸都红了。姑娘！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杰奎妮妲</b>
+				<span class="line" id="0-1-151">
+			汉子？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-153">
+			我要到你居住的地方来看你。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杰奎妮妲</b>
+				<span class="line" id="0-1-155">
+			那就在附近。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-157">
+			我知道它的所在。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杰奎妮妲</b>
+				<span class="line" id="0-1-159">
+			主啊，你是多么聪明！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-161">
+			我会给你讲海外奇闻。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杰奎妮妲</b>
+				<span class="line" id="0-1-163">
+			凭着你这一副嘴脸吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-165">
+			我爱你。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杰奎妮妲</b>
+				<span class="line" id="0-1-167">
+			我已经听见你说过了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-169">
+			再会！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杰奎妮妲</b>
+				<span class="line" id="0-1-171">
+			愿你平安！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">德尔</b>
+				<span class="line" id="0-1-173">
+			来，杰奎妮妲，去吧！
+					<i class="parenthetical">德尔及杰奎妮妲下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-175">
+			混蛋，你干了这样的坏事，非让你禁食不可。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="0-1-177">
+			呃，先生，我希望您让我在禁食以前先吃个饱。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-179">
+			我要把你重重惩罚一下。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="0-1-181">
+			多谢您的盛意，可是这帮下人却叫王上轻轻就打发走了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-183">
+			把这混蛋带下去，把他关起来。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-185">
+			来，你这胡作非为的奴才；去！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="0-1-187">
+			别把我关起来吧，先生。把我放了，我一定禁食。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-189">
+			既然放了，还能禁吗？快去坐牢吧！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="0-1-191">
+			好，要是我有一天恢复了自由，我要叫一些人看看——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="0-1-193">
+			叫一些人看看什么？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="0-1-195">
+			不，没有什么，毛子少爷；他们爱看什么就看什么。做了囚犯是不能一声不响的，所以，我还是不要多说什么才好。谢谢上帝我是个没有耐性的人，所以我会安安静静住在牢里。
+					<i class="parenthetical">毛子及考斯塔德下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="0-1-197">
+			我爱上了那被她穿在她的卑贱的鞋子里的更卑贱的脚所践踏的最卑贱的地面。要是我恋爱了，我将要破坏誓约，那就是说了一句虚伪的谎。虚伪的谎怎么可以换到真实的爱呢？爱情是一个魔鬼，是一个独一无二的罪恶的天使。可是参孙也曾被它引诱，他是个力气很大的人；所罗门也曾被它迷惑，他是个聪明无比的人。赫剌克勒斯的巨棍也敌不住丘匹德的箭镞，所以一个西班牙人的宝剑怎么能够对抗得了呢？不消一两个回合，我的剑法就要完全散乱了。什么直刺，什么横劈，在他看来都是不值一笑。他的耻辱是被人称为孩子；他的光荣却是征服成人。别了，勇气！锈了吧，宝剑！静下来，战鼓！因为你们的主人在恋爱了；是的，他在恋爱了。即景生情的诗神啊，帮助我！因为我相信我要写起十四行诗来了。想吧，智慧；写吧，笔！我有足够的诗情，可以写满几大卷的对开大本呢。
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+		</div>
+	</div>
+	<div class="act">
+		<h2>第二幕</h2>
+		<div class="scene">
+			<h3>第一场　那瓦王御苑。远处设大小帐幕 </h3>
+			<p class="stagedir">法国公主、罗瑟琳、玛利娅、凯瑟琳、鲍益、群臣及其他侍从等上。</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="1-0-3">
+			现在，公主，振起您的最宝贵的精神来吧；想想您的父王特意选择了一个什么人来充任他的使节，跟一个什么人接洽一件什么任务；他不派别人，却派他那为全世界所敬爱的女儿，您自己，来跟具备着一切人间完善的德性的、举世无双的那瓦国王进行谈判，而谈判的中心，又是适宜于作为一个女王的嫁奁的阿奎丹。造化不愿把才华丽色赋与庸庸碌碌的众人，却大量地把天地间所有的灵秀锺萃于您一身；您现在就该效法造化的大量，充分表现您的惊才绝艳。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="1-0-5">
+			好鲍益大人，我的美貌虽然卑不足道，却也不需要你的谀辞的渲染；美貌是凭着眼睛判断的，不是贾人的利口所能任意抑扬。你这样搬弄你的智慧把我恭维，无非希望人家称赞你口齿伶俐；可是我听了你这一番褒美，却一点不觉得可以骄傲。现在我也要请你干一件事：好鲍益，你不会不知道，远近的人们都在议论纷纷，说那瓦王已经立下誓言，要在这三年之内发愤读书，不让一个女人走近他的静肃的宫廷；所以我们在没有进入他的禁门以前，似乎应该先去探问他的意旨；我相信你的才干可以胜任这一项使命，所以选择你做我的代言人，向他陈述我们的来意，告诉他法兰西国王的女儿有重要的事情希望得到迅速的解决，要求和他当面接洽。快去对他这样说了；我们就像一群谦卑的请愿人一般，等候着他的庄严的谕示。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="1-0-7">
+			得到这样的委任是我的莫大的荣幸，敢不踊跃拜命。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="1-0-9">
+			果真引以为荣，自然乐于从事，你正是这样。
+					<i class="parenthetical">鲍益下</i>
+			各位爱卿，你们知道哪几个人是和这位贤德的国王一同立誓守戒的信徒？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">臣甲</b>
+				<span class="line" id="1-0-11">
+			朗格维勋爵是其中的一个。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="1-0-13">
+			你认识这个人吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">玛利娅</b>
+				<span class="line" id="1-0-15">
+			我认识他，公主。当配力各特勋爵和杰奎斯·福康勃立琪的美丽的息女在诺曼第举行婚礼的时候，我在宴会上见过这位朗格维。他是一个公认为才能出众的人，文学固然是他的擅长，武艺方面也十分了得。在他心怀善意的时候，言谈举止无可指摘。要是美德的光彩可以蒙上污点的话，那么他的唯一的缺点是一副尖刻的机智配上一个太直率的意志：他的机智能够出口伤人，他的意志使他一往直前，不为他人留一点余地。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="1-0-17">
+			听起来是一位善于戏谑的贵人，是不是？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">玛利娅</b>
+				<span class="line" id="1-0-19">
+			最熟悉他脾气的人都这样说他。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="1-0-21">
+			这种浮华之士往往是不成大器的。还有些什么人？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">凯瑟琳</b>
+				<span class="line" id="1-0-23">
+			年少的杜曼，一个才华出众的青年，受到一切敬爱美德的人们的爱戴；最具有伤人的能力，却又最不怀恶心。他的智慧可以使一个形貌丑陋的人容光焕发，可是即使他没有智慧，他的堂堂的仪表也可以博取别人的爱悦。我在阿朗松公爵的府中见过他一次；我对于他的伟大的品格的赞美，实在不能道出我在他身上所看到的美德于万一。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="1-0-25">
+			要是我所听到的话并不虚假，那时候在阿朗松公爵那儿，还有一个他们的同学也跟他在一起；他们叫他做俾隆；在我所交谈过的人们中间，从来不曾有一个比他更会说笑的人，能够雅谑而不流于鄙俗。他的眼睛一看到什么事情，他的机智就会把它编成一段有趣的笑话，他的善于抒述种种奇思妙想的舌头，会用那样灵巧而隽永的字句把它表达出来，使老年人听了娓娓忘倦，少年人听了手舞足蹈；他的口才是这样敏捷而巧妙。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="1-0-27">
+			上帝祝福我的姑娘们！她们都在恋爱了吗？怎么每一个人都用这种侈张的夸饰赞赏她自己中意的人？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">臣甲</b>
+				<span class="line" id="1-0-29">
+			鲍益来了。
+				</span>
+			</p>
+			<p class="stagedir">鲍益重上。</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="1-0-32">
+			国王怎样招待你的，鲍益？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="1-0-34">
+			那瓦王已经知道您到来的消息；我还没有见他以前，他跟他那班一同立誓的学侣们已经准备来迎接您了。我听他的口气是这样的：他宁愿把您安顿在郊野里，就像你们是来围攻他的宫廷的一支军队一般，而不愿违反他的誓言，让您走进他的无人侍候的屋子。那瓦王来了。
+					<i class="parenthetical">众女戴脸罩。</i>
+				</span>
+			</p>
+			<p class="stagedir">国王、朗格维、杜曼、俾隆及侍从等上。</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="1-0-37">
+			美貌的公主，欢迎你光临那瓦的宫廷。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="1-0-39">
+			我把“美貌”两字璧还陛下；至于说到“欢迎”，那么我还没有实受其惠。这?楦叩奶煊畈皇悄??芩接械模?饬衫?慕家耙膊皇钦写?蟊龅乃?凇
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="1-0-41">
+			公主，我们少不得有一天要请你到我们宫廷里屈驾一游。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="1-0-43">
+			那么我现在就接受您的邀请，请引我前往。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="1-0-45">
+			听我说，亲爱的公主，我曾经立下重誓。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="1-0-47">
+			圣母保佑陛下！您有一天会毁誓的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="1-0-49">
+			凭着我的意志起誓，公主，我决不毁誓。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="1-0-51">
+			是啊，意志，也只有意志，能使您毁誓。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="1-0-53">
+			公主，你不知道我发下的是个什么誓。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="1-0-55">
+			要是陛下也不知道您自己所发的誓，那倒是陛下的聪明，因为知道这样的誓，反而是一种愚昧。我听说陛下已经发誓不理家政；谨守那样一个无聊的誓，真是一桩极大的罪恶，虽然毁弃它也同样是一桩罪恶。可是恕我吧，我太放肆了，我不该向一个教师训诲。请您读一读我此来的目的，迅速赐给我一个答复。
+					<i class="parenthetical">以文件授国王。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="1-0-57">
+			公主，我愿意尽快答复你的赐教。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="1-0-59">
+			您更愿意的还是早一点把我打发走，因为要是您让我羁留在贵国，就等于把您的誓言毁弃了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="1-0-61">
+			我不是有一次在勃拉旁跟您跳过舞吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="1-0-63">
+			我不是有一次在勃拉旁跟您跳过舞吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="1-0-65">
+			我知道您跟我跳过舞的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="1-0-67">
+			既然知道，何必多问！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="1-0-69">
+			您不要这样火辣辣的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="1-0-71">
+			谁叫你用这种问题引起我的火性来？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="1-0-73">
+			您的舌头就像一匹快马，奔得太快会把力气都奔完的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="1-0-75">
+			它不到把骑马的人掀下在泥潭里，是不会止步的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="1-0-77">
+			现在是什么时候了？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="1-0-79">
+			现在是傻瓜们向别人发问的时候。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="1-0-81">
+			愿幸运降在您的脸罩上！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="1-0-83">
+			愿脸罩下的脸能走运！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="1-0-85">
+			并且给您带来许多恋人！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="1-0-87">
+			阿门，但愿您不是其中之一。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="1-0-89">
+			嗳哟，那么我要走了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="1-0-91">
+			公主，令尊在这封信上说起他已经付了我们十万克郎，那只是先父在日贵国所欠我们的战债的半数。这笔款子先父和我都从未收到；即使果有此事，那么也还有十万克郎的欠款没有清还。当初贵国同意把阿奎丹的一部分抵押给我们，作为这一笔欠款的保证，虽然拿土地的价值说起来，实在抵不上这一个数目。现在你的父王只要愿意把那未清偿的半数还给我们，我们也愿意放弃我们在阿奎丹的权利，和他永结盟好。可是他似乎一点没有这种意思，因为在这信上，他单单提出要我们偿还已经付出的十万克郎这一点，却绝口不谈清付十万克郎余欠，以便收复他对阿奎丹的权利的问题。其实我们只要收回先父在日出借的债款，对于阿奎丹这一块瘦瘠不毛的地方，倒是很乐于割舍的。亲爱的公主，倘不是令尊的要求太不近情理，这次蒙你芳踪?止，我一定不会让你失望而归。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="1-0-93">
+			家君从来没有愆约背信，不履行他的偿债的义务；陛下否认收到这一笔偿款，不但诬蔑家君，而且有失一国元首的器度；我不能不为陛下的名誉惋惜。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="1-0-95">
+			我郑重声明对于这一笔债款的归还未有所闻；你要是能够证明此事属实，我愿意把它全数奉还贵国，或者把阿奎丹交出。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="1-0-97">
+			敬遵台命。鲍益，你去把那些曾经他的父王查理手下的专任大员签署，上面载明着这么一笔数目的收据找出来。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="1-0-99">
+			给我看。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="1-0-101">
+			启禀陛下，这一类有关文件的包裹还没有送到；明天一定可以请您过目。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="1-0-103">
+			那很好；只要证据确凿，任何合理的要求我都可以允从。现在请你接受在不毁弃盟誓的条件下我的荣誉所能给予你崇高地位的一切礼遇吧。虽然你不能走进我的宫门，美貌的公主，我一定尽力使你在这儿大自然的怀抱之中感到宾至如归的愉快；你将要觉得虽然我这样靳惜着自己的屋宇，可是你已经栖息在我的心灵的深处了。一切失礼之处，请你加以善意的原谅。再会；明天早上我们一定再来奉访。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="1-0-105">
+			愿陛下政躬康健，所愿皆偿！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="1-0-107">
+			我也愿意为你作同样的祝祷！
+					<i class="parenthetical">国王及侍从下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="1-0-109">
+			姑娘，我要把您放在我的心坎里温存。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="1-0-111">
+			那么请您把我放进去吧，我倒要看看您的心是怎样的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="1-0-113">
+			我希望您听见它的呻吟。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="1-0-115">
+			这傻瓜害病了吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="1-0-117">
+			害的是心病。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="1-0-119">
+			唉！替它放放血吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="1-0-121">
+			放血可以把它医治吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="1-0-123">
+			我的医药知识说是可以的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="1-0-125">
+			您愿意用您的眼睛刺我的心出血吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="1-0-127">
+			我的眼睛太钝，用我的刀吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="1-0-129">
+			嗳哟，上帝保佑你不要死于非命！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="1-0-131">
+			上帝保佑你早日归阴！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="1-0-133">
+			我不能呆在这儿答谢你的祷告。
+					<i class="parenthetical">退后。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="1-0-135">
+			先生，请问您一句话，那位姑娘是什么人？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="1-0-137">
+			阿朗松的息女，凯瑟琳是她的名字。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="1-0-139">
+			一位漂亮的姑娘！先生，再会！
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="1-0-141">
+			请教那位白衣的姑娘是什么人？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="1-0-143">
+			您在光天化日之下，可以看清楚她是一个女人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="1-0-145">
+			要是看清楚了，多半很轻佻。请问她的名字？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="1-0-147">
+			她只有一个名字，您不能问她要。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="1-0-149">
+			先生，请问她是谁的女儿？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="1-0-151">
+			我听说是她母亲的女儿。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">劳朗格维</b>
+				<span class="line" id="1-0-153">
+			上帝祝福您的胡子！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="1-0-155">
+			好先生，别生气。她是福康勃立琪家的女儿。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="1-0-157">
+			我现在不生气了。她是一位最可爱的姑娘。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="1-0-159">
+			也许是的，先生；或者是这样。
+					<i class="parenthetical">朗格维下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="1-0-161">
+			那位戴帽子的女人叫什么名字？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="1-0-163">
+			巧得很，她叫罗瑟琳。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="1-0-165">
+			她结过婚没有？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="1-0-167">
+			她只能说是守定了她自己的意志，先生。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="1-0-169">
+			欢迎，先生。再会！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="1-0-171">
+			彼此彼此。
+					<i class="parenthetical">俾隆下；众女去脸罩。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">玛利娅</b>
+				<span class="line" id="1-0-173">
+			最后的一个就是俾隆，那爱开玩笑的贵人；他的每一句话都是一个笑话。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="1-0-175">
+			每一个笑话不过是一句话。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="1-0-177">
+			你能和他对答如流，不相上下，本领不小。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="1-0-179">
+			他一心想登船接战，我同样想靠拢杀敌。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">玛利娅</b>
+				<span class="line" id="1-0-181">
+			不像两艘船，倒像两头疯羊。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="1-0-183">
+			为什么不像船？我看倒是不像羊，除非把您的嘴唇当作我们的芳草，可爱的羔羊小姐！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">玛利娅</b>
+				<span class="line" id="1-0-185">
+			您算羊，我算牧场；笑话总算了结了吧？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="1-0-187">
+			那么请让我到牧场上来寻食吧。
+					<i class="parenthetical">欲吻玛利娅。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">玛利娅</b>
+				<span class="line" id="1-0-189">
+			不行，好牲口，我的嘴唇虽说不止一片，却不是公地。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="1-0-191">
+			它们属于谁呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">玛利娅</b>
+				<span class="line" id="1-0-193">
+			属于我的命运和我自己。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="1-0-195">
+			你们老是爱斗嘴，大家不要闹了。这种舌剑唇枪，不应该在自己人面前耍弄，还是用来对付那瓦王和他的同学们吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="1-0-197">
+			我这一双眼睛可以看出别人心里的秘密，难得有时错误；要是这一回我的观察没有把我欺骗，那么那瓦王是染上病了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="1-0-199">
+			染上什么病？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="1-0-201">
+			他染上的是我们情人们所说的相思病。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="1-0-203">
+			何以见得？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="1-0-205">
+			他的一切行为都集中于他的眼睛，透露出不可遏抑的热情；他的心像一颗刻着你的小像的玛瑙，在他的眼里闪耀着骄傲；他急躁的嘴由于不能看，只能说，想平分眼睛的享受，反而张口结舌。一切感觉都奔赴他的眼底，争看那绝世无双的秀丽。仿佛他眼睛里锁藏着整个的灵魂，正像玻璃柜内陈列着珠翠缤纷，放射它们晶莹夺目的光彩，招引过路的行人购买。他脸上写满着无限的惊奇，谁都看得出他意夺神移。我可以给你阿奎丹和他所有的一切，只要你为了我的缘故吻一吻他的脸。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="1-0-207">
+			到我的帐里来；鲍益又在装疯卖傻了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="1-0-209">
+			我不过把他的眼睛里所透露的意思用话表示出来。我使他的眼睛变成一张嘴，再替他安上一条不会说谎的舌头。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="1-0-211">
+			你是一个恋爱场中的老手，真会说话。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">玛利娅</b>
+				<span class="line" id="1-0-213">
+			他是丘匹德的外公，他的消息都是丘匹德告诉他的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="1-0-215">
+			那么维纳斯一定像她的母亲，因为她的父亲是很丑的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="1-0-217">
+			你们听见吗，我的疯丫头们？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">玛利娅</b>
+				<span class="line" id="1-0-219">
+			没听见。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="1-0-221">
+			那么你们看见些什么没有？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="1-0-223">
+			嗯，看见我们回去的路。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="1-0-225">
+			我真拿你们没有办法。
+					<i class="parenthetical">同下。</i>
+				</span>
+			</p>
+		</div>
+	</div>
+	<div class="act">
+		<h2>第三幕</h2>
+		<div class="scene">
+			<h3>第一场　那瓦王御苑 </h3>
+			<p class="stagedir">亚马多及毛子上。</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="2-0-3">
+			唱吧，孩子，使我的听觉充满热情。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="2-0-5">
+			
+					<i class="parenthetical">唱</i>
+			
+				</span>
+				<span class="line" id="2-0-6">
+			康考里耐尔——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="2-0-8">
+			这调子真美！去，稚嫩的青春；拿了这钥匙去，把那乡下人放了，快快带他到这儿来；我必须叫他替我送一封信去给我的爱人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="2-0-10">
+			主人，您愿意用法国式的喧哗得到您的爱人的欢心吗？
+					<a class="line" href="#2-0-10">10</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="2-0-12">
+			你是什么意思？用法国话吵架吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="2-0-14">
+			不，我的好主人；我的意思是说，从舌尖上溜出一支歌来，用您的脚和着它跳舞，翻起您的眼皮，唱一个音符叹息一个音符；有时候从您的喉咙里滚出来，好像您一边歌唱爱情，一边要把它吞下去似的；有时候从您的鼻孔里哼出来，好像您在嗅寻爱情的踪迹，要把它吸进去似的；您的帽檐斜罩住您的眼睛；您的手臂交叉在您的胸前，像一头炙叉上的兔子；或者把您的手插在口袋里，就像古画上的人像一般；也不要老是唱着一支曲子，唱几句就要换个曲子。这是台型，这是功架，可以诱动好姑娘们的心，虽然没有这些她们也会被人诱动；而且——请听众先生们注意——这还可以使那些最擅长于这个调调儿的人成为一世的红人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="2-0-16">
+			你这种经验是怎么得来的？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="2-0-18">
+			这是我一点一点观察得来的结果。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="2-0-20">
+			不过唉，不过唉，——
+					<a class="line" href="#2-0-20">20</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="2-0-22">
+			柳条马给忘掉了
+					<i class="parenthetical">③</i>
+				</span>
+				<span class="line" id="2-0-23">
+			。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="2-0-25">
+			怎么？你把我的爱人叫柳条马吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="2-0-27">
+			岂敢，主人。柳条马只能叫孩子骑着玩，——您的爱人却是谁都能骑的壮母马。可是您忘记您的爱人了吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="2-0-29">
+			我几乎忘了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="2-0-31">
+			健忘的学生！把她记住在您的心头。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="2-0-33">
+			她不但在我的心头，而且在我的心坎里，孩子。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="2-0-35">
+			而且还在您的心儿外面，主人；这三句话我都可以证明。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="2-0-37">
+			证明什么？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="2-0-39">
+			证明我是个男子汉，要是我能长大成人的话。至于说心头、心里和心外，可以即时作证：您在心头爱着她，因为您的心得不到她的爱；您在心里爱着她，因为她已经占据了您的心；您在心儿外面爱着她，因为您已经为她失去您的心。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="2-0-41">
+			这三样我果然都有。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="2-0-43">
+			再加上三样。也还是个不折不扣的大零。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="2-0-45">
+			把那乡下人带来；他必须替我送一封信。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="2-0-47">
+			好得很，马儿替驴子送信。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="2-0-49">
+			嘿，嘿！你说什么？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="2-0-51">
+			呃，主人，您该叫那驴子骑了马去，因为他走得太慢啦。我去了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="2-0-53">
+			路是很近的；快去！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="2-0-55">
+			像铅一般快，主人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="2-0-57">
+			什么意思，小精灵鬼儿？铅不是一种很沉重迟钝的金属吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="2-0-59">
+			非也，我的好主人；也就是说，不，主人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="2-0-61">
+			我说，铅是迟钝的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="2-0-63">
+			主人，您这结论下得太快了；从炮口里放出来的铅丸，难道还算慢吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="2-0-65">
+			好巧妙的辞锋！他把我说成了一尊大炮；他自己是弹丸；好，我就把你向那乡下人轰了过去。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="2-0-67">
+			那么您开炮吧，我飞出去了。
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="2-0-69">
+			一个乖巧的小子，又活泼又伶俐！对不起，亲爱的苍天，我要把我的叹息呵在你的脸上了。最粗暴的忧郁，勇敢见了你也要远远退避。我的使者回来了。
+				</span>
+			</p>
+			<p class="stagedir">毛子率考斯塔德重上。</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="2-0-72">
+			怪事，主人！这位“脑袋”
+					<i class="parenthetical">④</i>
+				</span>
+				<span class="line" id="2-0-73">
+			把腿给摔坏了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="2-0-75">
+			真是疑团，真是谜语：好，来个说明，讲吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="2-0-77">
+			什么疑团、谜语、说明，装包的膏药我都用不着，先生。啊，先生，敷上个车前草叶子就成了！不要说明，不要说明！也不要膏药，先生，我就要车前草！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="2-0-79">
+			凭我的德行起誓，你真逼得我不能不笑啦；你的愚蠢激动了我的肝火；我两肺的抽搐使我破例开颜。宽恕我吧，我的本命星！难道凡夫俗子把膏药当说明，把“说明”这个名词当作一种膏药吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="2-0-81">
+			智者贤人又何尝不然？在说明里，不是也要这样、要那样吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="2-0-83">
+			不，童子。“说明”乃是曲终奏雅的方式，阐述前文令人费解的言词。让我举例以明之：
+				</span>
+				<span class="line" id="2-0-84">
+			　　狐狸、猿猴与蜜蜂，
+				</span>
+				<span class="line" id="2-0-85">
+			　　三人吵闹不成双。
+				</span>
+				<span class="line" id="2-0-86">
+			这是正文，你再听说明。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="2-0-88">
+			我可以加上说明。你把正文再念一遍。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="2-0-90">
+			狐狸、猿猴与蜜蜂，
+					<a class="line" href="#2-0-90">90</a>
+				</span>
+				<span class="line" id="2-0-91">
+			三人吵闹不成双。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="2-0-93">
+			出来一个大呆鹅，
+				</span>
+				<span class="line" id="2-0-94">
+			三加为四讲了和。
+				</span>
+				<span class="line" id="2-0-95">
+			好，现在我念正文，你随后念说明：
+				</span>
+				<span class="line" id="2-0-96">
+			　　狐狸、猿猴与蜜蜂，
+				</span>
+				<span class="line" id="2-0-97">
+			　　三人吵闹不成双。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="2-0-99">
+			出来一个大呆鹅，
+				</span>
+				<span class="line" id="2-0-100">
+			三加为四讲了和。
+					<a class="line" href="#2-0-100">100</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="2-0-102">
+			这说明很好，最后叫呆鹅出场。难道你还不满意吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="2-0-104">
+			这孩子可叫他上当了，搞出个呆鹅来，真不错。先生，你的鹅要是肥，这买卖还作得过。会要价钱的人作生意准不吃亏，让我看：“说明”不瘦，鹅也挺肥。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="2-0-106">
+			别扯了，别扯了。这议论是怎么起的？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="2-0-108">
+			因为说起脑袋把腿摔坏了；接着你就要求说明。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="2-0-110">
+			是啊，我就要求车前草。然后你的议论又来了，这孩子又搞出个老肥的“说明”，就是你买的那只鹅；这一来，市场上货色就都全了。
+					<a class="line" href="#2-0-110">110</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="2-0-112">
+			不过你还得给我讲讲，脑袋怎么会把腿摔坏了？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="2-0-114">
+			我一定给你讲得津津有味。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="2-0-116">
+			你不知道这滋味，毛子。这“说明”还是让我来吧：
+				</span>
+				<span class="line" id="2-0-117">
+			我，脑袋，不甘心坐守囚屋，
+				</span>
+				<span class="line" id="2-0-118">
+			往外跑，绊一交，跌断腿骨。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="2-0-120">
+			这件事就不必再谈了。
+					<a class="line" href="#2-0-120">120</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="2-0-122">
+			可是先得我的腿没事才行。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="2-0-124">
+			考斯塔德，我要宽释你。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="2-0-126">
+			咳，还不是把我配给一个臭花娘——这话里有几分说明，有几分呆鹅的味道。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="2-0-128">
+			拿我美好的灵魂起誓，我是说使你解除桎梏，获得自由；你原来是被囚、被禁、被捕、被缚。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="2-0-130">
+			不错，不错，现在你打算把我吐出来、放出来。
+					<a class="line" href="#2-0-130">130</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="2-0-132">
+			我要恢复你的自由，免除你的禁锢；我只要你替我干这一件事。
+					<i class="parenthetical">以信授考斯塔德</i>
+			把这封书简送给那村姑娘杰奎妮妲。
+					<i class="parenthetical">以钱授考斯塔德</i>
+			这是给你的酬劳；因为对底下人赏罚分明，是我的名誉的最大的保障。毛子，跟我来。
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="2-0-134">
+			人家说狗尾续貂，我就像狗尾之貂。考斯塔德先生，再会！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="2-0-136">
+			我的小心肝肉儿！我的可爱的小犹太人！
+					<i class="parenthetical">毛子下</i>
+			现在我要看看他的酬劳。酬劳！啊！原来在他们读书人嘴里，三个铜子就叫做酬劳。“这条带子什么价钱？”“一便士。”“不，一个酬劳卖不实？”啊，好得很！酬劳！这是一个比法国的克郎更好的名称。我再也不把这两个字转卖给别人。
+				</span>
+			</p>
+			<p class="stagedir">俾隆上。</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="2-0-139">
+			啊！我的好小子考斯塔德，咱们碰见得巧极了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="2-0-141">
+			请问先生，一个酬劳可以买多少淡红色的丝带？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="2-0-143">
+			怎么叫一个酬劳？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="2-0-145">
+			呃，先生，一个酬劳就是三个铜子。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="2-0-147">
+			那么你就可以买到值三个铜子的丝带了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="2-0-149">
+			谢谢您。上帝和您在一起！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="2-0-151">
+			不要走，家伙；我要差你干一件事。你要是希望得到我的恩宠，我的好小子，那么答应我这一个请托吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="2-0-153">
+			您要我在什么时候干这件事，先生？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="2-0-155">
+			哦，今天下午。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="2-0-157">
+			好，我一定给您办到，先生。再会！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="2-0-159">
+			啊，你还没有知道是件什么事哩。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="2-0-161">
+			等我把它办好以后，先生，我就会知道是件什么事。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="2-0-163">
+			嗨，混蛋，你该先知道了以后才去办呀。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="2-0-165">
+			那么我明儿早上来看您。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="2-0-167">
+			这事情必须在今天下午办好。听着，家伙，很简单的一回事：公主就要到这儿御苑里来打猎，她有一位随身侍从的贵女，粗俗的舌头不敢轻易提起她的名字，他们称她为罗瑟琳；你问清楚了哪一个是她，就把这一通密封的书信交在她的洁白的手里。
+					<i class="parenthetical">以一先令授考斯塔德</i>
+			这是给你的犒赏；去。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="2-0-169">
+			犒赏，啊，可爱的犒赏！比酬劳好得多啦；多了足足十一便士外加一个铜子。最可爱的犒赏！我一定给您送去，先生，决不有错。犒赏！酬劳！
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="2-0-171">
+			而我——确确实实，我是在恋爱了！我曾经鞭责爱情；我是抽打相思的鞭子手；我把刻毒的讥刺加在那个比一切人类都更傲慢的孩子的身上，像一个守夜的警吏一般监视他的行动，像一个厉害的塾师一般呵斥他的错误！这个盲目的、哭笑无常的、淘气的孩子，这个年少的老爷，矮小的巨人，丘匹德先生；掌管一切恋爱的诗句，交叉的手臂，叹息、呻吟、一切无聊的踯躅和怨尤的无上君主，受到天下痴男怨女敬畏的大王，统领忙于处理通奸案件的衙役们的唯一将帅；啊，我怯弱的心灵，难道我倒要在他的战场上充当一名班长，把他的标帜带满在身上，活像卖艺人耍的套圈！什么，我恋爱！我追求！我找寻妻子！一个像德国时钟似的女人，永远要修理，永远出毛病，永远走不准，除非受到严密注视，才能循规蹈矩！嘿，最不该的是叛弃了誓约，而且在三个之中，偏偏爱上了最坏的一个。一个白脸盘细眉毛的风骚女人，脸上嵌着两枚煤球作为眼睛；凭上天起誓，即使百眼的怪物阿耳戈斯把她终日监视，她也会什么都干得出来。我却要为她叹息！为她整夜不睡！为她祷告神明！罢了，这是丘匹德给我的惩罚，因为我藐视了他的全能而可怖的小小的威力。好吧，我要恋爱、写诗、叹息、祷告、追求和呻吟；谁都有他心爱的姑娘，我的爱人也该有痴心的情郎。
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+		</div>
+	</div>
+	<div class="act">
+		<h2>第四幕</h2>
+		<div class="scene">
+			<h3>第一场　那瓦王御苑 </h3>
+			<p class="stagedir">公主、罗瑟琳、玛利娅、凯瑟琳、鲍益、群臣、侍从及一管林人上。</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="3-0-3">
+			那向着峻峭的山崖加鞭疾驰的，不就是国王吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="3-0-5">
+			我不知道；可是我想那不是他。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="3-0-7">
+			不管他是谁，瞧上去倒是很雄心勃勃似的。好，各位贤卿，今天我们的文件就可以到；星期六就可以回法国去了。管林子的朋友，你说我们应该到哪一丛树木里去杀害生灵？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">管林人</b>
+				<span class="line" id="3-0-9">
+			您只要站在那一簇小树林边搭起的台上，准可以百发百中。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="3-0-11">
+			人家说，美人有沉鱼落雁之容；我只要用美目的利箭射了出去，无论什么飞禽走兽都会应弦而倒。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">管林人</b>
+				<span class="line" id="3-0-13">
+			恕我，公主，我不是这个意思。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="3-0-15">
+			什么，什么？你不愿恭维我吗？啊，一瞬间的骄傲！我不美吗？唉！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">管林人</b>
+				<span class="line" id="3-0-17">
+			不，公主，您美。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="3-0-19">
+			不，现在你不用把我装点了；不美的人，怎样的赞美都不能使她变得好看一点的。这儿，我的好镜子；
+					<i class="parenthetical">以钱给管林人</i>
+			给你这些钱，因为你不说谎，骂了人反得厚赐，这是分外的重赏。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">管林人</b>
+				<span class="line" id="3-0-21">
+			您所有的一切都是美好的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="3-0-23">
+			瞧，瞧！只要行了好事，就可以保全美貌。啊，不可靠的美貌！正像这些覆雨翻云的时世；多花几个钱，丑女也会变成无双的姝丽。可是拿弓来；现在我们要不顾慈悲，杀生害命，显一显我们射猎的本领；要是射而不中，我可以饰词自辩，因为心怀不忍，才故意网开一面；要是射中了，那不是存心杀害，唯一的目的无非博取一声喝采。人世间的煊赫光荣，往往产生在罪恶之中，为了身外的浮名，牺牲自己的良心；正像如今我去杀害一头可怜的麋鹿，只为了他人的赞美，并不为自己的怨毒。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="3-0-25">
+			凶悍的妻子拚命压制她们的丈夫，不也就是为了博得人们的赞美吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="3-0-27">
+			正是，无论哪一位太太，能够压倒她的老爷，总是值得赞美的。
+				</span>
+			</p>
+			<p class="stagedir">考斯塔德上。</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="3-0-30">
+			来了一个老百姓。
+					<a class="line" href="#3-0-30">30</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="3-0-32">
+			列位好！请问这儿哪一位是头儿脑儿的小姐？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="3-0-34">
+			朋友，你只要看别人都是没有头颅脑袋的，就知道哪一个是她了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="3-0-36">
+			哪一位小姐是顶大的顶高的？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="3-0-38">
+			她就是顶胖的顶长的一个。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="3-0-40">
+			顶胖的，顶长的！对了，一点没有错儿。小姐，要是您的腰身跟我的心眼儿一样细，您就可以套得上这几位小姐们的腰带。您不是她们的首领吗？您在这儿是顶胖的一个。
+					<a class="line" href="#3-0-40">40</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="3-0-42">
+			你有什么见教，先生？你有什么见教？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="3-0-44">
+			俾隆先生叫我带封信来，给一位叫做罗瑟琳的小姐。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="3-0-46">
+			啊！你的信呢？你的信呢？他是我的一个好朋友。站在一旁，好信差。鲍益，你会切肉的，把这块鸡切一切吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="3-0-48">
+			遵命。这封信送错了；它跟这儿每个人都没有关系；它是写给杰奎妮妲的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="3-0-50">
+			我们也要读它一下。把封蜡打开了，大家听着。
+					<a class="line" href="#3-0-50">50</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="3-0-52">
+					<i class="parenthetical">读</i>
+			“凭着上天起誓，你是美貌的，这是一个绝无错误的事实；真的，你是娇艳的；真实的本身，你是可爱的。比美貌更美貌，比娇艳更娇艳，比真实更真实的，怜悯你的英雄的奴隶吧！慷慨知名的科菲多亚王看中了下贱污秽的丐女齐妮罗芳⑤，他可以说，余来，余见，余胜
+					<i class="parenthetical">⑥</i>
+				</span>
+				<span class="line" id="3-0-53">
+			；用俗语把它分析——啊，下流而卑劣的俗语！——即为，他来了，他看见，他战胜。他来了，一；看见，二；战胜，三；谁来了？国王。他为什么来？因为要看见。他为什么看？因为要战胜。他到谁的地方来？到丐女的地方。他看见什么？丐女。他战胜谁？丐女。结果是胜利。谁的胜利？国王的胜利。俘虏因此而富有了。谁富有了？丐女富有了。收场是结婚。谁结婚？国王结婚；不，两人合而为一，一人化而为二。我就是国王，因为在比喻上是这样的；你就是丐女，你的卑贱可以证明。我应该命令你爱我吗？我可以。我应该强迫你爱我吗？我能够。我应该请求你爱我吗？我愿意。你的褴褛将要换到什么？锦衣。你的灰尘将要换到什么？富贵。你自己将要换到什么？我。我让你的脚玷污我的嘴唇，让你的小像玷污我的眼睛，让你的每一部分玷污我的心，等候着你的答复。你的最忠实的唐·阿德里安诺·德·亚马多。”
+				</span>
+				<span class="line" id="3-0-54">
+			　你听那雄狮咆哮的怒响，
+				</span>
+				<span class="line" id="3-0-55">
+			　　你已是他爪牙下的羔羊；
+				</span>
+				<span class="line" id="3-0-56">
+			　俯伏在他足前不要反抗，
+				</span>
+				<span class="line" id="3-0-57">
+			　　他不会把你的生命损伤；
+				</span>
+				<span class="line" id="3-0-58">
+			　倘然妄图挣扎，那便怎样？
+				</span>
+				<span class="line" id="3-0-59">
+			　　免不了充他饥腹的食粮。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="3-0-61">
+			写这信的是一片什么羽毛，一个什么三心二意的人？你们有没有听见过比这更妙的文章？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="3-0-63">
+			这文章的风格，我记得好像看见过的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="3-0-65">
+			读过了这样的文章还会忘记，那你的记性真是太坏了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="3-0-67">
+			这亚马多是这儿宫廷里豢养着的一个西班牙人；他是一个荒唐古怪的家伙，一个疯子，常常用他的奇腔异调逗国王和他的同学们发笑。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="3-0-69">
+			喂，家伙，我问你一句话。谁给你这封信？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="3-0-71">
+			我早对您说过了，是一位大人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="3-0-73">
+			他叫你把信送给谁的？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="3-0-75">
+			从一位大人送给一位小姐。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="3-0-77">
+			从哪一位大人送给哪一位小姐？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="3-0-79">
+			从俾隆大人，我的一位很好的大爷，送给一位法国的小姐，他说她名叫罗瑟琳。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="3-0-81">
+			你把他的信送错了。来！各位贤卿，我们走吧。好人儿，把这信收起来；将来有一天也会轮到你的。
+					<i class="parenthetical">公主及侍从下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="3-0-83">
+			追你的是谁？是谁？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="3-0-85">
+			要不要我告诉你？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="3-0-87">
+			请，我绝色的美人儿。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="3-0-89">
+			那位拿弓的女郎便是。这可把你的嘴堵住啦！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="3-0-91">
+			公主拿弓是要害鹿；你若一旦结了婚，准得害得你的丈夫戴上几打绿头巾。这可叫你开窍了！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="3-0-93">
+			好吧，那么我拿弓来追。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="3-0-95">
+			可是谁作你的鹿？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="3-0-97">
+			如果要选脑袋绿的，就请你屈尊让步。这才叫真开窍呢！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">玛利娅</b>
+				<span class="line" id="3-0-99">
+			你别和她纠缠，鲍益，她惯会迎头痛击。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="3-0-101">
+			如果还手，她喊痛的地方比头可要低。这下子打着她了吧？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="3-0-103">
+			说起“打着”，当年法兰西国王培平还是个孩子的时候，就流行着一句俗语，让我奉送给你好吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="3-0-105">
+			当年英格兰王后姬尼佛还是个小姑娘的时候，流行着另一句俗语，我就把它奉还给你吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="3-0-107">
+				</span>
+				<span class="line" id="3-0-108">
+			管保你打不着，打不着，打不着，
+				</span>
+				<span class="line" id="3-0-109">
+			管保你打不着，我的好先生。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="3-0-111">
+				</span>
+				<span class="line" id="3-0-112">
+			就算我打不着，打不着，打不着，
+				</span>
+				<span class="line" id="3-0-113">
+			就算我打不着，还有别人。
+					<i class="parenthetical">罗瑟琳及凯瑟琳下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="3-0-115">
+			说实话，真有趣儿；双方兴致都很高。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">玛利娅</b>
+				<span class="line" id="3-0-117">
+			既不偏，也不倚，两人全打个正着。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="3-0-119">
+			要说打，就说打，我请姑娘瞧一瞧。靶上如果安红心，放射就能有目标。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">玛利娅</b>
+				<span class="line" id="3-0-121">
+			离开足有八丈远！你的手段实在差。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="3-0-123">
+			的确他得站近点儿，不然没法射中靶。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="3-0-125">
+			如果我的手段差，也许你的手段强。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="3-0-127">
+			她要是占了上风，大伙儿就全得缴枪。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">玛利娅</b>
+				<span class="line" id="3-0-129">
+			得了，得了，别耍贫。字眼儿太脏，不像话。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="3-0-131">
+			射箭你射不过她；先生，跟她滚球吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="3-0-133">
+			我滚起来也没劲。晚安，我的猫头鹰。
+					<i class="parenthetical">鲍益及玛利娅下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="3-0-135">
+			凭我的灵魂起誓，他口齿倒满伶俐。上帝！我和姑娘们说得他一败涂地；真逗乐，真有趣，既不雅来也不俗；你一句，我一句，有点荤味有点粗。亚马多，站一边，唉呀，真像个英雄，替姑娘拿着扇子，走在前面作先锋！又弯腰，又吻手，嘴里一串新字眼儿！旁边还有那娃娃，一个淘气的机灵鬼儿！老天在上，个儿不大，可是十分有心眼儿。
+					<i class="parenthetical">内打猎喊声</i>
+			索拉，索拉！
+					<i class="parenthetical">跑下。</i>
+				</span>
+			</p>
+		</div>
+		<div class="scene">
+			<h3>第二场　同　前 </h3>
+			<p class="stagedir">霍罗福尼斯、纳森聂尔牧师及德尔上。</p>
+			<p>
+				<b class="speaker">纳森聂尔</b>
+				<span class="line" id="3-1-3">
+			真是一种敬畏神明的游戏，而且是很合人道的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="3-1-5">
+			那头鹿，您知道，沐浴于血泊之中；像一只烂熟的苹果，刚才还是明珠般悬在太虚、穹苍、天空的耳边，一下子就落到平陆、原壤、土地的面上。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">纳森聂尔</b>
+				<span class="line" id="3-1-7">
+			真的，霍罗福尼斯先生，您的字眼变化得非常巧妙，不愧学者的吐属。可是先生，相信我，它是一头新出角的牡鹿。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="3-1-9">
+			纳森聂尔牧师，信哉！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">德尔</b>
+				<span class="line" id="3-1-11">
+			它不是信哉；它是一头两岁的公鹿。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="3-1-13">
+			最愚昧的指示！然而这也是他用他那种不加修饰、未经琢磨、既无教育、又鲜训练，或者不如说是浑噩无知，或者更不如说是诞妄无稽的方式，反映或者不如说是表现他的心理状态的一种解释性的暗示，把我的信哉说成了一头鹿。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">德尔</b>
+				<span class="line" id="3-1-15">
+			我说那鹿不是信哉；它是一头两岁的公鹿。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="3-1-17">
+			蠢而又蠢的蠢物，愚哉愚哉！啊！你无知的魔鬼，你的容貌多么伧俗！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">纳森聂尔</b>
+				<span class="line" id="3-1-19">
+			先生，他不曾饱餐过书本中的美味；他没有吃过纸张，喝过墨水；他的智力是残缺破碎的；他不过是一头畜生，只有下等的感觉。这种愚鲁的木石放在我们的面前，我们这些有情趣有性灵的人，应该感谢上帝，赐给我们如许的智慧才能，使我们不至于像他一样。论起我，如果狂妄、放肆、愚蠢，自然有失身分，但叫他去学习，去进塾读书也是枉费心机。但是，知足常乐；正如先哲所云：天气晴雨莫测，不能扰乱吾心。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">德尔</b>
+				<span class="line" id="3-1-21">
+			你们两位都是读书人；你们能不能用你们的智慧告诉我，什么东西在该隐出世的时候已经有一个月大，到现在还没有长满五星期？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="3-1-23">
+			狄克丁娜，德尔好伙计；狄克丁娜，德尔好伙计。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">德尔</b>
+				<span class="line" id="3-1-25">
+			狄克丁娜是什么？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">纳森聂尔</b>
+				<span class="line" id="3-1-27">
+			狄克丁娜是菲?，也就是琉娜，也就是月亮的别名。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="3-1-29">
+			亚当生下一个月以后，月亮已经长满了一个月；可是他到了一百岁的时候，月亮还是一百年前的月亮，不曾多老了一个星期。名异实同。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">德尔</b>
+				<span class="line" id="3-1-31">
+			不错，这名字满有意思。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="3-1-33">
+			愿上帝治愈你的脑筋！我是说“差异”的“异”。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">德尔</b>
+				<span class="line" id="3-1-35">
+			我也是说“诧异”的“异”，因为月亮横竖总不会老过一个月；我还要说：公主射死的是一头两岁的公鹿。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="3-1-37">
+			纳森聂尔牧师，你想不想听一首信口吟成的咏死鹿的诗篇？为了使愚氓易解，姑且称之为鹿，亦无不可。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">纳森聂尔</b>
+				<span class="line" id="3-1-39">
+			请开篇，好霍罗福尼斯先生，请开篇；然君子出言应远鄙俚。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="3-1-41">
+			我要试用谐声体，因为那才算尽才人之能事：
+				</span>
+				<span class="line" id="3-1-42">
+			公主一箭鹿身亡，
+				</span>
+				<span class="line" id="3-1-43">
+			昔日矫健今负伤。
+				</span>
+				<span class="line" id="3-1-44">
+			猎犬争吠鹿逃奔，
+				</span>
+				<span class="line" id="3-1-45">
+			猎人寻路找上门。
+				</span>
+				<span class="line" id="3-1-46">
+			猎人有路，鹿无路——
+				</span>
+				<span class="line" id="3-1-47">
+			无路，无禄，哀哉，一命呜呼！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">纳森聂尔</b>
+				<span class="line" id="3-1-49">
+			真奇才也，可仰，可仰！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">德尔</b>
+				<span class="line" id="3-1-51">
+			可痒大概是有虱子，你看他浑身直搔。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="3-1-53">
+			此乃小技，何足道哉？为诗之诀在有气、有势、有情、有韵、有起、有承、有转、有合，体之于心，厚之以虑，发之以时。此虽别才，得来亦属不易，聊堪自怡而已。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">纳森聂尔</b>
+				<span class="line" id="3-1-55">
+			先生，我为您赞美上帝，我的教区里的全体居民也都要为您赞美上帝，因为他们的儿子受到您很好的教诲，他们的女儿也从您的地方得益不少；您是社会上的功臣。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="3-1-57">
+			诚然，他们的儿子如果是天真诚朴的，不怕得不到我的教诲；他们的女儿如果是聪慧可教的，我也愿意尽力开导她们。可是哲人寡言。有一个阴性之人找我们来了。
+				</span>
+			</p>
+			<p class="stagedir">杰奎妮妲及考斯塔德上。</p>
+			<p>
+				<b class="speaker">杰奎妮妲</b>
+				<span class="line" id="3-1-60">
+			早安，牧师先生，愿您尊体安隐。
+					<a class="line" href="#3-1-60">60</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="3-1-62">
+			把“安稳”说成“安隐”。余将安隐乎？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="3-1-64">
+			塾师先生，找个大酒桶，您不就可以痛饮一阵吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="3-1-66">
+			以“隐”谐“饮”！愚者千虑，亦有一得；可称美玉杂于顽石，明珠出于老蚌。小有才思，深堪嘉许。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杰奎妮妲</b>
+				<span class="line" id="3-1-68">
+			牧师先生，
+					<i class="parenthetical">以一信授纳森聂尔</i>
+			谢谢您把这一封信读给我听听；这是唐·亚马多叫考斯塔德送来给我的。请你读一读好不好？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="3-1-70">
+			“群羊树下趁风凉”云云……。啊，妇孺皆晓的诗篇。旅人称道威尼斯的话可以移赠给你：
+					<a class="line" href="#3-1-70">70</a>
+				</span>
+				<span class="line" id="3-1-71">
+			威尼斯，威尼斯，
+				</span>
+				<span class="line" id="3-1-72">
+			未曾见面不相知。
+				</span>
+				<span class="line" id="3-1-73">
+			此诗何尝不然？不能理解的人也不能欣赏。多、莱、索、拉、密、发。对不起，先生，这里面写些什么？或者正像贺拉斯
+					<i class="parenthetical">⑦</i>
+				</span>
+				<span class="line" id="3-1-74">
+			所说的——什么，一首诗吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">纳森聂尔</b>
+				<span class="line" id="3-1-76">
+			正是，先生，而且写得非常典雅。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="3-1-78">
+			愿闻一二，先生其为余诵之乎？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">纳森聂尔</b>
+				<span class="line" id="3-1-80">
+			
+					<i class="parenthetical">读</i>
+			
+					<a class="line" href="#3-1-80">80</a>
+				</span>
+				<span class="line" id="3-1-81">
+			为爱背盟，怎么向你自表寸心？
+				</span>
+				<span class="line" id="3-1-82">
+			　啊！美色当前，谁不要失去操守？
+				</span>
+				<span class="line" id="3-1-83">
+			虽然抚躬自愧，对你誓竭忠贞；
+				</span>
+				<span class="line" id="3-1-84">
+			　昔日的橡树已化作依人弱柳：
+				</span>
+				<span class="line" id="3-1-85">
+			请细读它一叶叶的柔情密爱，
+				</span>
+				<span class="line" id="3-1-86">
+			　它的幸福都写下在你的眼中。
+				</span>
+				<span class="line" id="3-1-87">
+			你是全世界一切知识的渊海，
+				</span>
+				<span class="line" id="3-1-88">
+			　赞美你便是一切学问的尖峰；
+				</span>
+				<span class="line" id="3-1-89">
+			倘不是蠢如鹿豕的冥顽愚人，
+				</span>
+				<span class="line" id="3-1-90">
+			　谁见了你不发出惊奇的嗟叹？
+					<a class="line" href="#3-1-90">90</a>
+				</span>
+				<span class="line" id="3-1-91">
+			你目藏闪电，声音里藏着雷霆；
+				</span>
+				<span class="line" id="3-1-92">
+			　平静时却是天乐与星光灿烂。
+				</span>
+				<span class="line" id="3-1-93">
+			你是天人，啊！赦免爱情的无知，
+				</span>
+				<span class="line" id="3-1-94">
+			以尘俗之舌讴歌绝世的仙姿。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="3-1-96">
+			您没有把应该重读的地方读了出来，所以完全失去了抑扬顿挫之妙。让我把这首小诗推敲一下：在韵律方面倒还不错；可是讲到高雅、流利和诗歌的铿锵的音调，此则尚有憾焉。奥维狄斯·奈索
+					<i class="parenthetical">⑧</i>
+				</span>
+				<span class="line" id="3-1-97">
+			才是真正的诗人；然而奈索之所以为奈索者，不是因为他嗅出了想像的芬芳的花朵，那激发创作的动力吗？摹拟算得了什么？猎犬也会追随它的主人，猴子也会效学它的饲养者，马儿也会听从它的骑师。可是姑娘淑女，这封信是寄给你的吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杰奎妮妲</b>
+				<span class="line" id="3-1-99">
+			嗯，先生；这封信是一位俾隆先生寄给我的，他是那位外国女王手下的一位贵人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="3-1-101">
+			我要看看那上面的题名：“敬献于最美丽的罗瑟琳小姐的雪白的手中。”我还要看看信里面寄信人的署名：“乐于供你驱使的俾隆。”——纳森聂尔牧师，这俾隆是一个和王上一同发下誓愿的人；现在他却写了一封信给那外国女王手下的一个侍女，这封信由于一时的偶然，被送信的人送错了地方。快去，我的好人儿；把这封信给王上看，也许它是很有关系的。不必多礼，尽管去吧；再见！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杰奎妮妲</b>
+				<span class="line" id="3-1-103">
+			好考斯塔德，跟我去。先生，上帝保佑您！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="3-1-105">
+			去吧，我的姑娘。
+					<i class="parenthetical">考斯塔德，杰奎妮妲下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">纳森聂尔</b>
+				<span class="line" id="3-1-107">
+			先生，您把这件事情干得非常严正，充分显出了敬畏上帝的精神；正像有一位神父说的——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="3-1-109">
+			先生，别对我提起什么神父不神父啦；我最怕那些似是而非的论调。可是让我们再来讨论讨论那首诗；纳森聂尔牧师，您觉得它怎么样？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">纳森聂尔</b>
+				<span class="line" id="3-1-111">
+			写是写得非常之好。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="3-1-113">
+			今天我要到我的一个学生的父亲家里吃饭；要是您愿意在进餐之前替在座众人作一次祈祷，凭着该生家长对我的交情，我可以介绍您出席；在宴会上我愿意向您证明这首诗非常浅薄，既无诗趣，又无巧思，一点没有匠心独运之处。请您一定光临。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">纳森聂尔</b>
+				<span class="line" id="3-1-115">
+			那真是多谢了；因为«圣经»上说，交际是人生的幸福。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="3-1-117">
+			不错，«圣经»上这句话是一个很确当的结论。
+					<i class="parenthetical">向德尔</i>
+			朋友，请你也一同出席，千万不要推却；毋多言！去！那些绅士们正在打猎，我们还是去满足我们口腹的享受。
+					<i class="parenthetical">同下。</i>
+				</span>
+			</p>
+		</div>
+		<div class="scene">
+			<h3>第三场　同　前 </h3>
+			<p class="stagedir">俾隆持一纸上。</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-3">
+			王上正在逐鹿；我却在追赶我自己。他们张罗设网；我却陷身在泥坑之中。泥坑，这字眼真不好听。好，歇歇吧，悲哀！因为他们说那傻子曾经这样说，我也这样说，我就是傻子：证明得很好，聪明人！上帝啊，这恋爱疯狂得就像埃阿斯
+					<i class="parenthetical">⑨</i>
+				</span>
+				<span class="line" id="3-2-4">
+			一样；它会杀死一头绵羊；它会杀死我，我就是绵羊：又是一个很好的证明！我不愿恋爱；要是我恋爱，把我吊死了吧；真的，我不愿。啊！可是她的眼睛——天日在上，倘不是为了她的眼睛，我决不会爱她；是的，只是为了她的两只眼睛。唉，我这个人一味说谎，全然的胡说八道。天哪，我在恋爱，它已经教会我作诗，也教会我发愁；这儿是我的一部分的诗，这儿是我的愁。她已经收到我的一首十四行诗了；送信的是个蠢货，寄信的是个呆子，收信的是个佳人；可爱的蠢货，更可爱的呆子，最可爱的佳人！凭着全世界发誓，即使那三个家伙都落下了情网，我也不以为意。这儿有一个拿了一张纸来了；求上帝让他呻吟吧！
+					<i class="parenthetical">爬登树上。</i>
+				</span>
+			</p>
+			<p class="stagedir">国王持一纸上。</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="3-2-7">
+			唉！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-9">
+					<i class="parenthetical">旁白</i>
+			射中了，天哪！继续施展你的本领吧，可爱的丘匹德；你已经用你的鸟箭从他的左乳下面射进去了。当真他也有秘密！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="3-2-11">
+			
+					<i class="parenthetical">读</i>
+			
+				</span>
+				<span class="line" id="3-2-12">
+			旭日不曾以如此温馨的蜜吻
+				</span>
+				<span class="line" id="3-2-13">
+			　给予蔷薇上晶莹的黎明清露，
+				</span>
+				<span class="line" id="3-2-14">
+			有如你的慧眼以其灵辉耀映
+				</span>
+				<span class="line" id="3-2-15">
+			　那淋下在我颊上的深宵残雨；
+				</span>
+				<span class="line" id="3-2-16">
+			皓月不曾以如此璀璨的光箭
+				</span>
+				<span class="line" id="3-2-17">
+			　穿过深海里透明澄澈的波心，
+				</span>
+				<span class="line" id="3-2-18">
+			有如你的秀颜照射我的泪点，
+				</span>
+				<span class="line" id="3-2-19">
+			　一滴滴荡漾着你冰雪的精神。
+				</span>
+				<span class="line" id="3-2-20">
+			每一颗泪珠是一辆小小的车，
+					<a class="line" href="#3-2-20">20</a>
+				</span>
+				<span class="line" id="3-2-21">
+			　载着你在我的悲哀之中驱驰；
+				</span>
+				<span class="line" id="3-2-22">
+			那洋溢在我睫下的朵朵水花，
+				</span>
+				<span class="line" id="3-2-23">
+			　从忧愁里映现你胜利的荣姿；
+				</span>
+				<span class="line" id="3-2-24">
+			请不要以我的泪作你的镜子，
+				</span>
+				<span class="line" id="3-2-25">
+			你顾影自怜，我将要永远流泪。
+				</span>
+				<span class="line" id="3-2-26">
+			啊，倾国倾城的仙女，
+				</span>
+				<span class="line" id="3-2-27">
+			你的颜容使得我搜索枯肠也感觉词穷。
+				</span>
+				<span class="line" id="3-2-28">
+			她怎么可以知道我的悲哀呢？让我把这纸儿丢在地上；可爱的草叶啊，遮掩我的痴心吧。谁到这儿来了？
+					<i class="parenthetical">退立一旁</i>
+			什么，朗格维！他在读些什么东西！听着！
+				</span>
+			</p>
+			<p class="stagedir">朗格维持一纸上。</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-31">
+			现在又有一个跟你同样的傻子来了！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="3-2-33">
+			唉！我破了誓了！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-35">
+			果然像个破誓的，还带着证明罪行的文件呢。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="3-2-37">
+			我希望他也在恋爱，同病相怜的罪人！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-39">
+			一个酒鬼会把另一个酒鬼引为同调。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="3-2-41">
+			我是第一个违反誓言的人吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-43">
+			我可以给你安慰；照我所知道的，已经有两个人比你先破誓了，你来刚好凑成一个三分鼎足，三角帽子，爱情的三角绞刑台，专叫傻瓜送命。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="3-2-45">
+			我怕这几行生硬的诗句缺少动人的力量。啊，亲爱的玛利娅，我的爱情的皇后！我还是把诗撕了，用散文写吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-47">
+			诗句是爱神裤子上的花边；别让他见不得人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="3-2-49">
+			算了，还是让它去吧。
+					<i class="parenthetical">读</i>
+				</span>
+				<span class="line" id="3-2-50">
+			你眼睛里有天赋动人的辞令，
+					<a class="line" href="#3-2-50">50</a>
+				</span>
+				<span class="line" id="3-2-51">
+			　能使全世界的辩士唯唯俯首，
+				</span>
+				<span class="line" id="3-2-52">
+			不是它劝诱我的心寒盟背信？
+				</span>
+				<span class="line" id="3-2-53">
+			　为了你把誓言毁弃不应遭咎。
+				</span>
+				<span class="line" id="3-2-54">
+			我所舍弃的只是地上的女子，
+				</span>
+				<span class="line" id="3-2-55">
+			　你却是一位美妙的天仙化身；
+				</span>
+				<span class="line" id="3-2-56">
+			为了天神之爱毁弃人世的誓，
+				</span>
+				<span class="line" id="3-2-57">
+			　你的垂怜可以洗涤我的罪名。
+				</span>
+				<span class="line" id="3-2-58">
+			一句誓只是一阵口中的雾气，
+				</span>
+				<span class="line" id="3-2-59">
+			　禁不起你这美丽的太阳晒蒸；
+				</span>
+				<span class="line" id="3-2-60">
+			我脆弱的愿心既已被你引起，
+					<a class="line" href="#3-2-60">60</a>
+				</span>
+				<span class="line" id="3-2-61">
+			　这毁誓的过失怎能由我担承？
+				</span>
+				<span class="line" id="3-2-62">
+			即使是我的错，谁会那样疯狂，
+				</span>
+				<span class="line" id="3-2-63">
+			不愿意牺牲一句话换取天堂！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-65">
+			一个人发起疯来，会把血肉的凡人敬若神明，把一只小鹅看做一个仙女；全然的、全然的偶像崇拜！上帝拯救我们，上帝拯救我们！我们都走到邪路上去了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="3-2-67">
+			我应该叫谁把这首诗送去呢？——有人来了！且慢。
+					<i class="parenthetical">退立一旁。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-69">
+			大家躲好了，大家躲好了，就像小孩子捉迷藏似的。我像一尊天神一般，在这儿高坐天空，察看这些可怜的愚人们的秘密。再多来点！天啊，真应了我的话了。
+				</span>
+			</p>
+			<p class="stagedir">杜曼持一纸上。</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-72">
+			杜曼也变了；一个盘子里盛着四只山鹬！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="3-2-74">
+			啊，最神圣的凯德
+					<i class="parenthetical">⑩</i>
+				</span>
+				<span class="line" id="3-2-75">
+			！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-77">
+			啊，亵渎神圣的傻瓜！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="3-2-79">
+			凭着上天起誓，一个凡夫眼中的奇迹！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-81">
+			凭着土地起誓，她是个平平常常的女人；你在说谎。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="3-2-83">
+			她的琥珀般的头发使琥珀为之逊色。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-85">
+			琥珀色的乌鸦倒是很少有的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="3-2-87">
+			像杉树一般亭亭直立。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-89">
+			我说她身体有点弯屈；她的肩膀好像怀孕似的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="3-2-91">
+			像白昼一般明朗。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-93">
+			嗯，像有几天的白昼一般，不过是没有太阳的白昼。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="3-2-95">
+			啊！但愿我能够如愿以偿！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="3-2-97">
+			但愿我也如愿以偿！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="3-2-99">
+			主啊，但愿我也如愿以偿！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-101">
+			阿门，但愿我也如愿以偿！这总算够客气了吧？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="3-2-103">
+			我希望忘记她；可是她像热病一般焚烧我的血液，使我再也忘不了她。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-105">
+			你血液里的热病！那么只要请医生开一刀，就可以把她放出来盛在盘子里了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="3-2-107">
+			我还要把我所写的那首歌读一遍。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-109">
+			那么我就再听一次爱情怎样改变了一个聪明人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="3-2-111">
+			
+					<i class="parenthetical">读</i>
+			
+				</span>
+				<span class="line" id="3-2-112">
+			有一天，唉，那一天！
+				</span>
+				<span class="line" id="3-2-113">
+			爱永远是五月天，
+				</span>
+				<span class="line" id="3-2-114">
+			见一朵好花娇媚，
+				</span>
+				<span class="line" id="3-2-115">
+			在款款风前游戏；
+				</span>
+				<span class="line" id="3-2-116">
+			穿过柔嫩的叶网，
+				</span>
+				<span class="line" id="3-2-117">
+			风儿悄悄地来往。
+				</span>
+				<span class="line" id="3-2-118">
+			憔悴将死的恋人，
+				</span>
+				<span class="line" id="3-2-119">
+			羡慕天风的轻灵；
+				</span>
+				<span class="line" id="3-2-120">
+			风能吹上你面颊，
+					<a class="line" href="#3-2-120">120</a>
+				</span>
+				<span class="line" id="3-2-121">
+			我只能对花掩泣！
+				</span>
+				<span class="line" id="3-2-122">
+			我已向神前许愿，
+				</span>
+				<span class="line" id="3-2-123">
+			不攀折鲜花嫩瓣；
+				</span>
+				<span class="line" id="3-2-124">
+			少年谁不爱春红？
+				</span>
+				<span class="line" id="3-2-125">
+			这种誓情理难通。
+				</span>
+				<span class="line" id="3-2-126">
+			今日我为你叛誓，
+				</span>
+				<span class="line" id="3-2-127">
+			请不要把我讥刺；
+				</span>
+				<span class="line" id="3-2-128">
+			你曾经迷惑乔武，
+				</span>
+				<span class="line" id="3-2-129">
+			使朱诺变成黑人，
+				</span>
+				<span class="line" id="3-2-130">
+			放弃天上的威尊，
+					<a class="line" href="#3-2-130">130</a>
+				</span>
+				<span class="line" id="3-2-131">
+			来作尘世的凡人。
+				</span>
+				<span class="line" id="3-2-132">
+			　我要把这首歌寄去，另外再用一些更明白的字句，说明我的真诚的恋情的痛苦。啊！但愿王上、俾隆和朗格维也都变成恋人！作恶的有了榜样，可以抹去我叛誓的罪名；大家都是一样有罪，谁也不能把谁怨怼。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="3-2-134">
+					<i class="parenthetical">上前</i>
+			杜曼，你希望别人分担你的相思的痛苦，你这种恋爱太自私了。你可以脸色发白，可是我要是也这样被人听见了我的秘密，我知道我一定会满脸通红的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="3-2-136">
+					<i class="parenthetical">上前</i>
+			来，先生，你的脸红起来吧。你的情形和他正是一样；可是你明于责人，暗于责己，你的罪比他更加一等。你不爱玛利娅，朗格维从来不曾为她写过一首十四行诗，从来不曾绞着两手，按放在他的多情的胸前，压下他那跳动的心。我躲在这一丛树木后面，已经完全窥破你们的秘密了；我替你们两人好不害羞！我听见你们罪恶的诗句，留心观察着你们的举止，看见你们长吁短叹，注意到你们的热情：一个说，唉！一个说，天哪！一个说她的头发像黄金，一个说她的眼睛像水晶；
+					<i class="parenthetical">向朗格维</i>
+			你愿意为了天堂的幸福寒盟背信；
+					<i class="parenthetical">向杜曼</i>
+			乔武为了你的爱人不惜毁弃誓言。要是俾隆听见你们已经把一个用极大的热心发下的誓这样破坏了，他会怎么说呢？他会把你们怎样嘲笑！他会怎样掉弄他的刻毒的舌头！他会怎样高兴得跳起来！我宁愿失去全世界所有的财富，也不愿让他知道我有这样不可告人的心事。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-138">
+			现在我要挺身而出，揭破伪君子的面目了。
+					<i class="parenthetical">自树上跳下</i>
+			啊！我的好陛下，请您原谅我；好人儿！您自己沉浸在恋爱之中，您有什么权利责备这两个可怜虫？您的眼睛不会变成马车；您的泪珠里不会反映出一位公主的笑容；您不会毁誓，那是一件可憎的罪恶；咄！只有无聊的诗人才会写那些十四行的歌曲。可是您不害羞吗？你们三人一个个当场出丑，都不觉得害羞吗？您发现了他眼中的微尘；王上发现了你们的；可是我发现了你们每人眼中的梁木。啊！我看见了一幕多么愚蠢的活剧，不是这个人叹息呻吟，就是那个人捶胸顿足。嗳哟！我好容易耐住我的心，看一位国王变成一只飞蝇，伟大的赫剌克勒斯抽弄陀螺，渊深的所罗门起舞婆娑，年老的涅斯托
+					<i class="parenthetical">⑾</i>
+				</span>
+				<span class="line" id="3-2-139">
+			变成儿童的游侣，厌世的泰门戏弄无聊的玩具！你的悲哀在什么地方？啊！告诉我，好杜曼。善良的朗格维，你的痛苦在什么地方？陛下，您的又在什么地方？都在这心口儿里。喂，煮一锅稀粥来！这儿有很重的病人哩。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="3-2-141">
+			你太挖苦人了。那么我们的秘密都被你窥破了吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-143">
+			我算是受了你们的骗。我是个老实人，我以为违背一个自己所发的誓是一件罪恶；谁料竟会受一班虚有其表、反复无常的人们的欺骗。你们什么时候会见我写一句诗？或者为了一个女人而痛苦呻吟？或者费一分钟的时间把我自己修饰？你们什么时候会听见我赞美一只手，一只脚，一张脸，一双眼，一种姿态，一段丰度，一副容貌，一个胸脯，一个腰身，一条腿，一条臂？——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="3-2-145">
+			且慢！你又不是怕有人在后面追赶的偷儿，用不着这样急急忙忙地奔跑。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-147">
+			我这样急急忙忙，是为了要逃避爱情；好情人，放我去吧。
+				</span>
+			</p>
+			<p class="stagedir">杰奎妮妲及考斯塔德上。</p>
+			<p>
+				<b class="speaker">杰奎妮妲</b>
+				<span class="line" id="3-2-150">
+			上帝祝福王上！
+					<a class="line" href="#3-2-150">150</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="3-2-152">
+			你有什么东西送来？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="3-2-154">
+			一件叛逆的阴谋。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="3-2-156">
+			已经成事的叛逆吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="3-2-158">
+			没有成事，陛下。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="3-2-160">
+			那么也不要叫它败事。请你和叛逆安安静静地一同退场吧。
+					<a class="line" href="#3-2-160">160</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杰奎妮妲</b>
+				<span class="line" id="3-2-162">
+			陛下，请您读一读这封信；我们的牧师先生觉得它很可疑；他说其中有叛逆的阴谋。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="3-2-164">
+			俾隆，你把它读一读。
+					<i class="parenthetical">以信授俾隆</i>
+			这封信你是从什么地方得来的？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杰奎妮妲</b>
+				<span class="line" id="3-2-166">
+			考斯塔德给我的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="3-2-168">
+			你从什么地方得来的？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="3-2-170">
+			邓·阿德拉马狄奥，邓·阿德拉马狄奥给我的。
+					<i class="parenthetical">俾隆撕信。</i>
+					<a class="line" href="#3-2-170">170</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="3-2-172">
+			怎么！你怎么啦？为什么把它撕碎？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-174">
+			无关重要，陛下，无关重要，您用不着担心。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="3-2-176">
+			这封信看得他面红耳赤，让我们听听吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="3-2-178">
+					<i class="parenthetical">拾起纸片</i>
+			这是俾隆的笔迹，这儿还有他的名字。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-180">
+					<i class="parenthetical">向考斯塔德</i>
+			啊，你这下贱的蠢货！你把我的脸丢尽了。我承认有罪，陛下，我承认有罪。
+					<a class="line" href="#3-2-180">180</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="3-2-182">
+			什么？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-184">
+			你们三个呆子加上了我，刚巧凑成一桌；他、他、您陛下，跟我，都是恋爱场中的扒手，我们都有该死的罪名。啊！把这两个人打发走了，我可以详详细细告诉你们。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="3-2-186">
+			现在大家都是一样的了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-188">
+			不错，不错，我们是同道四人。叫这一双斑鸠去吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="3-2-190">
+			你们去吧！
+					<a class="line" href="#3-2-190">190</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="3-2-192">
+			好人走了，让坏人留在这儿。
+					<i class="parenthetical">考斯塔德、杰奎妮妲下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-194">
+			亲爱的朋友们，亲爱的情人们，啊！让我们拥抱吧。我们都是有血有肉的凡人；大海潮升潮落，青天终古长新，陈腐的戒条不能约束少年的热情。我们不能反抗生命的意志，我们必须推翻不合理的盟誓。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="3-2-196">
+			什么！你也会在这些破碎的诗句之中表示你的爱情吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-198">
+			“我也会”！谁见了天仙一样的罗瑟琳，不会像一个野蛮的印度人，只要东方的朝阳一开始呈现它的奇丽，就俯首拜伏，用他虔诚的胸膛贴附土地？哪一道鹰隼般威棱闪闪的眼光，不会眩耀于她的华艳，敢仰望她眉宇间的天堂？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="3-2-200">
+			什么狂热的情绪鼓动着你？我的爱人，她的女主人，是一轮美丽的明月，她只是月亮旁边闪烁着微光的一点小星。
+					<a class="line" href="#3-2-200">200</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-202">
+			那么我的眼睛不是眼睛，我也不是俾隆。啊！倘不是为了我的爱人，白昼都要失去它的光亮。她的娇好的颊上集合着一切出众的美点，她的华贵的全身找不出丝毫缺陷。借给我所有辩士们的生花妙舌——啊，不！她不需要夸大的辞藻；待沽的商品才需要赞美，任何赞美都比不上她自身的美妙。形容枯瘦的一百岁的隐士，看了她一眼会变成五十之翁；美貌是一服换骨的仙丹，它会使扶杖的衰龄返老还童。啊！她就是太阳，万物都被她照耀得灿烂生光。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="3-2-204">
+			凭着上天起誓，你的爱人黑得就像乌木一般。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-206">
+			乌木像她吗？啊，神圣的树木！娶到乌木般的妻子才是无上的幸福。啊！我要按着«圣经»发誓，她那点漆的瞳人，泼墨的脸色，才是美的极致，不这样便够不上“美人”两字。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="3-2-208">
+			一派胡说！黑色是地狱的象征，囚牢的幽暗，暮夜的阴沉；美貌应该像天色一样清明。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-210">
+			魔鬼往往化装光明的天使引诱世人。啊！我的爱人有两道黑色的修眉，因为她悲伤世人的愚痴，让涂染的假发以伪乱真，她要向他们证明黑色的神奇。她的美艳转变了流行的风尚，因为脂粉的颜色已经混淆了天然的红白，自爱的女郎们都知道洗尽铅华，学着她把皮肤染成黝黑。
+					<a class="line" href="#3-2-210">210</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="3-2-212">
+			打扫烟囱的人也是学着她把烟煤涂满一身。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="3-2-214">
+			从此以后，炭坑夫都要得到俊美的名称。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="3-2-216">
+			非洲的黑人夸耀他们美丽的肤色。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="3-2-218">
+			黑暗不再需要灯烛，因为黑暗即是光明。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-220">
+			你们的爱人们永远不敢在雨中走路，她们就怕雨水洗去了脸上的脂粉。
+					<a class="line" href="#3-2-220">220</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="3-2-222">
+			你的爱人倒该淋雨，让雨水把她的脸冲洗干净。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-224">
+			我要证明她的美貌，拚着舌敝唇焦，一直讲到世界末日的来临。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="3-2-226">
+			到那时候你就知道没有一个魔鬼不比她漂亮几分。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="3-2-228">
+			像你这样钟情丑妇的人真是世间少见。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="3-2-230">
+			瞧，这儿是你的爱人；
+					<i class="parenthetical">举鞋示俾隆</i>
+			把她的脸多看两眼。
+					<a class="line" href="#3-2-230">230</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-232">
+			啊！要是把你的眼睛铺成道路，也会玷污了她的姗姗微步。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="3-2-234">
+			啊，真下流！街道上若都是眼睛，她走起路来一迈步，多么丢人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="3-2-236">
+			可是何必这样斤斤争论？我们不是大家都在恋爱吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-238">
+			一点不错，我们大家都毁了誓啦。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="3-2-240">
+			那么不要作这种无聊的空谈。好俾隆，现在请你证明我们的恋爱是合法的；我们的信心并没有遭到损害。
+					<a class="line" href="#3-2-240">240</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="3-2-242">
+			对了，赞美赞美我们的罪恶。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="3-2-244">
+			啊！用一些充分的理由壮壮我们的胆；用一些巧妙的诡计把魔鬼轻轻骗过。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="3-2-246">
+			用一些娓娓动听的辩解减除我们叛誓的内疚。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-248">
+			啊，那是不必要的。好，那么，爱情的战士们，想一想你们最初发下的誓，绝食，读书，不近女色，全然是对于绚烂的青春的重大的谋叛！你们能够绝食吗？你们的肠胃太娇嫩了，绝食会引起种种的病症。你们虽然立誓发愤读书，要是你们已经抛弃了各人的一本最宝贵的书籍，你们还能在梦寐之中不废吟哦吗？因为除了一张女人的美丽的容颜以外，您，我的陛下，或是你，或是你，什么地方找得到学问的真正价值？从女人的眼睛里我得到这一个教训：它们是艺术的经典，知识的宝库，是它们燃起了智慧的神火。刻苦的钻研可以使活泼的心神变为迟钝，正像长途的跋涉消耗旅人的精力。你们不看女人的脸，不但放弃了眼睛的天赋的功用，而且根本违背你们立誓求学的原意；因为世上哪一个著作家能够像一个女人的眼睛一般把如许的美丽启示读者？学问是我们随身的财产，我们自己在什么地方，我们的学问也跟着我们在一起；那么当我们在女人的眼睛里看见我们自己的时候，我们不是也可以看到它里边存在着我们的学问吗？啊！朋友们，我们发誓读书，同时却抛弃了我们的书本；因为在你们钝拙的思索之中，您，我的陛下，或是你，或是你，几曾歌咏出像美人的慧眼所激发你们的那种火一般热烈的诗句？一切沉闷的学术都局限于脑海之中，它们因为缺少活动，费了极大的艰苦还是绝无收获；可是从一个女人的眼睛里学会了恋爱，却不会禁闭在方寸的心田，它会随着全身的血液，像思想一般迅速地通过百官四肢，使每一个器官发挥出双倍的效能；它使眼睛增加一重明亮，恋人眼中的光芒可以使猛鹰眩目；恋人的耳朵听得出最微细的声音，任何鬼祟的奸谋都逃不过他的知觉；恋人的感觉比戴壳蜗牛的触角还要微妙灵敏；恋人的舌头使善于辨味的巴克科斯⑿显得迟钝；讲到勇力，爱情不是像赫剌克勒斯一般，永远在乐园里爬树想摘金苹果吗？像斯芬克斯
+					<i class="parenthetical">⒀</i>
+				</span>
+				<span class="line" id="3-2-249">
+			一般狡狯；像那以阿波罗的金发为弦的天琴一般和谐悦耳；当爱情发言的时候，就像诸神的合唱，使整个的天界陶醉于仙乐之中。诗人不敢提笔抒写他的诗篇，除非他的墨水里调和着爱情的叹息；啊！那时候他的诗句就会感动野蛮的猛兽，激发暴君的天良。从女人的眼睛里我得到这一个教训：它们永远闪耀着智慧的神火；它们是艺术的经典，是知识的宝库，装饰、涵容、滋养着整个世界；没有它们，一切都会失去它们的美妙。那么你们真是一群呆子，甘心把这些女人舍弃；你们谨守你们的誓约，就可以证明你们的痴愚。为了智慧，这一个众人喜爱的名词，为了爱情，这一个喜爱众人的名词，为了男人，一切女人的创造者，为了女人，没有她们便没有男人，让我们放弃我们的誓约，找到我们自己，否则我们就要为了谨守誓约而丧失自己。这样的毁誓是为神明所容许的；因为慈悲的本身可以代替法律，谁能把爱情和慈悲分而为二？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="3-2-251">
+			那么凭着圣丘匹德的名字，兵士们，上阵呀！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-253">
+			举起你们的大旗，向她们努力进攻吧，朋友们！来他一阵混杀！但是先要当心，交手的时候哪个太阳是归你的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="3-2-255">
+			把这些巧妙的字句搁在一旁，老老实实谈一谈吧。我们要不要决定去向这些法国女郎们求爱？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="3-2-257">
+			是的，而且我们一定要达到目的。所以让我们商量商量用些什么方法娱乐她们。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-259">
+			第一，让我们从御苑里护送她们到她们的帐幕之内；然后每一个人握着他的美貌的恋人的纤手回来。在下午我们要计划一些短时间内可以筹备起来的新奇的娱乐安慰她们；因为饮酒、跳舞和狂欢是恋爱的先驱，是它们把缤纷的花朵铺成一道康衢。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="3-2-261">
+			去，去！我们现在必须利用每一秒钟的时间。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="3-2-263">
+			去，去！种下莠草哪能收起佳禾？那昭昭的天道从不会有私心：轻狂的娘儿嫁给背信的丈夫；是顽铜怎么换得到美玉精金？
+					<i class="parenthetical">同下。</i>
+				</span>
+			</p>
+		</div>
+	</div>
+	<div class="act">
+		<h2>第五幕</h2>
+		<div class="scene">
+			<h3>第一场　那瓦王御苑 </h3>
+			<p class="stagedir">霍罗福尼斯、纳森聂尔牧师及德尔上。</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-0-3">
+			已而者，已而而已矣。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">纳森聂尔</b>
+				<span class="line" id="4-0-5">
+			先生，我为您赞美上帝。您在宴会上这一番议论，的确是犀利?永，风趣而不俚俗，机智而不做作，大胆而不轻率，渊博而不固执，新奇而不乖僻。我前天跟一个王上手下的人谈话，他的雅篆，他的尊号，他的大名是唐·阿德里安诺·德·亚马多。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-0-7">
+			后生小子，何足道哉！这个人秉性傲慢，出言武断，满口虚文，目空一世，高视阔步，旁若无人，可谓狂妄之尤。他太拘泥不化，太矫揉造作，太古怪，也可以说太不近人情了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">纳森聂尔</b>
+				<span class="line" id="4-0-9">
+			一个非常确切而巧妙的断语。
+					<i class="parenthetical">取出笔记簿。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-0-11">
+			他从贫弱的论据中间抽出他的琐碎而繁缛的言辞。我痛恨这种荒唐的妄人，这种乖僻而苛细的家伙，这种破坏文字的罪人：明明是doubt，他却说是dout；明明是d，e，b，t，debt，他偏要读做d，e，t，det；他把calf读成了cauf，half读成了hauf；neighbour变成nebour，neigh的音缩做了ne。这简直是abhominable，可是叫他说起来又是abominable了。此类谬误之读音，闻之殆于令人痫发；足下其知之乎？所谓?发者，即发疯之谓也。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">纳森聂尔</b>
+				<span class="line" id="4-0-13">
+			赞美上帝，真乃打开茅塞。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-0-15">
+			打开？应该是“顿开”。用词不甚得当，尚可，尚可。
+				</span>
+			</p>
+			<p class="stagedir">亚马多、毛子及考斯塔德上。</p>
+			<p>
+				<b class="speaker">纳森聂尔</b>
+				<span class="line" id="4-0-18">
+			来者其谁耶？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-0-20">
+			此固余所乐见者也。
+					<a class="line" href="#4-0-20">20</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-0-22">
+					<i class="parenthetical">向毛子</i>
+			崽子！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-0-24">
+			不曰小子而曰崽子，何哉？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-0-26">
+			两位文士，幸会了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-0-28">
+			最英勇的骑士，敬礼。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="4-0-30">
+					<i class="parenthetical">向考斯塔德旁白</i>
+			他们刚从一场文字的盛宴上，偷了些吃剩的肉皮鱼骨回来。
+					<a class="line" href="#4-0-30">30</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="4-0-32">
+			啊！他们一向是靠着咬文嚼字过活的。我奇怪你家主人没有把你当作一个字吞了下去，因为你连头到脚，还没有honorificabilitudinitatibus
+					<i class="parenthetical">⒁</i>
+				</span>
+				<span class="line" id="4-0-33">
+			这一个字那么长；把你吞下去，一点儿不费事。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="4-0-35">
+			静些！钟声敲起来了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-0-37">
+					<i class="parenthetical">向霍罗福尼斯</i>
+			先生，你不是有学问的吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="4-0-39">
+			是的，是的；他会教孩子们认字呢。请问把a，b，颠倒拼起来，头上再加一只角，是个什么字？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-0-41">
+			孺子听之，这是一个Ba字，多了一只角。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="4-0-43">
+			Ba，好一头出角的蠢羊。你们听听他的学问。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-0-45">
+			谁，谁，你说哪一个，你这没有母音的子音？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="4-0-47">
+			你自己说起来，是五个母音中间的第三个；要是我说起来，就是第五个。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-0-49">
+			让我说说看——a，e，i——L就是我。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="4-0-51">
+			对了，你就是那头羊；让我接下去——o，u——You就是你，那头羊还是你。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-0-53">
+			凭着地中海里滚滚的波涛起誓，好巧妙的讥刺，好敏捷的才智！爽快，干脆，一剑就刺中了要害！它欣慰了我的心灵；真是呱呱叫。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="4-0-55">
+			孩子要是呱呱叫，大人就该“?_?_”叫了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-0-57">
+			什么意思？什么意思？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="4-0-59">
+			还是蠢羊。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-0-61">
+			孺子焉知应对？去抽陀螺玩吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="4-0-63">
+			把你的角借给我作个陀螺，我准保抽得你体无完肤。羊角作陀螺最好。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="4-0-65">
+			要是我在这世上一共只剩了一个便士，我也要把它送给你买姜饼吃。拿去，这是你的主人给我的酬劳，你这智慧的小钱囊，你这伶俐的鸽蛋。啊！要是上天愿意让你做我的私生子，你将要使我成为一个多么快乐的爸爸！好，你正像人家说的，连屁股尖上都是聪明的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-0-67">
+			嗳哟！这是什么话？应该说手指尖上，他说成屁股尖上啦。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-0-69">
+			学士先生，请了；我们不必理会那些无知无识的人。你不是在山顶上那所学校里教授青年的吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-0-71">
+			亦即峰头。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-0-73">
+			峰头或者山顶，谨听尊便。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-0-75">
+			正是。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-0-77">
+			先生，王上已经宣布他的最圣明的意旨，要在这一个白昼的尾闾，那就是粗俗的群众所称为下午的，到公主的帐幕里访问佳宾。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-0-79">
+			最高贵的先生，用白昼的尾闾代替下午，果然是再合适、确切、适当不过的了；真的，先生，这一个名词拣选得非常佳妙。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-0-81">
+			先生，王上是一位高贵的绅士，不瞒你说，他是我的知交，很好的朋友。讲到我们两人之间的交情，那可以不用提了。——请你不要多礼，请你务必戴上你的帽子——还有其他许多既重要又重大又严重的情节，可是那都不用提了。因为我必须告诉你，王上陛下往往靠在我的卑贱的肩上，用他的御指玩弄我的废物——我的胡子；可是好人儿，那也不用提了。我可以发誓我说的不是假话，他老人家曾经把特殊的恩宠赏给亚马多，一个军人，一个见过世面的旅行者；可是那也不用提了。一切的一切是这样的，可是好人儿，我要请你保守秘密，王上的意思，要我在那公主面前，可爱的小东西！表演一些有趣的节目，一些玩意儿，一些热闹的花样，一些滑稽的戏剧，或是一些焰火。我因为知道你跟牧师先生两位对于这种寻开心的事情是很来得的，所以特来跟你们商量商量，请你们帮帮我的忙。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-0-83">
+			先生，您可以在她面前表演九大伟人。纳森聂尔牧师，我们奉王上的命令，承这位最倜傥贵显而博学的绅士的嘱托，略效微劳，在这一个白昼的尾闾，表演一些应时的娱乐于公主之前，照我说起来，没有比扮演九大伟人的事迹更适当的了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">纳森聂尔</b>
+				<span class="line" id="4-0-85">
+			您在什么地方可以找得到胜任愉快的人来扮演他们呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-0-87">
+			您自己扮约书亚；我自己或是这位倜傥的绅士扮犹大·麦卡俾斯，这乡下人手脚粗大，可以充庞贝大王；
+					<i class="parenthetical">⒂</i>
+				</span>
+				<span class="line" id="4-0-88">
+			这童儿就叫他扮赫剌克勒斯——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-0-90">
+			对不起，先生，你错了；他还没有那位伟人的拇指那么大，他的棍子的一头也要比他粗一些。
+					<a class="line" href="#4-0-90">90</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-0-92">
+			你们愿意听我说吗？他可以扮演幼年的赫剌克勒斯，上场下场都在绞弄一条蛇；我还可以预备一段话向观众解释。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="4-0-94">
+			妙极了的设计！这样要是观众中间有人喝倒采，你就可以嚷，“好呀，赫剌克勒斯！你把蛇儿勒死了！”这样就可以把错处遮掩过去，虽然没有什么人会有这么厚的脸皮。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-0-96">
+			还有那五位伟人呢？——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-0-98">
+			我一个人可以扮演三个。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="4-0-100">
+			三重的伟人！
+					<a class="line" href="#4-0-100">100</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-0-102">
+			我可以告诉你们一句话吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-0-104">
+			我们愿意洗耳恭听。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-0-106">
+			伟人要是扮不成功，我们可以演一出滑稽戏。请你们跟我来。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-0-108">
+			来，德尔好伙计！你直到现在，还没有说过一句话哩。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">德尔</b>
+				<span class="line" id="4-0-110">
+			而且我一句话也没有听懂，先生。
+					<a class="line" href="#4-0-110">110</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-0-112">
+			来！我们也要叫你做些事情。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">德尔</b>
+				<span class="line" id="4-0-114">
+			我可以跟着人家跳跳舞；或者替伟人们打打小鼓，让别人去跳舞。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-0-116">
+			最笨的老实的德尔；来，我们去准备我们的玩意儿吧！
+					<i class="parenthetical">同下。</i>
+				</span>
+			</p>
+		</div>
+		<div class="scene">
+			<h3>第二场　同前。公主帐幕前 </h3>
+			<p class="stagedir">公主、凯瑟琳、罗瑟琳及玛利娅同上。</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-3">
+			好人儿们，要是每天有这么多的礼物源源而来，我们在回国以前，一定可以变成巨富了。一个被金刚钻包围的女郎！瞧这就是那多情的国王给我的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-5">
+			公主，没有别的东西跟着它一起送来吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-7">
+			没有别的东！怎么没有？他用塞满了爱情的诗句密密地写在一张纸的两面，连边上都不留出一点空白；他恨不得用丘匹德的名字把它封起来呢。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-9">
+			只有这样才能使这位小神仙老起来；他已经做了五千年的孩子了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">凯瑟琳</b>
+				<span class="line" id="4-1-11">
+			嗯，他也是个倒霉的催命鬼。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-13">
+			你再也不会跟他要好，因为他杀死了你的姊姊。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">凯瑟琳</b>
+				<span class="line" id="4-1-15">
+			他使她悲哀忧闷；她就是这样死的。要是她也像你一样轻狂，有你这样一副风流活泼的性情，她也许会做了祖母才死。你大概也有做祖母的一天，因为无忧无虑的人是容易长寿的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-17">
+			你说我轻狂，耗子，可是你的话没说清楚。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">凯瑟琳</b>
+				<span class="line" id="4-1-19">
+			皮肤黑的人决不会稳重。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-21">
+			你的脑子才真是漆黑一团。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">凯瑟琳</b>
+				<span class="line" id="4-1-23">
+			既然你气得黑白不分，我这番话也就只好糊涂了之。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-25">
+			当心你在黑里别作什么糊涂事。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">凯瑟琳</b>
+				<span class="line" id="4-1-27">
+			你不用等到黑，因为你本性就轻狂。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-29">
+			说轻我承认；至于你那一身肉有多重，我没称过。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">凯瑟琳</b>
+				<span class="line" id="4-1-31">
+			你没称过我？这不是对我不关心吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-33">
+			正是；俗话说得好：“没救的事少操心。”
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-35">
+			两人的嘴都够利害，堪称旗鼓相当。可是罗瑟琳，你不是也收到一件礼物吗？是谁送来的？是什么东西？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-37">
+			我希望您知道，只要我的脸也像您一样娇艳，我也可以收到像您的一样贵重的礼物；瞧这个吧。嘿，我也有一首诗呢，谢谢俾隆；那音律倒是毫无错误；要是那诗句也没有说错，我就是地上最美的女神；他把我跟两万个美人比较。啊！他在这信里替我描下了一幅小像哩。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-39">
+			像不像呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-41">
+			文字倒不错，赞美的辞句却用得很糟糕。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-43">
+			像墨水一样美；比喻很恰当。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">凯瑟琳</b>
+				<span class="line" id="4-1-45">
+			和楷书一样端正大方。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-47">
+			近墨者黑，近朱者赤。你的脸色像日历上的星期日；你的头发像个金字；但愿你一脸不生满了斑痣！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">凯瑟琳</b>
+				<span class="line" id="4-1-49">
+			这种玩笑就是天花！会把所有的悍妇都染上！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-51">
+					<i class="parenthetical">向凯瑟琳</i>
+			可是漂亮的杜曼送给你什么东西？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">凯瑟琳</b>
+				<span class="line" id="4-1-53">
+			公主，他给我这一只手套。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-55">
+			他没有送你一双吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">凯瑟琳</b>
+				<span class="line" id="4-1-57">
+			是的，公主；而且他还写了一千行表明他爱情忠实的诗句，全然是一大堆假惺惺的废话，非但拙劣不堪，而且无聊透顶。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">玛利娅</b>
+				<span class="line" id="4-1-59">
+			这个，还有这些珍珠，都是朗格维送给我的；他的信写得足足有半哩路长。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-61">
+			我完全同意。你心里不是希望这项链再长一些，这信再短一些吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">玛利娅</b>
+				<span class="line" id="4-1-63">
+			正是，否则愿我这双手合拢了再也分不开来。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-65">
+			我们都是聪明的女孩子，才会这样讥笑我们的爱人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-67">
+			他们都是蠢透了的傻瓜，才会出这样的代价来买我们的讥笑。我要在我未去以前，把那个俾隆大大折磨一下。啊，要是我知道他在一星期内就会落下情网！我一定要叫他摇尾乞怜，殷勤求爱；叫他静候时机，耐心等待；叫他呕尽才华，写下无聊的诗句；叫他奉命驱驰，甘受诸般的辛苦：我尽管冷嘲热骂，他却是受宠若惊；他做了我手中玩物，我变成他司命灾星。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-69">
+			聪明人变成了痴愚，是一条最容易上钩的游鱼；因为他凭恃才高学广，看不见自己的狂妄。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-71">
+			中年人动了春心，比年轻的更一发难禁。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">玛利娅</b>
+				<span class="line" id="4-1-73">
+			愚人的蠢事算不得希奇，聪明人的蠢事才叫人笑痛肚皮；因为他用全副的本领证明他自己的愚笨。
+				</span>
+			</p>
+			<p class="stagedir">鲍益上。</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-76">
+			鲍益来了，他满脸都是高兴。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-78">
+			啊！我笑死了。公主殿下呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-80">
+			你有什么消息，鲍益？
+					<a class="line" href="#4-1-80">80</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-82">
+			预备，公主，预备！——武装起来，姑娘们，武装起来！大队人马要来破坏你们的和平了。爱情用说辞做它的武器，乔装改扮，要来袭击你们了。集合你们的智慧，布置你们的防御；否则像懦夫一样缩紧了头，赶快逃走吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-84">
+			圣丘匹德呀！那些用言语来向我们挑战的是什么人？说，探子，说。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-86">
+			在一株枫树的凉荫之下，我正想睡它半点钟的时间，忽然在树荫的对面，我看见了国王和他的一群同伴；我就小小心心地溜进了一丛附近的树林，听听他们说些什么话；原来他们打算过一会儿就化了装到这儿来呢。他们的先驱是一个刁钻伶俐的童儿，他已经背熟了他们叫他传达的使命；他们就在那边教他动作的姿势和说话的声调，“你必须这样说，你的身体必须站得这个样子。”他们又怕他当着贵人的面前会吓得说不出话来；“因为，”那国王说，“你将要看见一位天使；可是不用害怕，尽管放大胆子说。”那孩子却回答说，“天使又不是妖精；倘然她是一个魔鬼，我才会怕她哩。”大家听了这句话，都笑起来，拍他的肩膀，那大胆的小油嘴得到他们的夸奖，便格外大胆了。一个高兴地掀着他的肘子，咧开了嘴，发誓说从来没有人说过一句比这更俏皮的话；一个翘起了手指嚷着，“嘿！不管结果如何，我们一定要干一下；”一个边跳边嚷，“一切顺利；”还有一个踮起脚趾旋了个身，一交跌在地上。于是大家全都在地上打起滚来，疯了似的笑个不停，笑得连眼泪都淌下来了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-88">
+			可是，可是，他们要来访问我们吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-90">
+			是的，是的；照我猜想起来，他们都要扮成俄罗斯人的样子。他们的目的是谈情求爱和跳舞；凭着他们赠送的礼物，认明各人恋爱的对象，倾吐自己倾慕的衷诚。
+					<a class="line" href="#4-1-90">90</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-92">
+			他们想要这样吗？我们倒要把这些情人们作弄一下。姑娘们，我们每一个人都要套上脸罩，无论他们怎样请求，我们都不让他们瞧见我们的脸。拿着，罗瑟琳，你把这一件礼物佩在身上，国王就会把你当作他心爱的人；你把这拿了去，我的好人儿，再把你的给我，俾隆就会把我当作罗瑟琳了。你们两人也各人交换了礼物，让你们的情人大家认错求爱的对象。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-94">
+			那么来，大家把礼物佩戴在最注目的地方。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">凯瑟琳</b>
+				<span class="line" id="4-1-96">
+			可是这样交换了，您有什么目的呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-98">
+			我的目的就是要使他们不能达到目的。他们的用意不过是向我们开开玩笑，所以我们也要开开他们的玩笑。他们现在向认错了的爱人吐露心曲，下回我们用本来面目和他们相见的时候，便可以把他们尽情奚落。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-100">
+			可是假如他们要求我们跳舞，我们要不要陪他们跳呢？
+					<a class="line" href="#4-1-100">100</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-102">
+			不，我们死也不动一步。我们也不要理会他们预先写就的说辞，当来人开口的时候，各人都把脸扭过去。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-104">
+			嗳哟，说话的人遭到了这样的冷淡，一定会伤心得忘记了他的词句。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-106">
+			那正是我的用意所在；我相信只要那打头阵的受了没趣，别人都会失去勇气。最有意味的戏谑是以谑攻谑，让那存心侮弄的自取其辱；且看他们碰了一鼻子的灰，乘兴而来，败兴而归。
+					<i class="parenthetical">内吹喇叭声。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-108">
+			喇叭响了；戴上脸罩；跳舞的人来啦。
+					<i class="parenthetical">众女戴脸罩。</i>
+				</span>
+			</p>
+			<p class="stagedir">众乐工扮黑人，毛子前行，国王、俾隆、朗格维及杜曼各扮俄罗斯人戴假面上。</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="4-1-111">
+				</span>
+				<span class="line" id="4-1-112">
+			　　万福，地上最富丽的美人们！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-114">
+			只有黑缎子脸罩称不起富丽。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="4-1-116">
+				</span>
+				<span class="line" id="4-1-117">
+			　　最娇艳的女郎的神圣之群，
+					<i class="parenthetical">众女转背</i>
+			你们曼妙的——背影——为世人所瞻仰！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-119">
+			“你们曼妙的容华”，混蛋，“你们曼妙的容华”。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="4-1-121">
+			你们曼妙的容华为世人所瞻仰！天——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-123">
+			你听，急得叫天了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="4-1-125">
+			天仙们啊，愿你们大发慈悲，闭上你们——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-127">
+			“睁开你们——”，混蛋！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="4-1-129">
+			睁开你们阳光普照的眼睛——阳光普照的眼睛——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-131">
+			这样形容她们完全不对；应该说：“黑夜笼罩的眼睛。”
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="4-1-133">
+			她们睬也不睬我，我念不下去了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-135">
+			这就是你的好记性吗？滚开，你这混蛋！
+					<i class="parenthetical">毛子下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-137">
+			这些异邦人到这儿来有什么事？鲍益，你去问问他们，要是他们会讲我们的言语，就叫他们举出一个老老实实的人来说明他们的来意。你去问吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-139">
+			你们来见公主有什么事？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-141">
+			我们唯一的愿望，只是和平而善意的晋谒。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-143">
+			他们说他们有什么事？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-145">
+			他们唯一的愿望，只是和平而善意的晋谒。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-147">
+			那么他们已经谒见过了；叫他们走吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-149">
+			公主说，你们已经谒见过了，叫你们走吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-151">
+			对她说，我们为了希望在这草坪上和她跳一次舞，已经跋涉山川，用我们的脚步丈量了不少的路程。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-153">
+			他们说，他们为了希望在这草坪上和您跳一次舞，已经跋涉山川，用他们的脚步丈量了不少的路程。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-155">
+			没有的事。问他们一哩路有多少?迹灰?撬?且丫?闪抗?簧俾烦蹋?涣?返?际?呛苋菀准扑愠隼吹摹
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-157">
+			要是你们迢迢来此，已经丈量过不少路程，公主问你们一哩路有多少?肌
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-159">
+			告诉她我们是用疲乏的脚步丈量的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-161">
+			她已经听见了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-163">
+			在你们所经过的许多疲乏的路程之中，走一哩路需要多少疲乏的脚步？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-165">
+			我们从不计算我们为您所费的辛勤；我们的忠心是无限的富有，不能用数字估计的。愿您展现您脸上的阳光，让我们像一群野蛮人一样，可以向它顶礼膜拜。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-167">
+			我的脸不过是一个月亮，而且是遮着乌云的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-169">
+			遮蔽着这样的明月，那乌云是幸福的！皎洁的明月，和你的灿烂的众星啊，愿你们扫去浮云，把你们的光明照射在我们的眼波之上。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-171">
+			愚妄的祈求者啊！你不要追寻镜里的空花，水中的明月；你应该请求一些更重要的事物。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-173">
+			那么请你陪我们跳一回舞。你叫我请求，这一个请求应该不算过分。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-175">
+			那么音乐，奏起来！你要跳舞必须赶快。
+					<i class="parenthetical">奏乐</i>
+			不！不跳了！我正像月亮一般，一下子又有了更改。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-177">
+			您不愿跳舞吗？怎么又突然走开了？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-179">
+			你刚才看见的是满月，现在她已经变了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-181">
+			可是她还是这一个月亮，我还是这一个人。音乐在奏着，请给它一些动作吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-183">
+			我们的耳朵在听着呢。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-185">
+			可是您必须提起您的腿来。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-187">
+			既然你们都是些异邦人，偶然来到这里，我们也不必过于拘谨；搀着我的手，我们不跳舞了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-189">
+			那么为什么要搀手呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-191">
+			因为我们可以像朋友似的握手而别。好人儿们，行个礼；跳舞已经完了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-193">
+			再跳两步吧；不要这样吝啬。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-195">
+			凭着这样的代价，我们不能满足你们超过限度的要求。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-197">
+			那么你们是有价格的吗？怎样的代价才可以买到你们伴舞的光荣？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-199">
+			唯一的代价是请你们离开这里。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-201">
+			那是永远不可能的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-203">
+			那么我们是买不到的；再会！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-205">
+			要是您拒绝跳舞，让我们谈谈心怎么样？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-207">
+			那么找个僻静点儿的所在吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-209">
+			那好极了。
+					<i class="parenthetical">二人趋一旁谈话。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-211">
+			玉手纤纤的姑娘，让我跟你谈一句甜甜的话儿。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-213">
+			蜂蜜，牛乳，蔗糖，我已经说了三句了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-215">
+			你既然这样俏皮，我也要回答你三句，百花露，麦芽汁，葡萄酒。好得很，我们各人都掷了个三点。现在有六种甜啦。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-217">
+			第七种甜，再会吧；您既然是个无赖的赌徒，我不要再跟您玩啦。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-219">
+			让我悄悄地告诉你一句话。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-221">
+			可不要是句甜甜的话儿。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-223">
+			你不知道我心里多苦！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-225">
+			和黄连一样苦。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-227">
+			一点不错。
+					<i class="parenthetical">二人趋一旁谈话。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="4-1-229">
+			您愿意跟我交换一句话吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">玛利娅</b>
+				<span class="line" id="4-1-231">
+			说吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="4-1-233">
+			美貌的姑娘——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">玛利娅</b>
+				<span class="line" id="4-1-235">
+			您这样说吗？“漂亮的先生”；把这句话交换您的“美貌的姑娘”吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="4-1-237">
+			请您允许我跟您悄悄地说句话，我就向您告辞。
+					<i class="parenthetical">二人趋一旁谈话。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">凯瑟琳</b>
+				<span class="line" id="4-1-239">
+			怎么！您的假面上没有舌头吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="4-1-241">
+			姑娘，我知道您这样问我的原因。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">凯瑟琳</b>
+				<span class="line" id="4-1-243">
+			啊！把您的原因说出来；快些，先生；我很想听一听呢。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="4-1-245">
+			在您的脸罩之内，您有两条舌头，所以要想借一条给我那不会说话的假面。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">凯瑟琳</b>
+				<span class="line" id="4-1-247">
+			还是叫荷兰人借给你一条牛舌头吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="4-1-249">
+			牛，美人！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">凯瑟琳</b>
+				<span class="line" id="4-1-251">
+			不，牛先生。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="4-1-253">
+			我们把这牛平分了吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">凯瑟琳</b>
+				<span class="line" id="4-1-255">
+			不，我可不跟你配对儿。你一人全牵去吧；大了也许是头好牲口。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="4-1-257">
+			看啊，你出语伤人，和牛没有两样。贞洁的女郎，请不要用角勾搭人！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">凯瑟琳</b>
+				<span class="line" id="4-1-259">
+			你怕头上长角，最好在作牛犊子的时候就一命归天。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="4-1-261">
+			让我在归天以前跟您悄悄地说句话吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">凯瑟琳</b>
+				<span class="line" id="4-1-263">
+			那么轻轻地叫吧，小牛儿；屠夫在听着呢。
+					<i class="parenthetical">二人趋一旁谈话。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-265">
+			姑娘们一张尖刻的利嘴，
+				</span>
+				<span class="line" id="4-1-266">
+			就像无形的剃刀般锋锐，
+				</span>
+				<span class="line" id="4-1-267">
+			任是最纤细的秋毫微末，
+				</span>
+				<span class="line" id="4-1-268">
+			碰着它免不了迎刃而折；
+				</span>
+				<span class="line" id="4-1-269">
+			她们的想像驾起了羽翼，
+				</span>
+				<span class="line" id="4-1-270">
+			最快的风比不上它迅疾。
+					<a class="line" href="#4-1-270">270</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-272">
+			别再说下去了，我的姑娘们；停止，停止。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-274">
+			天哪，大家都被她们取笑得狼狈不堪！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-276">
+			再会，疯狂的姑娘们，你们真是希有的刁钻。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-278">
+			二十个再会，我的冰冻的莫斯科人！
+					<i class="parenthetical">国王、众臣、乐工及侍从等下</i>
+			这些就是举世钦佩的聪明人吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-280">
+			他们的聪明不过是蜡烛的微光，被你们可爱的气息一吹就吹熄了。
+					<a class="line" href="#4-1-280">280</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-282">
+			他们都有一点小小的才情，可是粗俗不堪。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-284">
+			啊，贫乏的智慧！身为国王，受到这样无情的揶揄！你们想他们今晚会不会上吊？或者从此以后，不套假脸再也不敢见人？这放肆的俾隆今天丢尽了脸。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-286">
+			啊！他们全都狼狈万分。那国王因为想不出一句巧妙的答复，急得简直要哭出来呢。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-288">
+			俾隆发了无数的誓；他越是发誓，人家越是不相信他。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">玛利娅</b>
+				<span class="line" id="4-1-290">
+			杜曼把他自己和他的剑呈献给我，愿意为我服役；我说，“可惜你的剑是没有锋的；”我的仆人立刻闭住了嘴。
+					<a class="line" href="#4-1-290">290</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">凯瑟琳</b>
+				<span class="line" id="4-1-292">
+			朗格维大人说，我占据着他的心；你们猜他叫我什么？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-294">
+			是不是他的心病？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">凯瑟琳</b>
+				<span class="line" id="4-1-296">
+			正是。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-298">
+			去，你这无药可治的恶症！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-300">
+			你们要不要知道？国王是我的信誓旦旦的爱人哩。
+					<a class="line" href="#4-1-300">300</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-302">
+			伶俐的俾隆已经向我矢告他的忠诚。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">凯瑟琳</b>
+				<span class="line" id="4-1-304">
+			朗格维愿意终身供我的驱策。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">玛利娅</b>
+				<span class="line" id="4-1-306">
+			杜曼是我的，正像树皮长在树干上一般毫无疑问。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-308">
+			公主和各位可爱的姑娘们，听着：他们立刻就会用他们的本来面目再到这儿来，因为他们决不能忍受这样刻毒的侮辱。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-310">
+			他们还会回来吗？
+					<a class="line" href="#4-1-310">310</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-312">
+			他们会来的，他们会来的，上帝知道；虽然打跛了脚，他们也会高兴得跳起来。所以把你们的礼物各还原主，等他们回来的时候，像芬芳的蔷薇一般在熏风里开放吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-314">
+			怎么开放？怎么开放？说得明白一些。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-316">
+			美貌的姑娘们蒙着脸罩，是一朵朵含苞待放的蔷薇；卸下脸罩，露出她们娇媚的红颜，就像云中出现的天使，或是盈盈展瓣的鲜花。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-318">
+			不要说这种哑谜似的话！要是他们用他们的本来面目再来向我们求爱，我们应该怎么办呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-320">
+			好公主，他们改头换面地来，我们已经把他们取笑过了；要是您愿意采纳我的意见，他们明目张胆地来，我们还是要把他们取笑。让我们向他们诉苦，说是刚才来了一群傻瓜，装扮做俄罗斯人的样子，穿着不三不四的服饰，不知道究竟是些什么东西；他们凭着一股浮薄的腔调，一段恶劣的致辞和一副荒唐的形状，到我们帐里来显露他们的丑态，不知究竟有些什么目的。
+					<a class="line" href="#4-1-320">320</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-322">
+			姑娘们，进去吧；那些情人们就要来了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-324">
+			像一群小鹿似的，跳进你们的帐里去吧。
+					<i class="parenthetical">公主、罗瑟琳、凯瑟琳、玛利娅同下。</i>
+				</span>
+			</p>
+			<p class="stagedir">国王、俾隆、朗格维及杜曼各穿原服重上。</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-327">
+			好先生，上帝保佑你！公主呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-329">
+			进帐去了。请问陛下有没有什么谕旨，要我向她传达？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-331">
+			请她允许我见见面，我有一句话要跟她谈谈。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-333">
+			遵命；我知道她一定会允许您的，陛下。
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-335">
+			这家伙惯爱拾人牙慧，就像鸽子啄食青豆，一碰到天赐的机会，就要卖弄他的伶牙俐齿。他是个智慧的稗贩，宴会里、市集上，到处向人兜卖；我们这些经营批发的，上帝知道，再也学不会他这一副油腔滑调。他是妇人的爱宠，娘儿们见了他都要牵裳挽袖；要是他做了亚当，夏娃免不了被他勾引。他会扭捏作态，他会吞吐其声；他会把她的手吻个不住，表示他礼貌的殷勤。他是文明的猴儿，他是儒雅的绅士；他在赌博的时候，也不会用恶言怒骂他的骰子。不错，他还会唱歌，唱的是中音，高不成，低不就；还惯会招待、看门。“好人儿”是妇女们给他的名称；他走上楼梯，梯子也要吻他脚下的泥尘；他见了每一个人满脸生花，嘻开了那鲸骨一样洁白的齿牙；谁只要一提起鲍益的名字，都知道他是位舌头上涂蜜的绅士。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-337">
+			愿他舌头上长疮，这个混账；是他把毛子奚落得晕头转向！
+				</span>
+			</p>
+			<p class="stagedir">鲍益前导，公主、罗瑟琳、玛利娅、凯瑟琳及侍从等重上。</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-340">
+			瞧，他来了！礼貌啊，在这个人还没有把你表现出来以前，你是什么东西？现在你又是什么东西？
+					<a class="line" href="#4-1-340">340</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-342">
+			万福，亲爱的公主，愿你安好！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-344">
+			听来似乎我目前的处境不妙。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-346">
+			请你善意地解释我的言辞。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-348">
+			你若是说得好，我并不吹毛求疵。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-350">
+			我们今天专诚拜访的目的，是要迎接你到我们宫廷里去盘桓盘桓，略尽地主之谊，愿你不要推辞。
+					<a class="line" href="#4-1-350">350</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-352">
+			这一块广场可以容留我，它也必须替您保全您的誓言；上帝和我都不喜欢背誓的人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-354">
+			不要责备我，因为这不是我自己的过失；你的美目的魔力使我破坏了誓言。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-356">
+			你不该说美目，应该说恶目；美的事物不会使人破坏誓言。凭着我那像一尘不染的莲花一般纯洁的处女的贞操起誓，即使我必须忍受无穷尽的磨难，我也不愿做您府上的客人；我不愿因为我的缘故，使您毁弃了立誓信守的神圣的盟约。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-358">
+			啊！你冷冷清清地住在这儿不让人家看见，也没有人来看你，实在使我感到莫大的歉仄。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-360">
+			不，陛下，我发誓您的话不符事实；我们在这儿并不缺少消遣娱乐，刚才还有一队俄罗斯人来过，他们离去还不久哩。
+					<a class="line" href="#4-1-360">360</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-362">
+			怎么，公主！俄罗斯人？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-364">
+			是的，陛下；都是衣冠楚楚、神采轩昂、温文有礼的风流人物。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-366">
+			公主，不要骗人。不是这样的，陛下；我家公主因为沾染了时尚，所以会作这样过分的赞美。我们四个人刚才的确碰见四个穿着俄罗斯装束的人，他们在这儿停留了一小时的时间，噜哩噜苏地讲了许多话；可是在那一小时之内，陛下，他们不曾让我们听到一句有意思的话。我不敢骂他们呆子；可是我想，当他们口渴的时候，呆子们一定很想喝一点水。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-368">
+			这一句笑话在我听起来很是干燥。温柔美貌的佳人，您的智慧使您把聪明看成了愚蠢。当我们仰望着天上的火眼的时候，无论我们自己的眼睛多么明亮，也会在耀目的金光之下失去它本来的光彩；您自己因为有了浩如烟海的才华，所以在您看起来，当然聪明也会变成愚蠢，富有也会变成贫乏啦。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-370">
+			这可以证明您是聪明而富有的，因为在我的眼中——
+					<a class="line" href="#4-1-370">370</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-372">
+			我是一个傻瓜，一个穷光蛋。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-374">
+			这个头衔倘不是本来属于你的，您就不该从我的舌头上夺去我的话。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-376">
+			啊！我是您的，我所有的一切也都是您的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-378">
+			这一个傻瓜整个儿是属于我的吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-380">
+			我所给您的，不能更少于此了。
+					<a class="line" href="#4-1-380">380</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-382">
+			您本来套的是哪一张假面？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-384">
+			哪儿？什么时候？什么假面？您为什么问我这个问题？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-386">
+			当地，当时，就是那一张假面；您不是套着一具比您自己好看一些的脸壳，遮掩了一副比它更难看的尊容吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-388">
+			我们的秘密被她们发现了；她们现在一定要把我们取笑得体无完肤了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="4-1-390">
+			我们还是招认了，把这回事情当作一场笑话过去了吧。
+					<a class="line" href="#4-1-390">390</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-392">
+			发呆了吗，陛下？陛下为什么这样不高兴？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-394">
+			嗳哟，救命！按住他的额角！他要晕过去了。您为什么脸色发白？我想大概因为从莫斯科来，多受了些海上的风浪吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-396">
+			天上的星星因为我们发了伪誓，所以把这样的灾祸降在我们头上。那一张铁铸的厚脸能够恬不为意呢？——姑娘，我站在这儿，把你的舌箭唇枪向我投射，用嘲笑把我伤害，用揶揄使我昏迷，用你锋锐的机智刺透我的愚昧，用你尖刻的思想把我寸寸解剖吧；我再也不穿着俄罗斯人的服装，希望你陪我跳舞了。啊！从此以后，我再也不信任那些预先拟就的说辞，他学童背书似的诉述我的情思；我再也不套着面具访问我的恋人，像盲乐师奏乐似的用诗句求婚；那些绢一般柔滑、绸一般细致的字句，三重的夸张，刻意雕琢的言语，还有那冬烘的辞藻像一群下卵的苍蝇，让蛆一样的矜饰汩没了我的性灵，我从此要把这一切全都抛弃；凭着这洁白的手套——那手儿有多么白，上帝知道！——我发誓要用土布般坚韧的“是”，粗毡般质朴的“不”，把我恋慕的深情向你申说。让我现在开始，姑娘，——上帝保佑我！——我对你的爱是完整的，没有一点残破。海枯石烂——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-398">
+			不要“海枯石烂”了，我求求你。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-400">
+			这是我积习未除；原谅我，我的病根太深了，必须把它慢慢除去。慢点！有了，给他们三个人都贴上“重病”的封条；他们的心灵都得了不治之症，受到你眼睛的传染，神智不清。这些贵人的症状准确无误，满脸通红——那正是瘟疫的礼物。
+					<a class="line" href="#4-1-400">400</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-402">
+			他们送礼来的时候，神智很清。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-404">
+			我们已经破产了，请您留情。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-406">
+			哪里，你们的言词如此体面，如此富有，怎么说得上破产？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-408">
+			住口，我今后不再和你交战。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-410">
+			能这样最好，这正是我的心愿。
+					<a class="line" href="#4-1-410">410</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-412">
+			你们开言吧！我简直一筹莫展。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-414">
+			亲爱的公主，为了我们卤莽的错误，指点我们一个巧妙的辩解吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-416">
+			坦白的供认是最好的辩解。您刚才不是改扮了到这儿来过的吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-418">
+			公主，是的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-420">
+			您这样作是有道理的吗？
+					<a class="line" href="#4-1-420">420</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-422">
+			有道理的，公主。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-424">
+			那时候您在您爱人的耳边轻轻地说过些什么来着？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-426">
+			我说我尊敬她甚于整个的世界。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-428">
+			等到她要求您履行您对她的誓言的时候，您就要否认说过这样的话了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-430">
+			凭着我的荣誉起誓，我决不否认。
+					<a class="line" href="#4-1-430">430</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-432">
+			且慢！且慢！不要随便发誓；一次背誓以后，什么誓都靠不住了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-434">
+			我要是毁弃了这一个誓，你可以永远轻视我。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-436">
+			我要轻视您的，所以千万遵守着吧。罗瑟琳，那俄罗斯人在你的耳边轻轻地说过些什么来着？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-438">
+			公主，他发誓说他把我当作自己的瞳人一样珍爱，重视我甚于整个的世界；他还说他要娶我为妻，否则就要爱我而死。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-440">
+			上帝祝福你嫁到这样一位丈夫！这位高贵的君王是决不食言的。
+					<a class="line" href="#4-1-440">440</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-442">
+			这是什么意思，公主？凭着我的生命和忠诚起誓，我从不曾向这位姑娘发过这样的盟誓。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-444">
+			苍天在上，您发过的；为了证明您的信实，您还给我这一件东西；可是陛下，请您把它拿回去吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-446">
+			我把我的赤心和这东西一起献给公主的；凭着她衣袖上佩带的宝石，我认明是她。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-448">
+			对不起，陛下，刚才佩带这宝石的是她呀。俾隆大人才是我的爱人，我得谢谢他。喂，俾隆大人，您还是要我呢，还是要我把您的珍珠还给您？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-450">
+			什么都不要；我全都放弃了。我懂得你们的诡计，你们预先知道了我们的把戏，有心捣乱，让它变成一本圣诞节的喜剧。哪一个鼓唇摇舌的家伙，哪一个逢迎献媚的佞人，哪一个无聊下贱的蠢物，哪一个搬弄是非的食客，哪一个侍候颜色的奴才，泄漏了我们的计划；这些淑女们因为听到这样的消息，才把各人收到的礼物交换佩带，我们只知道认明标记，却不曾想到已经张冠李戴。我们本来已经负上一重欺神背誓的罪名，现在又加上第二次的背誓；第一次是有意，这一次是无心。
+					<i class="parenthetical">向鲍益</i>
+			看来都是你破坏了我们的兴致，使我们言而无信。你不是连我们公主的脚寸有多少长短也知道得清清楚楚，老是望着她的眼睛堆起一脸笑容吗？你不是常常靠着火炉，站在她的背后，手里捧了一盆食物，讲些逗人发笑的话吗？你把我们的侍童也气糊涂了。好，你是个享有特权的人，你什么时候死了，让一件女人的衬衫做你的殓衾吧。你把眼睛瞟着我吗？哼，你的眼睛就像一柄铅剑，伤不了人的。
+					<a class="line" href="#4-1-450">450</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-452">
+			这一场玩意儿安排得真好，怪有趣的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-454">
+			听！他简直向我挑战。算了，我可不跟你斗嘴啦。
+				</span>
+			</p>
+			<p class="stagedir">考斯塔德上。</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-457">
+			欢迎，纯粹的哲人！你来得正好，否则我们又要开始一场恶战了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="4-1-459">
+			主啊！先生，他们想要知道那三位伟人要不要就进来？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-461">
+			什么，只有三个吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="4-1-463">
+			不，先生；好得很，因为每一个人都扮着三个哩。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-465">
+			三个的三倍是九个。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="4-1-467">
+			不，先生；您错了，先生，我想不是这样。我们知道就知道，不知道就不知道；我希望，先生，三个的三倍——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-469">
+			不是九个。考斯塔德　先生，请你宽恕，我们是知道总数多少的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-471">
+			天哪，我一向总以为三个的三倍是九个。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="4-1-473">
+			主啊，先生！您可不能靠着打算盘吃饭哩，先生。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-475">
+			那么究竟多少呀？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="4-1-477">
+			主啊，先生！那班表演的人，先生，可以让您知道究竟一共有几个；讲到我自己，那么正像他们说的，我这个下贱的人，只好扮演一个；我扮的是庞贝大王，先生。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-479">
+			你也是一个伟人吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="4-1-481">
+			他们以为我可以扮演庞贝大王；讲到我自己，我可不知道伟人是一个什么官衔，可是，他们要叫我扮演他。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-483">
+			去，叫他们预备起来。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="4-1-485">
+			我们一定会演得好好的，先生；我们一定演得非常小心。
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-487">
+			俾隆，他们一定会丢尽我们的脸；叫他们不要来吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-489">
+			我们的脸已经丢尽了，陛下，还怕什么？让他们表演一幕比国王和他的同伴们所表演的更拙劣的戏剧，也可以遮遮我们的羞。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-491">
+			我说不要叫他们来。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-493">
+			不，我的好陛下，这一回让我作主吧。最有趣的游戏是看一群手脚无措的人表演一些他们自己也不明白的玩意儿；他们拚命卖力，想讨人家的喜欢，结果却在过分卖力之中失去了原来的意义；虽然他们糟蹋了大好的材料，他们那慌张的姿态却很可以博人一笑。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-495">
+			陛下，这几句话把我们的游戏形容得确切之至。
+				</span>
+			</p>
+			<p class="stagedir">亚马多上。</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-1-498">
+			天命的君王，我请求你略微吐出一些芳香的御气，赐给我一两句尊严的圣语。
+					<i class="parenthetical">亚马多与国王谈话，以一纸呈国王。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-500">
+			这个人是敬奉上帝的吗？
+					<a class="line" href="#4-1-500">500</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-502">
+			您为什么问这个问题？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-504">
+			他讲的话不像是一个上帝造下的人所说的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-1-506">
+			那都一样，我的美好的、可爱的、蜜一般甜的王上；因为我要声明一句，那教书先生是太乖僻，太太自负，太太自负了；可是我们只好像人家说的，胜败各凭天命。愿你们心灵安静，最尊贵的一双！
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-508">
+			看来要有一场很出色的伟人表演哩。他扮的是特洛亚的赫克托；那乡人扮庞贝大王；教区牧师扮亚历山大；亚马多的童儿扮赫剌克勒斯；那村学究扮犹大·麦卡俾斯；要是这四位伟人在第一场表演中得到成功，他们就要改换服装，再来表演其余的五个。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-510">
+			在第一场里有五个伟人。
+					<a class="line" href="#4-1-510">510</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-512">
+			你弄错了，不是五个。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-514">
+			一个冬烘学究，一个法螺骑士，一个穷酸牧师，一个傻瓜，一个孩子；除了掷骰子五点可以算九之外，照我看全世界也找不出同样的五个人来。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-516">
+			船已经扯起帆篷，乘风而来了。
+				</span>
+			</p>
+			<p class="stagedir">考斯塔德穿甲胃扮庞贝重上。</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="4-1-519">
+			我是庞贝——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-521">
+			胡说，你不是他。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="4-1-523">
+			我是庞贝——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-525">
+			抱着盾摔了个马爬。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-527">
+			说得好，快嘴老，我俩讲和啦。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="4-1-529">
+			我是庞贝，人称庞贝老大——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="4-1-531">
+			“大王”。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="4-1-533">
+			是“大王”，先生。
+				</span>
+				<span class="line" id="4-1-534">
+			　　——人称庞贝大王；
+				</span>
+				<span class="line" id="4-1-535">
+			在战场上挺起盾牌，杀得敌人流浆；
+				</span>
+				<span class="line" id="4-1-536">
+			这回沿着海岸旅行，偶然经过贵邦，
+				</span>
+				<span class="line" id="4-1-537">
+			放下武器，敬礼法兰西的可爱姑娘。
+				</span>
+				<span class="line" id="4-1-538">
+			公主小姐要是说一声“谢谢你，庞贝”，我就可以下场了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-540">
+			多谢多谢，伟大的庞贝。
+					<a class="line" href="#4-1-540">540</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="4-1-542">
+			这不算什么；可是我希望我没有闹了笑话。我就是把“大王”念错了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-544">
+			我拿我的帽子跟别人打赌半便士，庞贝是最好的伟人。
+				</span>
+			</p>
+			<p class="stagedir">纳森聂尔牧师穿甲胄扮亚历山大上。</p>
+			<p>
+				<b class="speaker">纳森聂尔</b>
+				<span class="line" id="4-1-547">
+			当我在世之日，我是世界的主人；
+				</span>
+				<span class="line" id="4-1-548">
+			东西南北四方传布征服的威名：
+				</span>
+				<span class="line" id="4-1-549">
+			我的盾牌证明我就是亚历山大——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-551">
+			你的鼻子说不，你不是；因为它太直了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-553">
+			你的鼻子也会嗅出个“不”字来，真是一位嗅觉灵敏的骑士。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-555">
+			这位征服者在发恼了。说下去，好亚历山大。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">纳森聂尔</b>
+				<span class="line" id="4-1-557">
+			当我在世之日，我是世界的主人；——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-559">
+			不错，对的；你是世界的主人，亚历山大。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-561">
+			庞贝大王——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="4-1-563">
+			您的仆人考斯塔德在此。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-565">
+			把这征服者，把这亚历山大摔下去。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="4-1-567">
+					<i class="parenthetical">向纳森聂尔</i>
+			啊！先生，您丧尽了亚历山大的威风！从此以后，人家要把您的尊容从画布上擦掉，把您那衔着斧头坐在便桶上的狮子送给埃阿斯；他将要坐第九把伟人的交椅了。一个盖世的英雄，吓得不敢说话！赶快溜走吧，亚归山大，别丢脸啦！
+					<i class="parenthetical">纳森聂尔退下</i>
+			各位看吧，一个又笨又和善的人；一个老实的家伙，你们瞧，一下子就会着慌！他是个很好的邻居，凭良心说，而且滚得一手好球；可是叫他扮亚历山大——唉，你们都看见的，——实在有点儿不配。可是还有几个伟人就要来啦，他们会用另外一种样式说出他们的心思来的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-569">
+			站开，好庞贝。
+				</span>
+			</p>
+			<p class="stagedir">霍罗福尼斯穿甲胄扮犹大；毛子穿甲胄扮赫剌克勒斯上。</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-1-572">
+			这小鬼扮的是赫剌克勒斯，
+				</span>
+				<span class="line" id="4-1-573">
+			　他一棍打得死三头?犬；
+				</span>
+				<span class="line" id="4-1-574">
+			他在儿童孩提少小之时，
+				</span>
+				<span class="line" id="4-1-575">
+			　叫两条蛇死于他的铁腕。
+				</span>
+				<span class="line" id="4-1-576">
+			诸位听了我这一番交代，
+				</span>
+				<span class="line" id="4-1-577">
+			请看他幼年的英雄气概。
+				</span>
+				<span class="line" id="4-1-578">
+			　　放出一些威势来，下去。
+					<i class="parenthetical">毛子退下</i>
+				</span>
+				<span class="line" id="4-1-579">
+			　　　　我是犹大——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="4-1-581">
+			一个犹大！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-1-583">
+			不是犹大·伊斯凯里奥特
+					<i class="parenthetical">⒃</i>
+				</span>
+				<span class="line" id="4-1-584">
+			，先生。
+				</span>
+				<span class="line" id="4-1-585">
+			我是犹大，姓麦卡俾斯——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="4-1-587">
+			去了姓，不就是货真价实的犹大吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-589">
+			你怎么证明你不是当面接吻，背地里出卖基督的犹大？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-1-591">
+			我是犹大——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="4-1-593">
+			不要脸的犹大！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-1-595">
+			您是什么意思，先生？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-597">
+			他的意思是要叫你去上吊。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-1-599">
+			得了，先生，你比我大。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-601">
+			不然，要说大还得让犹大。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-1-603">
+			你们不能这样不给我一点面子。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-605">
+			因为你是没有脸的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-1-607">
+			这是什么？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-609">
+			一个琵琶头。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="4-1-611">
+			一个针孔。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-613">
+			一个指环上的骷髅。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="4-1-615">
+			一张模糊不清的罗马古钱上的面孔。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-617">
+			凯撒的剑把。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="4-1-619">
+			水瓶上的骨雕人面。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-621">
+			别针上半面的圣乔治。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="4-1-623">
+			嗯，这别针还是铅的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-625">
+			嗯，插在一个拔牙齿人的帽子上。现在说下去吧，你有面子了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-1-627">
+			你们叫我把面子丢尽了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-629">
+			胡说，我们给了你许多面子。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-1-631">
+			可是你们自己的面皮比哪个都厚。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-633">
+			你的狮子皮也不簿。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-635">
+			可惜狮子皮底下蒙的是一头驴，叫他走吧。再见，好犹大。怎么，你还等什么？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="4-1-637">
+			他等你吆喝呢。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-639">
+			说“犹——大——”还不够吗？——好，再听着：“犹——大——咳——喝，”快走！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">霍罗福尼斯</b>
+				<span class="line" id="4-1-641">
+			这太刻薄、太欺人、太不客气啦。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-643">
+			替犹大先生拿一个火来！天黑起来了，他也许会跌交。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-645">
+			唉，可怜的麦卡俾斯！他给你们作弄得好苦！
+				</span>
+			</p>
+			<p class="stagedir">亚马多披甲胄扮赫克托重上。</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-648">
+			藏好你的头，阿喀琉斯；赫克托全身甲胄来了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="4-1-650">
+			果然叫我自作自受了，但是我仍然很开心。
+					<a class="line" href="#4-1-650">650</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-652">
+			跟这个人一比，赫克托不过是一个特洛亚人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-654">
+			可是这是赫克托吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-656">
+			我想赫克托不会长得这么漂亮。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="4-1-658">
+			赫克托的小腿也不会有这么粗。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="4-1-660">
+			确实很粗。
+					<a class="line" href="#4-1-660">660</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-662">
+			也许是整天逃跑练出来的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-664">
+			这个人决不是赫克托。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="4-1-666">
+			他不是一个天神，就是一个画师，因为他会制造千变万化的脸相。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-1-668">
+				</span>
+				<span class="line" id="4-1-669">
+			马斯，那长枪万能的无敌战神，
+				</span>
+				<span class="line" id="4-1-670">
+			垂眷于赫克托，——
+					<a class="line" href="#4-1-670">670</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="4-1-672">
+			马斯给了赫克托一颗镀金的?蔻。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-674">
+			一只柠檬。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="4-1-676">
+			里头塞着丁香。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="4-1-678">
+			不，塞着茴香。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-1-680">
+			不要吵！
+					<a class="line" href="#4-1-680">680</a>
+				</span>
+				<span class="line" id="4-1-681">
+			马斯，那长枪万能的无敌战神，
+				</span>
+				<span class="line" id="4-1-682">
+			垂眷于赫克托，伊利恩的后人，
+				</span>
+				<span class="line" id="4-1-683">
+			把无限勇力充满了他的全身，
+				</span>
+				<span class="line" id="4-1-684">
+			使他百战不怠，从清晨到黄昏。
+				</span>
+				<span class="line" id="4-1-685">
+			我就是那战士之花，——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="4-1-687">
+			那薄荷花。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="4-1-689">
+			那白鸽花。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-1-691">
+			亲爱的朗格维大人，请你把你的舌头收住一下。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="4-1-693">
+			我必须用绳拉住它，免得它冲倒了赫克托。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="4-1-695">
+			是啊，赫克托也是猎狗的名字。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-1-697">
+			这位可爱的骑士久已死去烂掉了；好人儿们，不要敲死人的骨头；当他在世的时候，他也是一条汉子。可是我要继续我的台词。
+					<i class="parenthetical">向公主</i>
+			亲爱的公主，请你俯赐垂听。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-699">
+			说吧，勇敢的赫克托；我们很喜欢听着你哩。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-1-701">
+			我崇拜你的可爱的纤履。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-703">
+			你只能在她脚底下爬着。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="4-1-705">
+			再高一点也不行。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-1-707">
+			这赫克托比汉尼拔
+					<i class="parenthetical">⒄</i>
+				</span>
+				<span class="line" id="4-1-708">
+			凶狠万分——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="4-1-710">
+			那个人已经有了孕啦；赫克托朋友，她有了孕啦；她已经怀了两个月的身孕。
+					<a class="line" href="#4-1-710">710</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-1-712">
+			你说什么话？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="4-1-714">
+			真的，您要是不做一个老老实实的特洛亚人，这可怜的丫头从此就要完啦。她有了孕，那孩子已经在她的肚子里说话了；它是您的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-1-716">
+			你要在这些君主贵人之前破坏我的名誉吗？我要叫你死。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="4-1-718">
+			赫克托害杰奎妮妲有了身孕，本该抽一顿鞭子；要是他再犯了杀死庞贝的人命重案，绞罪是免不了的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="4-1-720">
+			举世无匹的庞贝！
+					<a class="line" href="#4-1-720">720</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-722">
+			遐迩闻名的庞贝！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-724">
+			比伟大更伟大，伟大的、伟大的、伟大的庞贝！庞大绝伦的庞贝！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="4-1-726">
+			赫克托发抖了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-728">
+			庞贝也动怒了。打！打！叫他们打起来！叫他们打起来！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="4-1-730">
+			赫克托会向他挑战的。
+					<a class="line" href="#4-1-730">730</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-732">
+			嗯，即使他肚子里所有的男人的血，还喂不饱一个跳蚤。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-1-734">
+			凭着北极起誓，我要向你挑战。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="4-1-736">
+			我不知道什么北极不北极；我只知道拿起一柄剑就斫。请你让我再去借那身盔甲穿上。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="4-1-738">
+			伟人发怒了，让开！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">考斯塔德</b>
+				<span class="line" id="4-1-740">
+			我就穿着衬衫跟你打。
+					<a class="line" href="#4-1-740">740</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="4-1-742">
+			最坚决的庞贝！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毛子</b>
+				<span class="line" id="4-1-744">
+			主人，让我给您解开一个钮扣。您不看见庞贝已经脱下衣服，准备厮杀了吗？您是什么意思？您这样会毁了您的名誉的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-1-746">
+			各位先生和骑士，原谅我；我不愿穿着衬衫决斗。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="4-1-748">
+			你不能拒绝；庞贝已经向你挑战了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-1-750">
+			好人们，我可以拒绝，我必须拒绝。
+					<a class="line" href="#4-1-750">750</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-752">
+			你凭着什么理由拒绝？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-1-754">
+			赤裸裸的事实是，我没有衬衫。我因为忏悔罪孽，贴身只穿着一件羊毛的衣服。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">鲍益</b>
+				<span class="line" id="4-1-756">
+			真的，罗马因为缺少麻布，所以向教徒们下了这样的命令；自从那时候起，我可以发誓，他只有一方杰奎妮妲的揩碟布系在他的胸前，作为一件纪念的礼物。
+				</span>
+			</p>
+			<p class="stagedir">法国使者马凯德上。</p>
+			<p>
+				<b class="speaker">马凯德</b>
+				<span class="line" id="4-1-759">
+			上帝保佑您，公主！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-761">
+			欢迎，马凯德；可是你打断我们的兴致了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">马凯德</b>
+				<span class="line" id="4-1-763">
+			我很抱歉，公主，因为我给您带来了一个我所不愿意出口的消息。您的父王——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-765">
+			死了，一定是的！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">马凯德</b>
+				<span class="line" id="4-1-767">
+			正是，我的话已经让您代说了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-769">
+			各位伟人，大家去吧！这场面被愁云笼罩起来了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-1-771">
+			讲到我自己，却呼吸到了自由的空气。通过一点能屈能伸的手腕，我总算逃过了这场威胁，我要像一个军人般赎回这个侮辱。
+					<i class="parenthetical">众伟人下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-773">
+			公主安好吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-775">
+			鲍益，准备起来；我今天晚上就要动身。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-777">
+			公主，不；请你再少留几天。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-779">
+			我说，准备起来。殷勤的陛下和各位大人，我感谢你们一切善意的努力；我还要用我这一颗新遭惨变的心灵向你们请求，要是我们在言语之间有什么放肆失礼之处，愿你们运用广大的智慧，多多包涵我们任性的孟浪；是你们的宽容纵坏了我们。再会，陛下！一个人在悲哀之中，说不出娓娓动听的话；原谅我用这样菲薄的感谢，交换您的慷慨的允诺。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-781">
+			人生的种种鹄的，往往在最后关头达到了完成的境界；长期的艰辛所不能取得结果的，却会在紧急的一刻中得到决定。虽然天伦的哀痛打断了爱情的温柔的礼仪，使它不敢提出那萦绕心头的神圣的请求，可是这一个论题既然已经开始，让悲伤的暗云不要压下它的心愿吧；因为欣幸获得新交的朋友，是比哀悼已故的亲人更为有益的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-783">
+			我不懂您的意思；我的悲哀是双重的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-785">
+			坦白直率的言语，最容易打动悲哀的耳朵；让我替王上解释他的意思。为了你们的缘故，我们蹉跎了大好的光阴，毁弃了神圣的誓言。你们的美貌，女郎们，使我们神魂颠倒，违反了我们本来的意志。恋爱是充满了各种失态的怪癖的，因此它才使我们表现出荒谬的举止，像孩子一般无赖、淘气而自大；它是产生在眼睛里的，因此它像眼睛一般，充满了无数迷离惝?U、变幻多端的形象，正像眼珠的转动反映着它所观照的事事物物一样。要是恋爱加于我们身上的这一种轻佻狂妄的外表，在你们天仙般的眼睛里看来，是不适宜于我们的誓言和身分的，那么你们必须知道，就是这些看到我们的缺点的天仙般的眼睛，使我们造成了这些缺点。所以，女郎们，我们的爱情既然是你们的，爱情所造成的错误也都是你们的；我们一度不忠于自己，从此以后，永远把我们的一片忠心，紧系在那能使我们变心也能使我们尽忠的人的身上——美貌的女郎们，我们要对你们永远忠实；凭着这一段耿耿的至诚，洗净我们叛誓的罪愆。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-787">
+			我们已经收到你们充满了爱情的信札，并且拜领了你们的礼物，那些爱情的使节；在我们这几个少女的心目中看来，这一切不过是调情的游戏、风雅的玩笑的酬酢的虚文，有些夸张过火而适合时俗的习尚，可是我们却没有看到比这更挚诚的情感；所以我们才用你们自己的方式应付你们的爱情，只把它当作一场玩笑。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="4-1-789">
+			公主，我们的信里并不只是一些开玩笑的话。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="4-1-791">
+			我们的眼光里也流露着真诚的爱慕。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-793">
+			我们却不是这样解释。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-795">
+			现在在这最后一分钟的时间，把你们的爱给了我们吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-797">
+			我想这是一个太短促的时间，缔结这一注天长地久的买卖。不，不，陛下，您毁过大多的誓，您的罪孽太深重啦；所以请您听我说，要是您为了我的爱，愿意干无论什么事情——我知道这种情形是不会有的——您就得替我做这一件事：我不愿相信您所发的誓；您必须赶快找一处荒凉僻野的隐居的所在，远离一切人世的享乐；在那边安心住下，直到天上的列星终结了它们一岁的行程。要是这种严肃而孤寂的生活，改变不了您在一时热情冲动之中所作的提议；要是霜雪和饥饿、粗劣的居室和菲薄的衣服，摧残不了您的爱情的绚艳的花朵；它经过了这一番磨炼，并没有憔悴而枯萎；那么在一年终了的时候，您就可以凭着已经履行这一条件，来向我提出要求，我现在和您握手为盟，那时候我一定愿意成为您的；在那时以前，我将要在一所惨淡凄凉的屋子里闭户幽居，为了纪念死去的父亲而流着悲伤的泪雨。要是这一个条件你不能接受，让我们从此分手；分明不是姻缘，要请您另寻佳偶。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-799">
+			倘为了贪图身体的安乐，我拒绝了你这一番提议，让死的魔手掩闭我的双目！从今以往，我的心永远和你在一起。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-801">
+			你对我有什么话说，我的爱人？你对我有什么话说？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-803">
+			你也必须洗涤你的罪恶；你的身上沾染着种种恶德，而且还负着叛誓的重罪；所以要是你希望得到我的好感，你必须在这一年之内，昼夜不休地服侍那些呻吟床榻的病人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="4-1-805">
+			可是你对我有什么话说，我的爱人？可是你对我有什么话说？我能得到个妻子吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">凯瑟琳</b>
+				<span class="line" id="4-1-807">
+			一把胡须，一个健康的身体，一颗正直的良心；我用三重的爱希望你有这三种东西。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="4-1-809">
+			啊！我可不可以说，谢谢你，温柔的妻子？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">凯瑟琳</b>
+				<span class="line" id="4-1-811">
+			不，我的大人。在这一年之内，无论哪一个小白脸来向我求婚，我都一概不理睬他们。等你们的国王来看我们公主的时候，你也来看我；要是那时候我有很多的爱，我会给你一些的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="4-1-813">
+			我一定对你克尽忠诚，等候那一天的到来。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">凯瑟琳</b>
+				<span class="line" id="4-1-815">
+			不要发誓了，免得再背誓。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="4-1-817">
+			玛利娅怎么说？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">玛利娅</b>
+				<span class="line" id="4-1-819">
+			一年过去以后，我愿意为了一个忠心的朋友脱下我的黑衣。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">朗格维</b>
+				<span class="line" id="4-1-821">
+			我愿意耐心等候；可是这时间太长了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">玛利娅</b>
+				<span class="line" id="4-1-823">
+			正像你自己；年轻轻的，个子却很长。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-825">
+			我的爱人在想些什么？姑娘，瞧着我吧。瞧我的心灵的窗门，我的眼睛，在多么谦恭而恳切地等候着你的答复；吩咐我为了你的爱干些什么事吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-827">
+			俾隆大人，我在没有识荆以前，就常常听到你的名字；世间的长舌说你是一个玩世不恭的人物，满嘴都是借题影射的讥讽和尖酸刻薄的嘲笑；无论贵贱贫富，只要触动了你的灵机，你都要把他们挖苦得不留余地。要是你希望得到我的爱，第一就得把这种可厌的习气从你的脑海之中根本除去；为了达到这一个目的，你必须在这一年的时期之内，不许有一天间断，去访问那些无言的病人，和那些痛苦呻吟的苦人儿谈话；你的唯一的任务，就是竭力运用你的才智，逗那受着疾病折磨的人们一笑。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-829">
+			在濒死者的喉间激起哄然的狂笑来吗？那可办不到，绝对不可能的；谐谑不能感动一个痛苦的灵魂。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗瑟琳</b>
+				<span class="line" id="4-1-831">
+			这是克服口头上的轻薄的唯一办法。自恃能言的傻子，正因为有了浅薄的听众随声哗笑，才会得意扬扬。可笑或不可笑取决于听者的耳朵，而不是说者的舌头。如果病人能够不顾自己的呻吟惨叫，忘却本身的痛苦，而来听你的无聊的讥嘲，那么继续把你的笑话说下去吧，我愿意连同你这一个缺点把你接受下来；可是如其他们没有那样的闲情听你说笑，那么还是赶快丢掉这种习气的好，我看见你这样勇于改过，一定会非常高兴的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-833">
+			十二个月！好，不管命运怎样把人玩弄，我要把一岁光阴，三寸妙舌，在病榻之前葬送。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-835">
+					<i class="parenthetical">向国王</i>
+			是的，我的好陛下；我就此告别了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-837">
+			不，公主，我们要送你一程。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-839">
+			我们的求婚结束得不像一本旧式的戏剧；有情人未成眷属，好好的喜剧缺少一幕团圆的场面。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-841">
+			算了，老兄，只要挨过一年就好了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">俾隆</b>
+				<span class="line" id="4-1-843">
+			那么这本戏演得又太长了。
+				</span>
+			</p>
+			<p class="stagedir">亚马多重上。</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-1-846">
+			亲爱的陛下，准许我——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">公主</b>
+				<span class="line" id="4-1-848">
+			这不是赫克托吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">杜曼</b>
+				<span class="line" id="4-1-850">
+			特洛亚的可尊敬的骑士。
+					<a class="line" href="#4-1-850">850</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-1-852">
+			我要敬吻你的御指，然后向你告别。我已经许下愿心，向杰奎妮妲发誓，为了她的爱，我要帮助她耕种三年。可是，最可尊敬的陛下，你们要不要听听那两位有学问的人所写的赞美鸱?和杜鹃的一段对话？它本来是预备放在我们的表演以后歌唱的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">国王</b>
+				<span class="line" id="4-1-854">
+			快叫他们来；我们倒要听听。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-1-856">
+			喂！进来！
+				</span>
+			</p>
+			<p class="stagedir">霍罗福尼斯、纳森聂尔、毛子、考斯塔德及余人等重上。</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-1-859">
+			这一边是冬天，这一边是春天；鸱?代表冬天，杜鹃代表春天。春天，你先开始。
+				</span>
+				<span class="line" id="4-1-860">
+			　春之歌
+					<a class="line" href="#4-1-860">860</a>
+				</span>
+				<span class="line" id="4-1-861">
+			当杂色的雏菊开遍牧场，
+				</span>
+				<span class="line" id="4-1-862">
+			　蓝的紫罗兰，白的美人衫，
+				</span>
+				<span class="line" id="4-1-863">
+			还有那杜鹃花吐蕾娇黄，
+				</span>
+				<span class="line" id="4-1-864">
+			　描出了一片广大的欣欢；
+				</span>
+				<span class="line" id="4-1-865">
+			听杜鹃在每一株树上叫，
+				</span>
+				<span class="line" id="4-1-866">
+			把那娶了妻的男人讥笑：
+				</span>
+				<span class="line" id="4-1-867">
+			　　　　咯咕！
+				</span>
+				<span class="line" id="4-1-868">
+			咯咕！咯咕！啊，可怕的声音！
+				</span>
+				<span class="line" id="4-1-869">
+			害得做丈夫的肉跳心惊。
+				</span>
+				<span class="line" id="4-1-870">
+			当无愁的牧童口吹麦笛，
+					<a class="line" href="#4-1-870">870</a>
+				</span>
+				<span class="line" id="4-1-871">
+			　清晨的云雀惊醒了农人，
+				</span>
+				<span class="line" id="4-1-872">
+			斑鸠乌鸦都在觅侣求匹，
+				</span>
+				<span class="line" id="4-1-873">
+			　女郎们漂洗夏季的衣裙；
+				</span>
+				<span class="line" id="4-1-874">
+			听杜鹃在每一株树上叫，
+				</span>
+				<span class="line" id="4-1-875">
+			把那娶了妻的男人讥笑：
+				</span>
+				<span class="line" id="4-1-876">
+			　　　　咯咕！
+				</span>
+				<span class="line" id="4-1-877">
+			咯咕！咯咕！啊，可怕的声音！
+				</span>
+				<span class="line" id="4-1-878">
+			害得做丈夫的肉跳心惊。
+				</span>
+				<span class="line" id="4-1-879">
+			　冬之歌
+				</span>
+				<span class="line" id="4-1-880">
+			当一条条冰柱檐前悬吊，
+					<a class="line" href="#4-1-880">880</a>
+				</span>
+				<span class="line" id="4-1-881">
+			　汤姆把木块向屋内搬送，
+				</span>
+				<span class="line" id="4-1-882">
+			牧童狄克呵着他的指爪，
+				</span>
+				<span class="line" id="4-1-883">
+			　挤来的牛乳凝结了一桶，
+				</span>
+				<span class="line" id="4-1-884">
+			刺骨的寒气，泥泞的路途，
+				</span>
+				<span class="line" id="4-1-885">
+			大眼睛的鸱?夜夜高呼：
+				</span>
+				<span class="line" id="4-1-886">
+			　　　哆呵！
+				</span>
+				<span class="line" id="4-1-887">
+			哆?遥?吆牵∷?璩?呕断玻
+				</span>
+				<span class="line" id="4-1-888">
+			当油垢的琼转她的锅子。
+				</span>
+				<span class="line" id="4-1-889">
+			当怒号的北风漫天吹响，
+				</span>
+				<span class="line" id="4-1-890">
+			　咳嗽打断了牧师的箴言，
+					<a class="line" href="#4-1-890">890</a>
+				</span>
+				<span class="line" id="4-1-891">
+			鸟雀们在雪里缩住颈项，
+				</span>
+				<span class="line" id="4-1-892">
+			　玛利恩冻得红肿了鼻尖，
+				</span>
+				<span class="line" id="4-1-893">
+			炙烤的螃蟹在锅内吱喳，
+				</span>
+				<span class="line" id="4-1-894">
+			大眼睛的鸱?夜夜喧哗：
+				</span>
+				<span class="line" id="4-1-895">
+			　　　　哆呵！
+				</span>
+				<span class="line" id="4-1-896">
+			哆?遥?吆牵∷?璩?呕断玻
+				</span>
+				<span class="line" id="4-1-897">
+			当油垢的琼转她的锅子。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">亚马多</b>
+				<span class="line" id="4-1-899">
+			听罢了阿波罗的歌声，麦鸠利
+					<i class="parenthetical">⒅</i>
+				</span>
+				<span class="line" id="4-1-900">
+			的语言是粗糙的。你们向那边去；我们向这边去。
+					<i class="parenthetical">各下。</i>
+					<a class="line" href="#4-1-900">900</a>
+				</span>
+			</p>
+		</div>
+	</div>
+	<div class="act">
+		<h2>注释</h2>
+		<div class="scene">
+			<h3> </h3>
+			<p>
+				<span class="line" id="5-0-1">
+			一匹名叫“摩洛哥”的马，曾轰动当时杂技界，屡见于伊丽莎伯时代的文学作品中。
+				</span>
+				<span class="line" id="5-0-2">
+			参孙（Samson），«圣经»中的大力士，见«旧约»：«士师记»。
+				</span>
+				<span class="line" id="5-0-3">
+			一句流行的童谣，亦见于«哈姆莱特»第三幕第二场。
+				</span>
+				<span class="line" id="5-0-4">
+			考斯塔德（Costard），原意是“脑袋”。
+				</span>
+				<span class="line" id="5-0-5">
+			科菲多亚（Cophetua）和培妮罗芳（Penelophon）是古代英国歌谣中的人物；亚马多将培妮罗芳误为齐妮罗芳（Zenelophon）。
+				</span>
+				<span class="line" id="5-0-6">
+			“我来，我看见，我征服”是凯撒征服本都王法那西斯后告知罗马贵族院之有名豪语。
+				</span>
+				<span class="line" id="5-0-7">
+			贺拉斯（Horace，公元前65—8年），罗马诗人。
+				</span>
+				<span class="line" id="5-0-8">
+			奥维狄斯·奈索（Ovidius Naso）即奥维德（Ovid，公元前43—公元17？），罗马诗人，«变形记»的作者。
+				</span>
+				<span class="line" id="5-0-9">
+			埃阿斯（Ajax），特洛亚战争中的英雄。参阅«特洛伊罗斯与克瑞西达»一剧。
+				</span>
+				<span class="line" id="5-0-10">
+			凯德是凯瑟琳的爱称。
+					<a class="line" href="#5-0-10">10</a>
+				</span>
+				<span class="line" id="5-0-11">
+			涅斯托（Nestor），荷马史诗«伊利亚特»中年纪最大的希腊将领，以严肃著名。
+				</span>
+				<span class="line" id="5-0-12">
+			巴克科斯（Bacchus），希腊神话里的酒神。
+				</span>
+				<span class="line" id="5-0-13">
+			斯芬克斯（Sphinx），希腊神话中狮身女首有翼之怪物，常坐路旁以甚狡诡之谜语难人。
+				</span>
+				<span class="line" id="5-0-14">
+			拉丁文，意为“在充满了荣誉的情况中”
+				</span>
+				<span class="line" id="5-0-15">
+			约书亚（Joshua），古代以色列先知；犹大·麦卡俾斯（Judas Maccabaeus），古代犹太民族英雄，庞贝大王（Pompey the Great），罗马大将。
+				</span>
+				<span class="line" id="5-0-16">
+			犹大·伊斯凯里爽特（Judas Iscariot），耶稣门徒，耶稣即被其出卖。
+				</span>
+				<span class="line" id="5-0-17">
+			汉尼拔（Hannibal，公元前247—183），迦太基名将。
+				</span>
+				<span class="line" id="5-0-18">
+			麦鸠利（Mereury），罗马神话中的商神，又为盗贼等的保护神。
+				</span>
+			</p>
+		</div>
+	</div>
+</body>
+</html>

@@ -273,7 +273,7 @@ index_template = find_template("etc/index.erb")
 
 plays = []
 parse_plays("#{SRC_FOLDER}/*.xml") do |file, play|
-  filename = file.gsub("xml","html").gsub("#{SRC_FOLDER}/","#{DEST_FOLDER}/")
+  filename = file.gsub(".xml","").gsub("#{SRC_FOLDER}/","#{DEST_FOLDER}/")
   out = do_templating(play_template, {"play"=>play}, filename)
   puts "#{File.basename(file)} -> #{File.basename(out)}"
   plays << {:title => play[:title], :subtitle => play[:subtitle], :file => File.basename(out)}

@@ -1,0 +1,6971 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset=utf-8>
+	<title>温莎的风流娘儿们</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<a href="https://github.com/edent/xn--nlqx4w7ypemw.xn--fiqs8s/blob/master/src/preprocessed/温莎的风流娘儿们.xml"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
+
+	<h1>温莎的风流娘儿们</h1>
+
+	<h2>剧中人物</h2>
+
+	<p class="speaker">约翰·福斯塔夫爵士</p>
+	<p class="speaker">范顿</p>
+	<p class="speaker">夏禄</p>
+	<p class="speaker">斯兰德</p>
+	<p class="speaker">福德</p>
+	<p class="speaker">培琪</p>
+	<p class="speaker">威廉·培琪</p>
+	<p class="speaker">休·爱文斯师傅</p>
+	<p class="speaker">卡厄斯医生</p>
+	<p class="speaker">嘉德饭店的店主</p>
+	<p class="speaker">巴道夫</p>
+	<p class="speaker">毕斯托尔</p>
+	<p class="speaker">尼　姆</p>
+	<p class="speaker">罗宾</p>
+	<p class="speaker">辛普儿</p>
+	<p class="speaker">勒格比</p>
+	<p class="speaker">福德大娘</p>
+	<p class="speaker">培琪大娘</p>
+	<p class="speaker">安·培琪</p>
+	<p class="speaker">快嘴桂嫂</p>
+	<p class="speaker">培琪、福德两家的仆人及其他</p>
+
+	<div class="act">
+		<h2>第一幕</h2>
+		<div class="scene">
+			<h3>第一场　　温莎。培琪家门前 </h3>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="0-0-2">
+			休师傅，别劝我，我一定要告到御前法庭去；就算他是二十个约翰·福斯塔夫爵士，他也不能欺侮夏禄老爷。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-4">
+			夏禄老爷是葛罗斯特郡的治安法官，而且还是个探子呢。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="0-0-6">
+			对了，侄儿，还是个“推事”呢。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-8">
+			对了，还是个“瘫子”呢；牧师先生，我告诉您吧，他出身就是个绅士，签起名来，总是要加上“大人”两个字，无论什么公文、笔据、帐单、契约，写起来总是“夏禄大人”。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="0-0-10">
+			对了，这三百年来，一直都是这样。
+					<a class="line" href="#0-0-10">10</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-12">
+			他的子孙在他以前就是这样写了，他的祖宗在他以后也可以这样写；他们家里那件绣着十二条白梭子鱼的外套可以作为证明。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="0-0-14">
+			那是一件古老的外套。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="0-0-16">
+			一件古老的外套上有着十二条白虱子，那真是相得益彰了；白虱是人类的老朋友，也是亲爱的象征。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="0-0-18">
+			不是白虱子，是淡水河里的“白梭子”鱼，我那古老的外套上，古老的纹章上，都有十二条白梭子鱼。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-20">
+			这十二条鱼我都可以“借光”，叔叔。
+					<a class="line" href="#0-0-20">20</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="0-0-22">
+			你可以，你结了婚之后可以借你妻家的光。
+					<i class="parenthetical">①</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="0-0-24">
+			家里的钱财都让人借个光，这可坏事了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="0-0-26">
+			没有的事儿。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="0-0-28">
+			可坏事呢，圣母娘娘。要是你有四条裙子，让人“借光”了，那你就一条也不剩了。可是闲话少说，要是福斯塔夫爵士有什么地方得罪了您，我是个出家人，方便为怀，很愿意尽力替你们两位和解和解。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="0-0-30">
+			我要把这事情告到枢密院去，这简直是暴动。
+					<a class="line" href="#0-0-30">30</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="0-0-32">
+			不要把暴动的事情告诉枢密院，暴动是不敬上帝的行为。枢密院希望听见人民个个敬畏上帝，不喜欢听见有什么暴动；您还是考虑考虑吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="0-0-34">
+			嘿！他妈的！要是我再年轻点儿，一定用刀子跟他解决。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="0-0-36">
+			冤家宜解不宜结，还是大家和和气气的好。我脑子里还有一个计划，要是能够成功，倒是一件美事。培琪大爷有一位女儿叫安，她是一个标致的姑娘。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-38">
+			安小姐吗？她有一头棕色的头发，说起话来细声细气，像个娘儿们似的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="0-0-40">
+			正是这位小姐，没有错的，这样的人儿你找不出第二个来。她的爷爷临死的时候——上帝接引他上天堂享福！——留给她七百镑钱，还有金子银子，等她满了十七岁，这笔财产就可以到她手里。我们现在还是把那些吵吵闹闹的事情搁在一旁，想法子替斯兰德少爷和安·培琪小姐作个媒吧。
+					<a class="line" href="#0-0-40">40</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="0-0-42">
+			她的爷爷留给她七百镑钱吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="0-0-44">
+			是的，还有她父亲给她的钱。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="0-0-46">
+			这姑娘我也认识，她的人品倒不错。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="0-0-48">
+			七百镑钱还有其他的妆奁，那还会错吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="0-0-50">
+			好，让我们去瞧瞧培琪大爷吧。福斯塔夫也在里边吗？
+					<a class="line" href="#0-0-50">50</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="0-0-52">
+			我能向您说谎吗？我顶讨厌的就是说谎的人，正像我讨厌说假话的人或是不老实的人一样。约翰爵士是在里边，请您看在大家朋友分上，忍着点儿吧。让我去打门。
+					<i class="parenthetical">敲门</i>
+			喂！有人吗？上帝祝福你们这一家！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="0-0-54">
+					<i class="parenthetical">在内</i>
+			谁呀？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="0-0-56">
+			上帝祝福你们，是您的朋友，还有夏禄法官和斯兰德少爷，我们要跟您谈些事情，也许您听了会高兴的。
+				</span>
+			</p>
+			<p class="stagedir">培琪上。</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="0-0-59">
+			我很高兴看见你们各位的气色都这样好。夏禄老爷，我还要谢谢您的鹿肉呢！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="0-0-61">
+			培琪大爷，我很高兴看见您，您心肠好，福气一定也好！这鹿是给人乱刀杀死的，所以鹿肉弄得实在不成样子，您别见笑。嫂夫人好吗？——我从心坎里谢谢您！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="0-0-63">
+			我才要谢谢您哪。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="0-0-65">
+			我才要谢谢您；干脆一句话，我谢谢您。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="0-0-67">
+			斯兰德少爷，我很高兴看见您。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-69">
+			培琪大叔，您那头黄毛的猎狗怎么样啦？听说它在最近的赛狗会上跑不过人家，有这回事吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="0-0-71">
+			那可不能这么说。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-73">
+			您还不肯承认，您还不肯承认。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="0-0-75">
+			他当然不肯承认的；这倒是很可惜的事，这倒是很可惜的事。那是一头好狗哩。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="0-0-77">
+			是一头不中用的畜生。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="0-0-79">
+			不，它是一头好狗，很漂亮的狗；那还用说吗？它又好又漂亮。福斯塔夫爵士在里边吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="0-0-81">
+			他在里边；我很愿意给你们两位彼此消消气。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="0-0-83">
+			真是一个好基督徒说的话。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="0-0-85">
+			培琪大爷，他侮辱了我。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="0-0-87">
+			是的，他自己也有几分认错。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="0-0-89">
+			认了错不能就算完事呀，培琪大爷，您说是不是？他侮辱了我；真的，他侮辱了我；一句话，他侮辱了我；你们听着，夏禄老爷说，他被人家侮辱了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="0-0-91">
+			约翰爵士来啦。
+				</span>
+			</p>
+			<p class="stagedir">福斯塔夫、巴道夫、尼姆、毕斯托尔上。</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="0-0-94">
+			喂，夏禄老爷，您要到王上面前去告我吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="0-0-96">
+			爵士，你打了我的用人，杀了我的鹿，闯进我的屋子里。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="0-0-98">
+			可是没有吻过你家看门人女儿的脸吧？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="0-0-100">
+			他妈的，什么话！我一定要跟你算帐。
+					<a class="line" href="#0-0-100">100</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="0-0-102">
+			明人不作暗事，这一切事都是我干的。现在我回答了你啦。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="0-0-104">
+			我要告到枢密院去。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="0-0-106">
+			我看你还是告到后门口去吧，也免得人家笑话你。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="0-0-108">
+			少说几句吧，约翰爵士；大家好言好语不好吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="0-0-110">
+			好言好语！我倒喜欢好酒好肉呢。斯兰德，我要捶碎你的头；你也想跟我算账吗？
+					<a class="line" href="#0-0-110">110</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-112">
+			呃，爵士，我也想跟您还有您那几位专欺兔崽子的流氓跟班，巴道夫、尼姆和毕斯托尔，算一算账呢。他们带我到酒店里去，把我灌了个醉，偷了我的钱袋。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">巴道夫</b>
+				<span class="line" id="0-0-114">
+			你这又酸又臭的干酪！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-116">
+			好，随你说吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毕斯托尔</b>
+				<span class="line" id="0-0-118">
+			喂，枯骨鬼！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-120">
+			好，随你说吧。
+					<a class="line" href="#0-0-120">120</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">尼姆</b>
+				<span class="line" id="0-0-122">
+			喂，风干肉片！这别号我给你取得好不好？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-124">
+			我的跟班辛普儿呢？叔叔，您知道吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="0-0-126">
+			请你们大家别闹，让我们来看：关于这一场争执，我知道已经有了三位公证人，第一位是培琪大爷，第二位是我自己，第三位也就是最后一位，是嘉德饭店的老板。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="0-0-128">
+			咱们三个人要听一听两方面的曲直，替他们调停出一个结果来。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="0-0-130">
+			很好，让我先在笔记簿上把要点记下来，然后我们可以仔细研究出一个方案来。
+					<a class="line" href="#0-0-130">130</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="0-0-132">
+			毕斯托尔！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毕斯托尔</b>
+				<span class="line" id="0-0-134">
+			他用耳朵听见了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="0-0-136">
+			见他妈的鬼！这算什么话，“他用耳朵听见了”？嘿，这简直是矫揉造作。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="0-0-138">
+			毕斯托尔，你有没有偷过斯兰德少爷的钱袋？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-140">
+			凭着我这双手套起誓，他偷了我七个六便士的锯边银币，还有两个爱德华时代的银币，我用每个两先令两便士的价钱换来的。倘然我冤枉了他，我就不叫斯兰德。
+					<a class="line" href="#0-0-140">140</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="0-0-142">
+			毕斯托尔，这是真事吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="0-0-144">
+			不，扒人家的口袋是见不得人的事。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毕斯托尔</b>
+				<span class="line" id="0-0-146">
+			嘿，你这个威尔士山地的生番！——我的主人约翰爵士，我要跟这把锈了的“小刀子”拚命。你这两片嘴唇说的全是假话！全是假话！你这不中用的人渣，你在说谎！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-148">
+			那么我赌咒一定是他。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">尼姆</b>
+				<span class="line" id="0-0-150">
+			说话留点儿神吧，朋友，大家客客气气。你要是想在太岁头上动土，咱老子可也不是好惹的。我要说的话就是这几句。
+					<a class="line" href="#0-0-150">150</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-152">
+			凭着这顶帽子起誓，那么一定是那个红脸的家伙偷的。我虽然不记得我给你们灌醉以后做了些什么事，可是我还不是一头十足的驴子哩。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="0-0-154">
+			你怎么说，红脸儿？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">巴道夫</b>
+				<span class="line" id="0-0-156">
+			我说，这位先生一定是喝酒喝昏了胆子啦。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="0-0-158">
+			应该是喝酒喝昏了“头”；呸，可见得真是无知！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">巴道夫</b>
+				<span class="line" id="0-0-160">
+			他喝得昏昏沉沉，于是就像人家所说的，“破了财”，结果倒怪到我头上来了。
+					<a class="line" href="#0-0-160">160</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-162">
+			那天你还说着拉丁文呢；好，随你们怎么说吧，我这回受了骗，以后再不喝醉了；我要是喝酒，一定跟规规矩矩敬重上帝的人在一起喝，决不再跟这种坏东西在一起喝了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="0-0-164">
+			好一句有志气的话！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="0-0-166">
+			各位先生，你们听他什么都否认了，你们听。
+				</span>
+			</p>
+			<p class="stagedir">安·培琪持酒具，及福德大娘，培琪大娘同上。</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="0-0-169">
+			不，女儿，你把酒拿进去，我们就在里面喝酒。
+					<i class="parenthetical">安·培琪下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-171">
+			天啊！这就是安小姐。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="0-0-173">
+			您好，福德嫂子！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="0-0-175">
+			福德大娘，我今天能够碰见您，真是三生有幸；恕我冒昧，好嫂子。
+					<i class="parenthetical">吻福德大娘。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="0-0-177">
+			娘子，请你招待招待各位客人。来，我们今天烧好一盘滚热的鹿肉馒头，要请诸位尝尝新。来，各位朋友，我希望大家一杯在手，旧怨全忘。
+					<i class="parenthetical">除夏禄、斯兰德、爱文斯外皆下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-179">
+			我宁愿要一本诗歌和十四行集，即使现在有人给我四十个先令。
+				</span>
+			</p>
+			<p class="stagedir">辛普儿上。</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-182">
+			啊，辛普儿，你到哪儿去了？难道我必须自己服侍自己吗？你有没有把那本猜谜的书带来？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">辛普儿</b>
+				<span class="line" id="0-0-184">
+			猜谜的书！怎么，您不是在上一次万圣节时候，米迦勒节的前两个星期，把它借给矮饽饽艾丽丝了吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="0-0-186">
+			来，侄儿；来，侄儿，我们等着你呢。侄儿，我有句话要对你说，是这样的，侄儿，刚才休师傅曾经隐约提起过这么一个意思；你懂得我的意思吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-188">
+			喂，叔叔，我是个好说话的人；只要是合理的事，我总是愿意的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="0-0-190">
+			不，你听我说。
+					<a class="line" href="#0-0-190">190</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-192">
+			我在听着您哪，叔叔。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="0-0-194">
+			斯兰德少爷，听清他的意思；您要是愿意的话，我可以把这件事情向您解释。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-196">
+			不，我的夏禄叔叔叫我怎么做，我就怎么做。请您原谅，他是个治安法官，谁人不知，哪个不晓？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="0-0-198">
+			不是这个意思，我们现在所要谈的，是关于您的婚姻问题。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="0-0-200">
+			对了，就是这一回事。
+					<a class="line" href="#0-0-200">200</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="0-0-202">
+			就是这一回事，我们要给您跟培琪小姐作个媒。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-204">
+			噢，原来是这么一回事，只要条件合理，我总可以答应娶她的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="0-0-206">
+			可是您能不能喜欢这一位姑娘呢？我们必须从您自己嘴里——或者从您自己的嘴唇里——有些哲学家认为嘴唇就是嘴的一部分——知道您的意思，所以请您明明白白地回答我们，您能不能对这位姑娘发生好感呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="0-0-208">
+			斯兰德贤侄，你能够爱她吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-210">
+			叔叔，我希望我总是照着道理去做。
+					<a class="line" href="#0-0-210">210</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="0-0-212">
+			嗳哟，天上的爷爷奶奶们！您一定要讲得明白点儿，您想不想要她？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="0-0-214">
+			你一定要明明白白地讲。要是她有很丰盛的妆奁，你愿意娶她吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-216">
+			叔叔，您叫我做的事，只要是合理的，比这更重大的事我也会答应下来。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="0-0-218">
+			不，你得明白我的意思，好侄儿；我所做的事，完全是为了你的幸福。你能够爱这姑娘吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-220">
+			叔叔，您叫我娶她，我就娶她；也许在起头的时候彼此之间没有多大的爱情，可是结过了婚以后，大家慢慢地互相熟悉起来，日久生厌，也许爱情会自然而然地一天不如一天。可是只要您说一声“跟她结婚”，我就跟她结婚，这是我的反复无常的决心。
+					<a class="line" href="#0-0-220">220</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="0-0-222">
+			这是一个很明理的回答，虽然措辞有点不妥，应该说“不可动摇”才对。他的意思是很好的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="0-0-224">
+			嗯，我的侄儿的意思是很好的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-226">
+			要不然的话，我就是个该死的畜生了！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="0-0-228">
+			安小姐来了。
+				</span>
+			</p>
+			<p class="stagedir">安·培琪重上。</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="0-0-231">
+			安小姐，为了您的缘故，我但愿自己再年轻起来。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">安</b>
+				<span class="line" id="0-0-233">
+			酒菜已经预备好了，家父叫我来请各位进去。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="0-0-235">
+			我愿意奉陪，好安小姐。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="0-0-237">
+			嗳哟！念起餐前祈祷来，我可不能缺席哩。
+					<i class="parenthetical">夏禄、爱文斯下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">安</b>
+				<span class="line" id="0-0-239">
+			斯兰德世兄，您也请进吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-241">
+			不，谢谢您，真的，托福托福。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">安</b>
+				<span class="line" id="0-0-243">
+			大家都在等着您哪。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-245">
+			我不饿，我真的谢谢您。喂，你虽然是我的跟班，还是进去侍候我的夏禄叔叔吧。
+					<i class="parenthetical">辛普儿下</i>
+			一个治安法官有时候也要仰仗他的朋友，借他的跟班来伺候自己。现在家母还没有死，我随身只有三个跟班一个童儿，可是这算得上什么呢？我的生活还是过得一点也不舒服。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">安</b>
+				<span class="line" id="0-0-247">
+			您要是不进去，那么我也不能进去了；他们都要等您到了才坐下来呢。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-249">
+			真的，我不要吃什么东西；可是我多谢您的好意。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">安</b>
+				<span class="line" id="0-0-251">
+			世兄，请您进去吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-253">
+			我还是在这儿走走的好，我谢谢您。我前天跟一个击剑教师比赛刀剑，三个回合赌一碟蒸熟的梅子，结果把我的胫骨也弄伤了；不瞒您说，从此以后，我闻到烧热的肉的味道就受不了。你家的狗为什么叫得这样厉害？城里有熊吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">安</b>
+				<span class="line" id="0-0-255">
+			我想是有的，我听见人家说过。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-257">
+			逗着熊玩儿是很有意思的，不过我也像别的英国人一样反对这玩意儿。您要是看见关在笼子里的熊逃了出来，您怕不怕？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">安</b>
+				<span class="line" id="0-0-259">
+			我怕。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-261">
+			我现在可把它当作家常便饭一样，不觉得什么希罕了。我曾经看见花园里那头著名的萨克逊大熊逃出来二十次，我还亲手拉住它的链条。可是我告诉您吧，那些女人们一看见了，就哭呀叫呀地闹得天翻地覆；实在说起来，也难怪她们受不了，那些畜生都是又难看又粗暴的家伙。
+				</span>
+			</p>
+			<p class="stagedir">培琪重上。</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="0-0-264">
+			来，斯兰德少爷，来吧，我们等着您呢。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-266">
+			我不要吃什么东西，我谢谢您。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="0-0-268">
+			这怎么可以呢？您不吃也得吃，来，来。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-270">
+			那么您先请吧。
+					<a class="line" href="#0-0-270">270</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="0-0-272">
+			您先请。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-274">
+			安小姐，还是您先请。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">安</b>
+				<span class="line" id="0-0-276">
+			不，您别客气了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-278">
+			真的，我不能走在你们前面；真的，那不是太无礼了吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">安</b>
+				<span class="line" id="0-0-280">
+			您何必这样客气呢？
+					<a class="line" href="#0-0-280">280</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="0-0-282">
+			既然这样，与其让你们讨厌，还是失礼的好。你们可不能怪我放肆呀。
+					<i class="parenthetical">同下。</i>
+				</span>
+			</p>
+		</div>
+		<div class="scene">
+			<h3>第二场　　同　前 </h3>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="0-1-2">
+			你去打听打听，有一个卡厄斯大夫住在哪儿；他的家里有一个叫做快嘴桂嫂的，是他的看护，或者是他的保姆，或者是他的厨娘，或者是帮他洗洗衣服的女人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">辛普儿</b>
+				<span class="line" id="0-1-4">
+			好的，师傅。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="0-1-6">
+			慢着，还有更要紧的话哩。你把这封信交给她，因为她跟培琪家小姐是很熟悉的，这封信里的意思，就是要请她代你的主人向培琪家小姐传达他的爱慕之忱。请你快点儿去吧，我饭还没有吃完，还有一道苹果跟干酪在后头呢。
+					<i class="parenthetical">各下。</i>
+				</span>
+			</p>
+		</div>
+		<div class="scene">
+			<h3>第三场　　嘉德饭店中一室 </h3>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="0-2-2">
+			店主东！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="0-2-4">
+			怎么说，我的老狐狸？要说得像有学问的人、像个聪明人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="0-2-6">
+			不瞒你说，我要辞掉一两个跟班啦。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="0-2-8">
+			好，我的巨人，叫他们滚蛋，滚蛋！滚蛋！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="0-2-10">
+			尽是坐着吃饭，我一个星期也要花上十镑钱。
+					<a class="line" href="#0-2-10">10</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="0-2-12">
+			当然罗，你就像个皇帝，像个凯撒，像个土耳其宰相。我可以把巴道夫收留下来，让他做个酒保，你看好不好，我的大英雄？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="0-2-14">
+			老板，那好极啦。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="0-2-16">
+			那么就这么办，叫他跟我来吧。
+					<i class="parenthetical">巴道夫</i>
+			让我看到你会把酸酒当作好酒卖。我不多说了；跟我来吧。
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="0-2-18">
+			巴道夫，跟他去。酒保也是一种很好的行业。旧外套可以改做新褂子；一个不中用的跟班，也可以变成一个出色的酒保。去吧，再见。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">巴道夫</b>
+				<span class="line" id="0-2-20">
+			这种生活我正是求之不得，我一定会从此交运。
+					<a class="line" href="#0-2-20">20</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毕斯托尔</b>
+				<span class="line" id="0-2-22">
+			哼，没出息的东西！你要去开酒桶吗？
+					<i class="parenthetical">巴道夫下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">尼姆</b>
+				<span class="line" id="0-2-24">
+			这个糊涂爷娘生下来的窝囊废！我这随口而出的话妙不妙？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="0-2-26">
+			我很高兴把这火种这样打发走了；他的偷窃太公开啦，他在偷偷摸摸的时候，就像一个不会唱歌的人一样，一点不懂得轻重快慢。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">尼姆</b>
+				<span class="line" id="0-2-28">
+			做贼的唯一妙诀，是看准下手的时刻。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毕斯托尔</b>
+				<span class="line" id="0-2-30">
+			聪明的人把它叫做“不告而取”。“做贼”！啐！好难听的话儿！
+					<a class="line" href="#0-2-30">30</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="0-2-32">
+			孩子们，我快要穷得鞋子都没有后跟啦。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毕斯托尔</b>
+				<span class="line" id="0-2-34">
+			好，那么就让你的脚跟上长起老大的冻疮来吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="0-2-36">
+			没有法子，我必须想个办法，捞一些钱来。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毕斯托尔</b>
+				<span class="line" id="0-2-38">
+			小乌鸦们不吃东西也是不行的呀。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="0-2-40">
+			你们有谁知道本地有一个叫福德的家伙？
+					<a class="line" href="#0-2-40">40</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毕斯托尔</b>
+				<span class="line" id="0-2-42">
+			我知道那家伙，他很有几个钱。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="0-2-44">
+			我的好孩子们，现在我要把我肚子里的计划怎么长怎么短都告诉你们。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毕斯托尔</b>
+				<span class="line" id="0-2-46">
+			你这肚子两码都不止吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="0-2-48">
+			休得取笑，毕斯托尔！我这腰身的确在两码左右，可是谁跟你谈我的大腰身来着，我倒是想谈谈人家的小腰身呢——这一回，我谈的是进账，不是出账。说得干脆些，我想去吊福德老婆的膀子。我觉得她对我很有几分意思；她跟我讲话的那种口气，她向我卖弄风情的那种姿势，还有她那一瞟一瞟的脉脉含情的眼光，都好像在说，“我的心是福斯塔夫爵士的。”
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毕斯托尔</b>
+				<span class="line" id="0-2-50">
+			你果然把她的心理研究得非常透彻，居然把它一个字一个字地解释出来啦。
+					<a class="line" href="#0-2-50">50</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">尼姆</b>
+				<span class="line" id="0-2-52">
+			抛锚抛得好深啊；我这随口而出的话好不好？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="0-2-54">
+			听说她丈夫的钱都是她一手经管的；他有数不清的钱藏在家里。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毕斯托尔</b>
+				<span class="line" id="0-2-56">
+			财多招鬼忌，咱们应该去给他消消灾；我说，向她进攻吧！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">尼姆</b>
+				<span class="line" id="0-2-58">
+			我的劲头儿上来了；很好，快拿金钱来给我消消灾吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="0-2-60">
+			我已经写下一封信在这儿预备寄给她；这儿还有一封，是写给培琪老婆的，她刚才也向我眉目传情，她那双水汪汪的眼睛一霎不霎地望着我身上的各部分，一会儿瞧瞧我的脚，一会儿瞧瞧我的大肚子。
+					<a class="line" href="#0-2-60">60</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毕斯托尔</b>
+				<span class="line" id="0-2-62">
+			正好比太阳照在粪堆上。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">尼姆</b>
+				<span class="line" id="0-2-64">
+			这个譬喻打得好极了！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="0-2-66">
+			啊！她用贪馋的神气把我从上身望到下身，她的眼睛里简直要喷出火来炙我。这一封信是给她的。她也经管着钱财，她就像是一座取之不竭的金矿。我要去接管她们两人的全部富源，她们两人便是我的两个国库；她们一个是东印度，一个是西印度，我就在这两地之间开辟我的生财大道。你给我去把这信送给培琪大娘；你给我去把这信送给福德大娘。孩子们，咱们从此可以有舒服日子过啦！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毕斯托尔</b>
+				<span class="line" id="0-2-68">
+			我身边佩着钢刀，是个军人，你倒要我给你拉皮条吗？鬼才干这种事！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">尼姆</b>
+				<span class="line" id="0-2-70">
+			这种龌龊的事情我也不干；把这封宝贝信拿回去吧。
+					<a class="line" href="#0-2-70">70</a>
+				</span>
+			</p>
+			<p class="stagedir">我的名誉要紧。</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="0-2-73">
+					<i class="parenthetical">向罗宾</i>
+			来，小鬼，你给我把这两封信送去，小心别丢了。你就像我的一艘快船一样，赶快开到这两座金山的脚下去吧。
+					<i class="parenthetical">罗宾下</i>
+			你们这两个混蛋，一起给我滚吧！再不要让我看见你们的影子！像狗一样爬得远远的，我这里容不了你们。滚！这年头儿大家都要讲究个紧缩，福斯塔夫也要学学法国人的算计，留着一个随身的童儿，也就够了。
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毕斯托尔</b>
+				<span class="line" id="0-2-75">
+			让饿老鹰把你的心肝五脏一起抓了去！你用假骰子到处诈骗人家，看你作孽到几时！等你有一天穷得袋里一个子儿都没有的时候，再瞧瞧老子是不是一定要靠着你才得活命，这万恶不赦的老贼！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">尼姆</b>
+				<span class="line" id="0-2-77">
+			我心里正在转着一个念头，我要复仇。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毕斯托尔</b>
+				<span class="line" id="0-2-79">
+			你要复仇吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">尼姆</b>
+				<span class="line" id="0-2-81">
+			天日在上，此仇非报不可！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毕斯托尔</b>
+				<span class="line" id="0-2-83">
+			用计策还是用武力？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">尼姆</b>
+				<span class="line" id="0-2-85">
+			两样都要用；我先去向培琪报告，有人正在勾搭他的老婆。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毕斯托尔</b>
+				<span class="line" id="0-2-87">
+			我就去叫福德加倍留神，
+				</span>
+				<span class="line" id="0-2-88">
+			　说福斯塔夫，那混账东西，
+				</span>
+				<span class="line" id="0-2-89">
+			想把他的财产一口侵吞，
+				</span>
+				<span class="line" id="0-2-90">
+			　还要占夺他的美貌娇妻。
+					<a class="line" href="#0-2-90">90</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">尼姆</b>
+				<span class="line" id="0-2-92">
+			我的脾气是想到就做，我要去煽动培琪，让他心里充满了醋意，叫他用毒药毒死这家伙。谁要是对我不起，让他知道咱老子也不是好惹的；这就是我生来的脾气。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毕斯托尔</b>
+				<span class="line" id="0-2-94">
+			你就是个天煞星，我愿意跟你合作，走吧。
+					<i class="parenthetical">同下。</i>
+				</span>
+			</p>
+		</div>
+		<div class="scene">
+			<h3>第四场　　卡厄斯医生家中一室 </h3>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="0-3-2">
+			喂，勒格比！
+				</span>
+			</p>
+			<p class="stagedir">勒格比上。</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="0-3-5">
+			请你到窗口去瞧瞧看，咱们这位东家来了没有；要是他来了，看见屋子里有人，一定又要给他用蹩脚的伦敦官话，把我昏天黑地骂一顿。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">勒格比</b>
+				<span class="line" id="0-3-7">
+			好，我去看看。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="0-3-9">
+			去吧，今天晚上等我们烘罢了火，我请你喝杯酒。
+					<i class="parenthetical">勒格比下</i>
+			他是一个老实的听话的和善的家伙，你找不到第二个像他这样的仆人；他又不会说长道短，也不会搬弄是非；他的唯一的缺点，就是太喜欢祷告了，他祷告起来，简直像个呆子，可是谁都有几分错处，那也不用说它了。你说你的名字叫辛普儿吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">辛普儿</b>
+				<span class="line" id="0-3-11">
+			是，人家就这样叫我。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="0-3-13">
+			斯兰德少爷就是你的主人吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">辛普儿</b>
+				<span class="line" id="0-3-15">
+			正是。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="0-3-17">
+			他不是留着一大把胡须，像手套商的削皮刀吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">辛普儿</b>
+				<span class="line" id="0-3-19">
+			不，他只有一张小小的、白白的脸，略微有几根黄胡子。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="0-3-21">
+			他是一个很文弱的人，是不是？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">辛普儿</b>
+				<span class="line" id="0-3-23">
+			是的，可是在那个地段里，真要比起力气来，他也不怕人家；他曾经跟看守猎苑的人打过架呢。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="0-3-25">
+			你怎么说？——啊，我记起来啦！他不是走起路来大摇大摆，把头抬得高高的吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">辛普儿</b>
+				<span class="line" id="0-3-27">
+			对了，一点不错，他正是这样子。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="0-3-29">
+			好，天老爷保佑培琪小姐嫁到这样一位好郎君吧！你回去对休牧师先生说，我一定愿意尽力帮你家少爷的忙。安是个好孩子，我但愿——
+				</span>
+			</p>
+			<p class="stagedir">勒格比重上。</p>
+			<p>
+				<b class="speaker">勒格比</b>
+				<span class="line" id="0-3-32">
+			不好了，快出去，我们老爷来啦！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="0-3-34">
+			咱们大家都要挨一顿臭骂了。这儿来，好兄弟，赶快钻到这个壁橱里去。
+					<i class="parenthetical">将辛普儿关在壁橱内</i>
+			他一会儿就要出去的。喂，勒格比！喂，你在哪里？勒格比，你去瞧瞧老爷去，他现在还不回来，不知道人好不好。
+					<i class="parenthetical">勒格比下，桂嫂唱歌</i>
+			得儿郎当，得儿郎当……
+				</span>
+			</p>
+			<p class="stagedir">卡厄斯上。</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="0-3-37">
+			你在唱些什么？我讨厌这种玩意儿。请你快给我到壁橱里去，把一只匣子，一只绿的匣子，给我拿来；听见我的话吗？一只绿的匣子。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="0-3-39">
+			好，好，我就去给您拿来。
+					<i class="parenthetical">旁白</i>
+			谢天谢地他没有自己去拿，要是给他看见了壁橱里有一个小伙子，他一定要暴跳如雷了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="0-3-41">
+			快点，快点！天气热得很哪。我有要紧的事，就要到宫廷里去。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="0-3-43">
+			是这一个吗，老爷？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="0-3-45">
+			对了，给我放在口袋里，快点。勒格比那个混蛋呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="0-3-47">
+			喂，勒格比！勒格比！
+				</span>
+			</p>
+			<p class="stagedir">勒格比重上。</p>
+			<p>
+				<b class="speaker">勒格比</b>
+				<span class="line" id="0-3-50">
+			有，老爷。
+					<a class="line" href="#0-3-50">50</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="0-3-52">
+			勒格比，把剑拿来，跟我到宫廷里去。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">勒格比</b>
+				<span class="line" id="0-3-54">
+			剑已经放在门口了，老爷。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="0-3-56">
+			我已经耽搁得太久了。——该死！我又忘了！壁橱里还有点儿药草，一定要带去。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="0-3-58">
+					<i class="parenthetical">旁白</i>
+			糟了！他看见了那个小子，一定要发疯哩。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="0-3-60">
+			见鬼！见鬼！什么东西在我的壁橱里？——混蛋！狗贼！
+					<i class="parenthetical">将辛普儿拖出</i>
+			勒格比，把我的剑拿来！
+					<a class="line" href="#0-3-60">60</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="0-3-62">
+			好老爷，请您息怒吧！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="0-3-64">
+			我为什么要息怒？嘿！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="0-3-66">
+			这个年轻人是个好人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="0-3-68">
+			是好人躲在我的壁橱里干什么？躲在我的壁橱里，就不是好人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="0-3-70">
+			请您别发这么大的脾气。老实告诉您吧，是休牧师叫他来找我的。
+					<a class="line" href="#0-3-70">70</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="0-3-72">
+			好。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">辛普儿</b>
+				<span class="line" id="0-3-74">
+			正是，休牧师叫我来请这位大娘——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="0-3-76">
+			你不要说话。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="0-3-78">
+			闭住你的嘴！——你说吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">辛普儿</b>
+				<span class="line" id="0-3-80">
+			请这位大娘替我家少爷去向培琪家小姐说亲。
+					<a class="line" href="#0-3-80">80</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="0-3-82">
+			真的，只是这么一回事。可是我才不愿多管这种闲事，把手指头伸到火里去呢；跟我又没有什么相干。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="0-3-84">
+			是休牧师叫你来的吗？——勒格比，拿张纸来。你再等一会儿。
+					<i class="parenthetical">写信。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="0-3-86">
+			我很高兴他今天这么安静，要是他真的动起怒来，那才会吵得日月无光呢。可是别管他，我一定尽力帮你家少爷的忙；不瞒你说，这个法国医生，我的主人——我可以叫他做我的主人，因为你瞧，我替他管屋子，还给他洗衣服、酿酒、烘面包、扫地擦桌、烧肉烹茶、铺床叠被，什么都是我一个人做的——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">辛普儿</b>
+				<span class="line" id="0-3-88">
+			一个人做这么多事，真太辛苦啦。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="0-3-90">
+			你替我想想，真把人都累死了，天一亮就起身，老晚才睡觉；可是这些话也不用说了，让我悄悄地告诉你，你可不许对人家说，我那个东家他自己也爱着培琪家小姐；可是安的心思我是知道的，她的心既不在这儿也不在那儿。
+					<a class="line" href="#0-3-90">90</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="0-3-92">
+			猴崽子，你去把这封信交给休牧师，这是一封挑战书，我要在林苑里割断他的喉咙；我要教训教训这个猴崽子的牧师，问他以后还多管闲事不管。你去吧，你留在这儿没有好处。哼，我要把他那两颗睾丸一起割下来，连一颗也不剩。
+					<i class="parenthetical">辛普儿下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="0-3-94">
+			唉！他也不过帮他朋友说句话罢了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="0-3-96">
+			我可不管；你不是对我说安·培琪一定会嫁给我的吗？哼，我要是不把那个狗牧师杀掉，我就不是个人；我要叫嘉德饭店的老板替我们做公证人。哼，我要是不娶安·培琪为妻，我就不是个人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="0-3-98">
+			老爷，那姑娘喜欢您哩，包您万事如意。人家高兴嚼嘴嚼舌，就让他们去嚼吧。真是哩！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="0-3-100">
+			勒格比，跟我到宫廷去。哼，要是我娶不到安·培琪为妻，我不把你赶出门，我就不是个人。跟我来，勒格比。
+					<i class="parenthetical">卡厄斯、勒格比下。</i>
+					<a class="line" href="#0-3-100">100</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="0-3-102">
+			呸！做你的梦！安的心思我是知道的；在温莎地方，谁也没有像我一样明白安的心思了；谢天谢地，她也只肯听我的话，别人的话她才不理呢。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">范顿</b>
+				<span class="line" id="0-3-104">
+					<i class="parenthetical">在内</i>
+			里面有人吗？喂！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="0-3-106">
+			谁呀？进来吧。
+				</span>
+			</p>
+			<p class="stagedir">范顿上。</p>
+			<p>
+				<b class="speaker">范顿</b>
+				<span class="line" id="0-3-109">
+			啊，大娘，你好哇？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="0-3-111">
+			多承大爷问起，托福托福。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">范顿</b>
+				<span class="line" id="0-3-113">
+			有什么消息？安小姐近来好吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="0-3-115">
+			凭良心说，大爷，她真是一位又标致、又端庄、又温柔的好姑娘；范顿大爷，我告诉您吧，她很佩服您哩，谢天谢地。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">范顿</b>
+				<span class="line" id="0-3-117">
+			你看起来我有几分希望吗？我的求婚不会失败吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="0-3-119">
+			真的，大爷，什么事情都是天老爷注定了的；可是，范顿大爷，我可以发誓她是爱您的。您的眼皮上不是长着一颗小疙瘩吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">范顿</b>
+				<span class="line" id="0-3-121">
+			是有颗疙瘩，那便怎样呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="0-3-123">
+			哦，这上面就有一段话呢。真的，我们这位小安就像换了个人似的，我们讲那颗疙瘩足足讲了一个钟点。人家讲的笑话一点不好笑，那姑娘讲的笑话才叫人打心窝里笑出来呢。可是我可以跟无论什么人打赌，她是个顶规矩的姑娘。她近来也实在太喜欢一个人发呆了，老像在想着什么心事似的。至于讲到您——那您尽管放心吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">范顿</b>
+				<span class="line" id="0-3-125">
+			好，我今天要去看她。这几个钱请你收下，多多拜托你帮我说句好话。要是你比我先看见她，请你替我向她致意。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="0-3-127">
+			那还用说吗？下次要是有机会，我还要给您讲起那个疙瘩哩；我也可以告诉您还有些什么人在转她的念头。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">范顿</b>
+				<span class="line" id="0-3-129">
+			好，回头见；我现在还有要事，不多谈了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="0-3-131">
+			回头见，范顿大爷。
+					<i class="parenthetical">范顿下</i>
+			这人是个规规矩矩的绅士，可是安并不爱他，谁也不及我更明白安的心思了。该死！我又忘了什么啦？
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+		</div>
+	</div>
+	<div class="act">
+		<h2>第二幕</h2>
+		<div class="scene">
+			<h3>第一场　　培琪家门前 </h3>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="1-0-2">
+			什么！我在年轻貌美的时候，都不曾收到过什么情书，现在倒有人写起情书来给我了吗？让我来看：“不要问我为什么我爱你；因为爱情虽然会用理智来作疗治相思的药饵，它却是从来不听理智的劝告的。你并不年轻，我也是一样；好吧，咱们同病相怜。你爱好风流，我也是一样；哈哈，那尤其是同病相怜。你喜欢喝酒，我也是一样；咱们俩岂不是天生的一对？要是一个军人的爱可以使你满足，那么培琪大娘，你也可以心满意足了，因为我已经把你爱上了。我不愿意说，可怜我吧，因为那不是一个军人所应该说的话；可是我说，爱我吧。愿意为你赴汤蹈火的，你的忠心的骑士，约翰·福斯塔夫上。”好一个胆大妄为的狗贼！嗳哟，万恶的万恶的世界！一个快要老死了的家伙，还要自命风流！真是见鬼！这个酒鬼究竟从我的谈话里抓到了什么出言不检的地方，竟敢用这种话来试探我？我还没有见过他三次面呢！我应该怎样对他说呢？那个时候，上帝饶恕我！我也只是说说笑笑罢了。哼，我要到议会里去上一个条陈，请他们把那班男人一概格杀勿论。我应该怎样报复他呢？我这一口气非出不可，这是不用问的，就像他的肠子都是用布丁做的一样。
+				</span>
+			</p>
+			<p class="stagedir">福德大娘上。</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="1-0-5">
+			培琪嫂子！我正要到您府上来呢。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="1-0-7">
+			我也正要到您家里去呢。您脸色可不大好看呀。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="1-0-9">
+			那我可不信，我应该满面红光才是呢。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="1-0-11">
+			说真的，我觉得您脸色可不大好看。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="1-0-13">
+			好吧，就算不大好看吧；可是我得说，我本来可以让您看到满面红光的。啊，培琪嫂子！您给我出个主意吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="1-0-15">
+			什么事，大姊？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="1-0-17">
+			啊，大姊，我倘不是因为觉得这种事情太不好意思，我就可以富贵起来啦！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="1-0-19">
+			大姊，管他什么好意思不好意思，富贵起来不好吗？是怎么一回事？——别理会什么不好意思；是怎么一回事？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="1-0-21">
+			我只要高兴下地狱走一趟，我就可以封爵啦。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="1-0-23">
+			什么？你在胡说。爱丽·福德爵士！现在这种爵士满街都是，你还是不用改变你的头衔吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="1-0-25">
+			废话少说，你读一读这封信；你瞧了以后，就可以知道我怎样可以封起爵来。从此以后，只要我长着眼睛，还看得清男人的模样儿，我要永远瞧不起那些胖子。可是他当着我们的面，居然不曾咒天骂地，居然赞美贞洁的女人，居然装出那么正经的样子，自称从此再也不干那种种荒唐的事了；我还真想替他发誓，他说这话是真心诚意的；谁知他说的跟他做的根本碰不到一块儿，就像圣洁的赞美诗和下流的小曲儿那样天差地别。是哪一阵暴风把这条肚子里装着许多吨油的鲸鱼吹到了温莎的海岸上来？我应该怎样报复他呢？我想最好的办法是假意敷衍他，却永远不让他达到目的，直等罪恶的孽火把他熔化在他自己的脂油里。你有没有听见过这样的事情？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="1-0-27">
+			你有一封信，我也有一封信，就是换了个名字！你不用只管揣摩，怎么会让人家把自己看得这样轻贱；请你大大地放心，瞧吧，这是你那封信的孪生兄弟——不过还是让你那封信做老大，我的信做老二好了，我决不来抢你的地位。我敢说，他已经写好了一千封这样的信，只要在空白的地方填下了姓名，就可以寄给人家；也许还不止一千封，咱们的已经是再版的了。他一定会把这种信刻成版子印起来的，因为他会把咱们两人的名字都放上去，可见他无论刻下了些什么乱七八糟的东西，都会一样不在乎。我要是跟他在一起睡觉，还是让一座山把我压死了吧。嘿，你可以找到二十只贪淫的乌龟，却不容易找到一个规规矩矩的男人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="1-0-29">
+			嗳哟，这两封信简直是一个印版里印出来的，同样的笔迹，同样的字句。他到底把我们看做什么人啦？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="1-0-31">
+			那我可不知道；我看见了这样的信，真有点自己不相信自己起来了。以后我一定得留心察看自己的行动，因为他要是不在我身上看出了一点我自己也不知道的不大规矩的地方，一定不会毫无忌惮到这个样子。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="1-0-33">
+			你说他毫无忌惮？哼，我一定要叫他知道厉害。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="1-0-35">
+			我也是这个主意。要是我让他欺到我头上来，我从此不做人了。我们一定要向他报复。让我们约他一个日子相会，把他哄骗得心花怒放，然后我们采取长期诱敌的计策，只让他闻到鱼儿的腥气，不让他尝到鱼儿的味道，逗得他馋涎欲滴，饿火雷鸣，吃尽当光，把他的马儿都变卖给嘉德饭店的老板为止。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="1-0-37">
+			好，为了作弄这个坏东西，我什么恶毒的事情都愿意干，只要对我自己的名誉没有损害。啊，要是我的男人见了这封信，那还了得！他那股醋劲儿才大呢。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="1-0-39">
+			嗳哟，你瞧，他来啦，我的那个也来啦；他是从来不吃醋的，我也从来不给他一点可以使他吃醋的理由；我希望他永远不吃醋才好。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="1-0-41">
+			那你的运气比我好得多啦。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="1-0-43">
+			我们再商量商量怎样对付这个好色的骑士吧。过来。
+					<i class="parenthetical">二人退后。</i>
+				</span>
+			</p>
+			<p class="stagedir">福德、毕斯托尔、培琪、尼姆同上。</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-0-46">
+			我希望不会有这样的事。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毕斯托尔</b>
+				<span class="line" id="1-0-48">
+			希望在有些事情上是靠不住的。福斯塔夫在转你老婆的念头哩。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-0-50">
+			我的妻子年纪也不小了。
+					<a class="line" href="#1-0-50">50</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毕斯托尔</b>
+				<span class="line" id="1-0-52">
+			他玩起女人来，不论贵贱贫富老少，在他都是一样；只要是女人都配他的胃口。福德，你可留点神吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-0-54">
+			爱上我的妻子！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毕斯托尔</b>
+				<span class="line" id="1-0-56">
+			他心里火一样的热呢。你要是不赶快防备，只怕将来你头上会长什么东西出来，你会得到一个不雅的头衔。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-0-58">
+			什么头衔？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毕斯托尔</b>
+				<span class="line" id="1-0-60">
+			头上出角的忘八哪。再见。偷儿总是乘着黑夜行事的，千万留心门户；否则只怕夏天还没到，郭公就在枝头对你叫了。走吧，尼姆伍长！培琪，他说的都是真话，你不可不信。
+					<i class="parenthetical">下。</i>
+					<a class="line" href="#1-0-60">60</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-0-62">
+					<i class="parenthetical">旁白</i>
+			我必须忍耐一下，把这事情调查明白。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">尼姆</b>
+				<span class="line" id="1-0-64">
+					<i class="parenthetical">问培琪</i>
+			这是真的，我不喜欢撒谎。他在许多地方对不起我。他本来叫我把那鬼信送给她，可是我就是真没有饭吃，也可以靠我的剑过日子。总而言之一句话，他爱你的老婆。我的名字叫做尼姆伍长，我说的话全是真的；我的名字叫尼姆，福斯塔夫爱你的老婆。天天让我吃那份儿面包干酪，我才没有那么好的胃口呢；我有什么胃口说什么话。再见。
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="1-0-66">
+					<i class="parenthetical">旁白</i>
+			“有什么胃口说什么话，”这家伙夹七夹八的，不知在讲些什么东西！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-0-68">
+			我要去找那福斯塔夫。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="1-0-70">
+			我从来没有听见过这样一个噜哩噜苏、装腔作势的家伙。
+					<a class="line" href="#1-0-70">70</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-0-72">
+			要是给我发觉了，哼。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="1-0-74">
+			我就不相信这种狗东西的话，虽然城里的牧师还说他是个好人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-0-76">
+			他的话说得倒很有理，哼。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="1-0-78">
+			啊，娘子！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="1-0-80">
+			官人，你到哪儿去？——我对你说。
+					<a class="line" href="#1-0-80">80</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="1-0-82">
+			嗳哟，我的爷！你有了什么心事啦？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-0-84">
+			我有什么心事！我有什么心事？你回家去吧，去吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="1-0-86">
+			真的，你一定又在转着些什么古怪的念头。培琪嫂子，咱们去吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="1-0-88">
+			好，你先请。官人，你今天回来吃饭吗。
+					<i class="parenthetical">向福德大娘旁白</i>
+			瞧，那边来的是什么人？咱们可以叫她去带信给那个下流的骑士。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="1-0-90">
+			我刚才还想起了她，叫她去是再好没有了。
+					<a class="line" href="#1-0-90">90</a>
+				</span>
+			</p>
+			<p class="stagedir">快嘴桂嫂上。</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="1-0-93">
+			你是来瞧我的女儿安的吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="1-0-95">
+			正是呀，请问我们那位好安小姐好吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="1-0-97">
+			你跟我们一块儿进去瞧瞧她吧；我们还有很多话要跟你讲哩。
+					<i class="parenthetical">培琪大娘、福德大娘及桂嫂同下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="1-0-99">
+			福德大爷，您怎么啦？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-0-101">
+			你听见那家伙告诉我的话没有？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="1-0-103">
+			我听见了；还有那个家伙告诉我的话，你听见了没有？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-0-105">
+			你想他们说的话靠得住靠不住？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="1-0-107">
+			理他呢，这些狗东西！那个骑士固然不是好人，可是这两个说他意图勾引你、我妻子的人，都是他的革退的跟班，现在没有事做了，什么坏话都会说得出来的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-0-109">
+			他们都是他的跟班吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="1-0-111">
+			是的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-0-113">
+			那倒很好。他住在嘉德饭店里吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="1-0-115">
+			正是。他要是真想勾搭我的妻子，我可以假作痴聋，给他一个下手的机会，看他除了一顿臭骂之外，还会从她身上得到什么好处。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-0-117">
+			我并不疑心我的妻子，可是我也不放心让她跟别个男人在一起。一个男人太相信他的妻子，也是危险的。我不愿戴头巾，这事情倒不能就这样一笑置之。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="1-0-119">
+			瞧，咱们那位爱吵闹的嘉德饭店的老板来了。他瞧上去这样高兴，倘不是喝醉了酒，一定是袋里有了几个钱——
+				</span>
+			</p>
+			<p class="stagedir">店主及夏禄上。</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="1-0-122">
+			老板，您好？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="1-0-124">
+			啊，老狐狸！你是个好人。喂，法官先生！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="1-0-126">
+			我在这儿，老板，我在这儿。晚安，培琪大爷！培琪大爷，您跟我们一块儿去好吗？我们有新鲜的玩意儿看呢。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="1-0-128">
+			告诉他，法官先生；告诉他，老狐狸。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="1-0-130">
+			那个威尔士牧师休·爱文斯跟那个法国医生卡厄斯要有一场决斗。
+					<a class="line" href="#1-0-130">130</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-0-132">
+			老板，我跟您讲句话儿。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="1-0-134">
+			你怎么说，我的老狐狸？
+					<i class="parenthetical">二人退立一旁。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="1-0-136">
+					<i class="parenthetical">向培琪</i>
+			您愿意跟我们一块儿瞧瞧去吗？我们这位淘气的店主已经替他们把剑较量过了，而且我相信已经跟他们约好了两个不同的地方，因为我听人家说那个牧师是个非常认真的家伙。来，我告诉您，我们将要有怎样一场玩意儿。
+					<i class="parenthetical">二人退立一旁。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="1-0-138">
+			客人先生，你不是跟我的骑士有点儿过不去吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-0-140">
+			不，绝对没有。我愿意送给您一瓶烧酒，请您让我去见见他，对他说我的名字是白罗克，那不过是跟他开开玩笑而已。
+					<a class="line" href="#1-0-140">140</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="1-0-142">
+			很好，我的好汉；你可以自由出入，你说好不好？你的名字就叫白罗克。他是个淘气的骑士哩。诸位，咱们走吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="1-0-144">
+			好，老板，请你带路。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="1-0-146">
+			我听人家说，这个法国人的剑术很不错。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="1-0-148">
+			这算得了什么！我在年轻时候，也着实来得一手呢。从前这种讲究剑法的，一个站在这边，一个站在那边，你这么一刺，我这么一挥，还有各式各样的名目，我记也记不清楚；可是培琪大爷，顶要紧的毕竟还要看自己有没有勇气。不瞒您说，我从前凭着一把长剑，就可以叫四个高大的汉子抱头鼠窜哩。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="1-0-150">
+			喂，孩子们，来！咱们该走了！
+					<a class="line" href="#1-0-150">150</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="1-0-152">
+			好，你先请吧。我倒不喜欢看他们真的打起来，宁愿听他们吵一场嘴。
+					<i class="parenthetical">店主、夏禄、培琪同下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-0-154">
+			培琪是个胆大的傻瓜，他以为他的老婆一定不会背着他偷汉子，可是我却不能把事情看得这样大意。我的女人在培琪家的时候，他也在那儿，他们两人捣过什么鬼我也不知道。好，我还要仔细调查一下；我要先假扮了去试探试探福斯塔夫。要是侦察的结果，她并没有做过不规矩的事情，那我也可以放下心来；不然的话，也可以不致于给这一对男女蒙在鼓里。
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+		</div>
+		<div class="scene">
+			<h3>第二场　　嘉德饭店中一室 </h3>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-2">
+			我一个子儿也不借给你。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毕斯托尔</b>
+				<span class="line" id="1-1-4">
+			那么我要凭着我的宝剑，去打出一条生路来了。你要是答应借给我，我将来一定如数奉还，决不拖欠。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-6">
+			一个子儿也没有。我让你把我的面子丢尽，从来不曾跟你计较过；我曾经不顾人家的讨厌，替你和你那个同伙尼姆一次两次三次向人家求情说项，否则你们早已像一对大猩猩一样，给他们抓起来关在铁笼子里了。我不惜违背良心，向我那些有身分的朋友们发誓说你们都是很好的军人，堂堂的男子；白律治太太丢了她的扇柄，我还用我的名誉替你辩护，说你没有把它偷走。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毕斯托尔</b>
+				<span class="line" id="1-1-8">
+			你不是也分到好处吗？我不是给你十五便士吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-10">
+			混蛋，一个人总要讲理呀；我难道白白地出卖良心吗？一句话，别尽缠我了，我又不是你的绞刑架，吊在我身边干什么？去吧；一把小刀一堆人！
+					<i class="parenthetical">②</i>
+					<a class="line" href="#1-1-10">10</a>
+				</span>
+				<span class="line" id="1-1-11">
+			快给我滚回你的贼窠里去吧！你不肯替我送信，你这混蛋！你的名誉要紧！哼，你这死不要脸的东西！连我要保牢我的名誉也谈何容易！就说我自己吧，有时为了没有办法，也只好昧了良心，把我的名誉置之不顾，去干一些偷偷摸摸的勾当；可是像你这样一个衣衫褴褛、野猫一样的面孔，满嘴醉话，动不动赌咒骂人的家伙，却也要讲起什么名誉来了！你不肯替我送信，好，你这混蛋！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毕斯托尔</b>
+				<span class="line" id="1-1-13">
+			我现在认错了，难道还不够吗？
+				</span>
+			</p>
+			<p class="stagedir">罗宾上。</p>
+			<p>
+				<b class="speaker">罗宾</b>
+				<span class="line" id="1-1-16">
+			爵爷，外面有一个妇人要见您说话。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-18">
+			叫她进来。
+				</span>
+			</p>
+			<p class="stagedir">快嘴桂嫂上。</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="1-1-21">
+			爵爷，您好？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-23">
+			你好，大嫂。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="1-1-25">
+			请爵爷别这么称呼我。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-27">
+			那么称呼你大姑娘。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="1-1-29">
+			我可以给你发誓，当初我刚出娘胎倒是个姑娘——在这一点上我不愧是我妈妈的女儿。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-31">
+			人家发了誓，我还有什么不信的。你有什么事见我？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="1-1-33">
+			我可以跟爵爷讲一两句话吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-35">
+			好女人，你就是跟我讲两千句话，我也愿意听。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="1-1-37">
+			爵爷，有一位福德娘子，——请您再过来点儿；我自己是住在卡厄斯大夫家里的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-39">
+			好，你说下去吧，你说那位福德娘子——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="1-1-41">
+			爵爷说得一点不错——请您再过来点儿。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-43">
+			你放心吧。这儿没有外人，都是自家人，都是自家人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="1-1-45">
+			真的吗？上帝保佑他们，收留他们做他的仆人！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-47">
+			好，你说吧，那位福德娘子——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="1-1-49">
+			嗳哟，爵爷，她真是个好人儿。天哪，天哪！您爵爷是个风流的人儿！但愿天老爷饶恕您，也饶恕我们众人吧！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-51">
+			福德娘子，说呀，福德娘子——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="1-1-53">
+			好，干脆一句话，她一见了您，说来也叫人不相信，简直就给您迷住啦；就是女王驾幸温莎的时候，那些头儿脑儿顶儿尖儿的官儿们，也没有您这样中她的意。不瞒您说，那些乘着大马车的骑士们、老爷子们、数一数二的绅士们，去了一辆马车来了一辆马车，一封接一封的信，一件接一件的礼物，他们的身上都用麝香熏得香喷喷的，穿着用金线绣花的绸缎衣服，满口都是文绉绉的话儿，还有顶好的酒、顶好的糖，无论哪个女人都会给他们迷醉的，可是天地良心，她向他们眼睛也不曾眨过一眨。不瞒您说，今天早上人家还想塞给我二十块钱哩，可是我不要这种人家所说的不明不白的钱。说句老实话，就是叫他们中间坐第一把交椅的人来，也休想叫她陪他喝一口酒；可是尽有那些伯爵们呀，女王身边的随从们呀，一个一个在转她的念头；可是天地良心，她一点不把他们放在眼里。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-55">
+			可是她对我说些什么话？说简单一点，我的好牵线人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="1-1-57">
+			她要我对您说，您的信她接到啦，她非常感激您的好意；她叫我通知您，她的丈夫在十点到十一点钟之间不在家。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-59">
+			十点到十一点钟之间？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="1-1-61">
+			对啦，一点不错；她说，您可以在那个时候来瞧瞧您所知道的那幅画像，她的男人不会在家里的。唉！说起她的那位福德大爷来，也真叫人气恨，一位好好的娘子，跟着他才真是倒楣；他是个妒心很重的男人，老是无缘无故跟她寻事。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-63">
+			十点到十一点钟之间。大嫂，请你替我向她致意，我一定不失约。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="1-1-65">
+			嗳哟，您说得真好。可是我还有一个信要带给您，培琪娘子也叫我问候您。让我悄悄地告诉您吧，在这儿温莎地方，她也好算得是一位贤惠端庄的好娘子，清早晚上从来不忘记祈祷。她要我对您说，她的丈夫在家的日子多，不在家的日子少，可是她希望总会找到一个机会。我从来不曾看见过一个女人会这么喜欢一个男人；我想您一定有迷人的魔力，真的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-67">
+			哪儿的话，我不过略有一些讨人喜欢的地方而已，怎么会有什么迷人的魔力？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="1-1-69">
+			您真是太客气啦。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-71">
+			可是我还要问你一句话，福德家的和培琪家的两位娘子有没有让彼此知道她们两个人都爱着我一个人？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="1-1-73">
+			那真是笑话了！她们怎么会这样不害羞把这种事情告诉人呢？要是真有那样的事，才笑死人哩！可是培琪娘子要请您把您那个小意儿送给她，因为她的丈夫很喜欢那个小厮；天地良心，培琪大爷是个好人。在温莎地方，谁也不及培琪大娘那样享福啦；她爱做什么，就做什么，爱说什么，就说什么，要什么有什么，不愁吃，不愁穿，高兴睡就睡，高兴起来就起来，什么都称她的心；可是天地良心，也是她自己做人好，才会有这样的好福气，在温莎地方，她是位心肠再好不过的娘子了。您千万要把您那童儿送给她，谁都不能不依她。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-75">
+			好，那一定可以。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="1-1-77">
+			一定这样办吧，您看，他可以在你们两人之间来来去去传递消息；要是有不便明言的事情，你们可以自己商量好了一个暗号，只有你们两人自己心里明白，不必让那孩子懂得，因为小孩子们是不应该知道这些坏事情的，不比上了年纪的人，懂得世事，识得是非，那就不要紧了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-79">
+			再见，请你替我向她们两位多多致意。这几个钱你先拿去，我以后还要重谢你哩。——孩子，跟这位大娘去吧。
+					<i class="parenthetical">桂嫂，罗宾同下</i>
+			这消息倒害得我心乱如麻。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毕斯托尔</b>
+				<span class="line" id="1-1-81">
+			这雌儿是爱神手下的传书鸽，待我追上前去，拉满弓弦，把她一箭射下，岂不有趣！
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-83">
+			老家伙，你说竟会有这等事吗？真有你的！从此以后，我要格外喜欢你这副老皮囊了。人家真的还会看中你吗？你花费了这许多本钱以后，现在才发起利市来了吗？好皮囊，谢谢你。人家嫌你长得太胖，只要胖得有样子，再胖些又有什么关系！
+				</span>
+			</p>
+			<p class="stagedir">巴道夫持酒杯上。</p>
+			<p>
+				<b class="speaker">巴道夫</b>
+				<span class="line" id="1-1-86">
+			爵爷，下面有一位白罗克大爷要见您说话，他说很想跟您交个朋友，特意送了一瓶白葡萄酒来给您解解渴。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-88">
+			他的名字叫白罗克吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">巴道夫</b>
+				<span class="line" id="1-1-90">
+			是，爵爷。
+					<a class="line" href="#1-1-90">90</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-92">
+			叫他进来。
+					<i class="parenthetical">巴道夫下</i>
+			只要有酒喝，管他什么白罗克不白罗克，我都一样欢迎。哈哈！福德大娘，培琪大娘，你们果然给我钓上了吗？很好！很好！
+				</span>
+			</p>
+			<p class="stagedir">巴道夫偕福德化装重上。</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-1-95">
+			您好，爵爷！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-97">
+			您好，先生！您有什么话要对我说吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-1-99">
+			素昧平生，就这样前来打搅您，实在冒昧得很。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-101">
+			不必客气。请问有何见教？——酒保，你去吧。
+					<i class="parenthetical">巴道夫下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-1-103">
+			爵爷，贱名是白罗克，我是一个素来喜欢随便花钱的绅士。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-105">
+			久仰久仰！白罗克大爷，我很希望咱们以后常常来往。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-1-107">
+			倘蒙爵爷不弃下交，真是三生有幸；可我决不敢要您破费什么。不瞒爵爷说，我现在总算身边还有几个钱，您要是需要的话，随时问我拿好了。人家说的，有钱路路通，否则我也不敢大胆惊动您啦。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-109">
+			不错，金钱是个好兵士，有了它就可以使人勇气百倍。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-1-111">
+			不瞒您说，我现在带着一袋钱在这儿，因为嫌它拿着太累赘了，想请您帮帮忙，不论是分一半去也好，完全拿去也好，好让我走路也轻松一点。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-113">
+			白罗克大爷，我怎么可以无功受禄呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-1-115">
+			您要是不嫌烦琐，请您耐心听我说下去，就可以知道我还要多多仰仗大力哩。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-117">
+			说吧，白罗克大爷，凡有可以效劳之处，我一定愿意为您出力。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-1-119">
+			爵爷，我一向听说您是一位博学明理的人，今天一见之下，果然名不虚传，我也不必向您多说废话了。我现在所要对您说的事，提起来很是惭愧，因为那等于宣布了我自己的弱点；可是爵爷，当您一面听着我供认我的愚蠢的时候，一面也要请您反躬自省一下，那时您就可以知道一个人是多么容易犯这种过失，也就不会过分责备我了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-121">
+			很好，请您说下去吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-1-123">
+			本地有一个良家妇女，她的丈夫名叫福德。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-125">
+			嗯。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-1-127">
+			我已经受得她很久了，不瞒您说，在她身上我也花过不少钱；我用一片痴心追求着她，千方百计找机会想见她一面；不但买了许多礼物送给她，并且到处花钱打听她喜欢人家送给她什么东西。总而言之，我追逐她就像爱情追逐我一样，一刻都不肯放松；可是费了这许多心思力气的结果，一点不曾得到什么报酬，偌大的代价，只换到了一段痛苦的经验，正所谓“痴人求爱，如形捕影，瞻之在前，即之已冥”。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-129">
+			她从来不曾有过什么答应您的表示吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-1-131">
+			从来没有。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-133">
+			您也从来不曾缠住她要她有一个答应的表示吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-1-135">
+			从来没有。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-137">
+			那么您的爱究竟是怎样一种爱呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-1-139">
+			就像是建筑在别人地面上的一座华厦，因为看错了地位方向，使我的一场辛苦完全白费。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-141">
+			您把这些话告诉我，是什么用意呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-1-143">
+			请您再听我说下去，您就可以完全明白我今天的来意了。有人说，她虽然在我面前装模作样，好像是十分规矩，可是在别的地方，她却是非常放荡，已经引起不少人的闲话了。爵爷，我的用意是这样的：我知道您是一位教养优良、谈吐风雅、交游广阔的绅士，无论在地位上人品上都是超人一等，您的武艺、您的礼貌、您的学问，尤其是谁都佩服的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-145">
+			您太过奖啦！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-1-147">
+			您知道我说的都是真话。我这儿有的是钱，您尽管用吧，把我的钱全用完了都可以，只要请您分出一部分时间来，去把这个福德家的女人弄上了手，尽量发挥您的风流解数，把她征服下来。这件事情请您去办，一定比谁都要便当得多。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-149">
+			您把您心爱的人让给我去享用，那不会使您心里难过吗？我觉得老兄这样的主意，未免太不近情理啦。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-1-151">
+			啊，请您明白我的意思。她靠着她的冰清玉洁的名誉做掩护，我虽有一片痴心，却不敢妄行非礼；她的光彩过于耀目了，使我不敢向她抬头仰望。可是假如我能够抓住她的一个把柄，知道她并不是神圣不可侵犯的，我就可以放大胆子，去实现我的愿望了；什么贞操、名誉、有夫之妇以及诸如此类的她的一千种振振有词的借口，到了那个时候便可以完全推翻了。爵爷，您看怎么样？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-153">
+			白罗克大爷，第一，我要老实不客气收下您的钱；第二，让我握您的手；第三，我要用我自己的身分向您担保，只要您下定决心，不怕福德的老婆不到您的手里。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-1-155">
+			嗳哟，您真是太好了！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-157">
+			我说她一定会到您手里的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-1-159">
+			不要担心没有钱用，爵爷，一切都在我身上。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-161">
+			不要担心福德大娘会拒绝您，白罗克大爷，一切都在我身上。不瞒您说，刚才她还差了个人来约我跟她相会呢；就在您进来的时候，替她送信的人刚刚出去。十点到十一点钟之间，我就要看她去，因为在那个时候，她那吃醋的混蛋男人不在家里。您今晚再来看我吧，我可以让您知道我进行得顺利不顺利。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-1-163">
+			能够跟您结识，真是幸运万分。您认不认识福德？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-165">
+			哼，这个没造化的死乌龟！谁跟这种东西认识？可是我说他“没造化”，真是委屈了他，人家说这个爱吃醋的忘八倒很有钱呢，所以我才高兴去勾搭他的老婆；我可以用她做钥匙，去打开这个忘八的钱箱，这才是我的真正的目的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-1-167">
+			我很希望您认识那个福德，因为您要是认识他，看见他的时候也可以躲避躲避。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="1-1-169">
+			哼，这个靠手艺吃饭、卖咸黄油的混蛋！我只要向他瞪一瞪眼，就会把他吓坏了。我要用棍子降伏他，并且把我的棍子挂在他的绿帽子上作为他的克星。白罗克大爷，您放心吧，这种家伙不在我的眼里，您一定可以跟他的老婆睡觉。天一晚您就来。福德是个混蛋，可是白罗克大爷，您瞧着我吧，我会给他加上一重头衔，混蛋而兼忘八，他就是个混账忘八蛋了。今夜您早点来吧。
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="1-1-171">
+			好一个万恶不赦的淫贼！我的肚子都几乎给他气破了。谁说这是我的瞎疑心？我的老婆已经寄信给他，约好钟点和他相会了。谁想得到会有这种事情？娶了一个不贞的妻子，真是倒楣！我的床要给他们弄脏了，我的钱要给他们偷了，还要让别人在背后讥笑我；这样害苦我不算，还要听那奸夫当着我的面辱骂我！骂我别的名字倒也罢了，魔鬼夜叉，都没有什么关系，偏偏口口声声的乌龟忘八！乌龟！忘八！这种名字就是魔鬼听了也要摇头的。培琪是个呆子，是个粗心的呆子，他居然会相信他的妻子，他不吃醋！哼，我可以相信猫儿不会偷荤，我可以相信我们那位威尔士牧师休师傅不爱吃干酪，我可以把我的烧酒瓶交给一个爱尔兰人，我可以让一个小偷把我的马儿拖走，可是我不能放心让我的妻子一个人待在家里；让她一个人在家里，她就会千方百计地耍起花样来，她们一想到要做什么事，简直可以什么都不顾，非把它做到了决不罢休。感谢上帝赐给我这一副爱吃醋的脾气！他们约定在十一点钟会面，我要去打破他们的好事，侦察我的妻子的行动，向福斯塔夫出出我胸头这一口冤气，还要把培琪取笑一番。我马上就去，宁可早三点钟，不可迟一分钟。哼！哼！乌龟！忘八！
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+		</div>
+		<div class="scene">
+			<h3>第三场　　温莎附近的野地 </h3>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="1-2-2">
+			勒格比！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">勒格比</b>
+				<span class="line" id="1-2-4">
+			有，老爷。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="1-2-6">
+			勒格比，现在几点钟了？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">勒格比</b>
+				<span class="line" id="1-2-8">
+			老爷，休师傅约好的时间已经过去了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="1-2-10">
+			哼，他不来，便宜了他的狗命；他在念«圣经»做祷告，所以他不来。哼，勒格比，他要是来了，早已一命呜呼了。
+					<a class="line" href="#1-2-10">10</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">勒格比</b>
+				<span class="line" id="1-2-12">
+			老爷，这是他的聪明，他知道他要是来了，一定会给您杀死的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="1-2-14">
+			哼，我要是不把他杀死，我就不是个人。勒格比，拔出你的剑来，我要告诉你我怎样杀死他。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">勒格比</b>
+				<span class="line" id="1-2-16">
+			嗳哟，老爷！我可不会使剑呢。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="1-2-18">
+			狗才，拔出你的剑来。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">勒格比</b>
+				<span class="line" id="1-2-20">
+			慢慢，有人来啦。
+					<a class="line" href="#1-2-20">20</a>
+				</span>
+			</p>
+			<p class="stagedir">店主、夏禄、斯兰德及培琪上。</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="1-2-23">
+			你好，老头儿！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="1-2-25">
+			卡厄斯大夫，您好！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="1-2-27">
+			您好，大夫！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="1-2-29">
+			早安，大夫！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="1-2-31">
+			你们一个、两个、三个、四个，来干什么？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="1-2-33">
+			瞧你斗剑，瞧你招架，瞧你回手；瞧你这边一跳，瞧你那边一闪；瞧你仰冲俯刺，旁敲侧击，进攻退守。他死了吗，我的黑家伙？他死了吗，我的法国人？哈，好家伙！怎么说，我的罗马医神？我的希腊大医师？我的老交情？哈，他死了吗，我的冤大头？他死了吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="1-2-35">
+			哼，他是个没有种的狗牧师；他不敢到这儿来露脸。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="1-2-37">
+			你是粪缸里的元帅，希腊的大英雄，好家伙！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="1-2-39">
+			你们大家给我证明，我已经等了他六七个钟头、两个钟头、三个钟头，他还是没有来。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="1-2-41">
+			大夫，这是他的有见识之处；他给人家医治灵魂，您给人家医治肉体，要是你们打起架来，那不是违反了你们行当的宗旨了吗？培琪大爷，您说我这话对不对？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="1-2-43">
+			夏禄老爷，您现在喜欢替人家排难解纷，从前却也是一名打架的好手哩。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="1-2-45">
+			可不是吗？培琪大爷，我现在虽然老了，人也变得好说话了，可是看见人家拔出刀剑来，我的手指还是觉得痒痒的。培琪大爷，我们虽然做了法官，做了医生，做了教士，总还有几分年轻人的血气；我们都是女人生下来的呢，培琪大爷。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="1-2-47">
+			正是正是，夏禄老爷。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="1-2-49">
+			培琪大爷，您看吧，我的话是不会错的。卡厄斯大夫，我想来送您回家去。我是一向主张什么事情都可以和平解决的。您是一个明白道理的好医生，休师傅是一个明白道理很有涵养的好教士，大家何必伤了和气。卡厄斯大夫，您还是跟我一起回去吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="1-2-51">
+			对不起，法官先生。——跟你说句话，尿先生。
+					<i class="parenthetical">③</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="1-2-53">
+			刁！这是什么玩意儿？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="1-2-55">
+			“尿”，在我们英国话中就是“有种”的意思，好人儿。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="1-2-57">
+			老天，这么说，我跟随便哪一个英国人比起来也一样的“刁”——发臭的狗牧师！老天，我要割掉他的耳朵。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="1-2-59">
+			他要把你揍个扁呢，好人儿。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="1-2-61">
+			“揍个扁”！这是什么意思？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="1-2-63">
+			这是说，他要给你赔不是。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="1-2-65">
+			老天，我看他不把我“揍个扁”也不成哪；老天，我就要他把我揍个扁。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="1-2-67">
+			我要“挑拨”他一番，叫他这么办，否则让他走！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="1-2-69">
+			费心了，我谢谢你。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="1-2-71">
+			再说，好人儿——
+					<i class="parenthetical">向夏禄等旁白</i>
+			你跟培琪大爷和斯兰德少爷从大路走，先到弗劳莫去。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="1-2-73">
+			休师傅就在那里吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="1-2-75">
+			是的，你们去看看他在那里发些什么牢骚，我再领着这个医生从小路也到那里。你们看这样好不好？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="1-2-77">
+			很好。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培　琪夏　禄斯兰德</b>
+				<span class="line" id="1-2-79">
+			卡厄斯大夫，我们先走一步，回头见。
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="1-2-81">
+			哼，我要是不杀死这个牧师，我就不是个人；谁叫他多事，替一个猴崽子向安·培琪说亲。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="1-2-83">
+			这种人让他死了也好。来，把你的怒气平一平，跟我在田野里走走，我带你到弗劳莫去，安·培琪小姐正在那里一家乡下人家吃酒，你可以当面向她求婚。你说我这主意好不好？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="1-2-85">
+			谢谢你，谢谢你，你是我的好朋友。我一定要介绍许多好主顾给你，那些阔佬大官，我都看过他们的病。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="1-2-87">
+			你这样帮我忙，我一定“阻挠”你娶到安·培琪。我说得好不好？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="1-2-89">
+			很好很好，好得很。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="1-2-91">
+			那么咱们走吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="1-2-93">
+			跟我来，勒格比。
+					<i class="parenthetical">同下。</i>
+				</span>
+			</p>
+		</div>
+	</div>
+	<div class="act">
+		<h2>第三幕</h2>
+		<div class="scene">
+			<h3>第一场　　弗劳莫附近的野地 </h3>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="2-0-2">
+			斯兰德少爷的尊价，辛普儿我的朋友，我叫你去看看那个自称为医生的卡厄斯大夫究竟来不来，请问你是到哪一条路上去看他的？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">辛普儿</b>
+				<span class="line" id="2-0-4">
+			师傅，我每一条路上都去看过了，就是那条通到城里去的路上没有去看过。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="2-0-6">
+			千万请你再到那一条路上去看一看。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">辛普儿</b>
+				<span class="line" id="2-0-8">
+			好的，师傅。
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="2-0-10">
+			祝福我的灵魂！我气得心里在发抖。我倒希望他欺骗我。真的气死我也！我恨不得把他的便壶摔在他那狗头上。祝福我的灵魂！
+					<i class="parenthetical">唱</i>
+					<a class="line" href="#2-0-10">10</a>
+				</span>
+				<span class="line" id="2-0-11">
+			众鸟嘤鸣其相和兮，
+				</span>
+				<span class="line" id="2-0-12">
+			　临清流之潺?l，
+				</span>
+				<span class="line" id="2-0-13">
+			展蔷薇之芳茵兮，
+				</span>
+				<span class="line" id="2-0-14">
+			　缀百花以为环。
+				</span>
+				<span class="line" id="2-0-15">
+			上帝可怜我！我真的要哭出来啦。
+					<i class="parenthetical">唱</i>
+				</span>
+				<span class="line" id="2-0-16">
+			众鸟嘤鸣其相和兮，
+				</span>
+				<span class="line" id="2-0-17">
+			　余独处乎巴比伦，
+				</span>
+				<span class="line" id="2-0-18">
+			缀百花以为环兮，
+				</span>
+				<span class="line" id="2-0-19">
+			　临清流——
+				</span>
+			</p>
+			<p class="stagedir">辛普儿重上。</p>
+			<p>
+				<b class="speaker">辛普儿</b>
+				<span class="line" id="2-0-22">
+			他就要来了，在这一边，休师傅。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="2-0-24">
+			他来得正好。
+					<i class="parenthetical">唱</i>
+				</span>
+				<span class="line" id="2-0-25">
+			　　　临清流之潺?l——
+				</span>
+				<span class="line" id="2-0-26">
+			上帝保佑好人！——他拿着什么家伙？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">辛普儿</b>
+				<span class="line" id="2-0-28">
+			他没有带什么家伙，师傅。我家少爷，还有夏禄老爷和另外一位大爷，也跨过梯磴，从那边一条路上来了。爱文斯　请你把我的道袍给我；不，还是你给我拿在手里吧。
+					<i class="parenthetical">读书。</i>
+				</span>
+			</p>
+			<p class="stagedir">培琪、夏禄及斯兰德上。</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="2-0-31">
+			啊，牧师先生，您好？又在用功了吗？真的是赌鬼手里的骰子，学士手里的书本，夺也夺不下来的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="2-0-33">
+					<i class="parenthetical">旁白</i>
+			啊，可爱的安·培琪！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="2-0-35">
+			您好，休师傅！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="2-0-37">
+			上帝祝福你们！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="2-0-39">
+			啊，怎么，一手宝剑，一手经典！牧师先生，难道您竟然是才兼文武吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="2-0-41">
+			在这样阴寒的天气，您这样短衣长袜，外套也不穿一件，精神倒着实不比年轻人坏哩！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="2-0-43">
+			这都是有缘故的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="2-0-45">
+			牧师先生，我们是来给您做一件好事的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="2-0-47">
+			很好，是什么事？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="2-0-49">
+			我们刚才碰见一位很有名望的绅士，大概是受了什么人的委屈，在那儿大发脾气。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="2-0-51">
+			我活了八十多岁了，从来不曾听见过一个像他这样有地位、有学问、有气派的人，会这样忘记自己的身分。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="2-0-53">
+			他是谁？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="2-0-55">
+			我想您也一定认识他的，就是那位著名的法国医生卡厄斯大夫。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="2-0-57">
+			嗳哟，气死我也！你们向我提起他的名字，还不如向我提起一块烂浆糊。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="2-0-59">
+			为什么？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="2-0-61">
+			他懂写什么医经药典！他是个坏蛋，一个十足没有种的坏蛋！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="2-0-63">
+			您跟他打起架来，才知道他厉害呢。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="2-0-65">
+					<i class="parenthetical">旁白</i>
+			啊，可爱的安·培琪！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="2-0-67">
+			看样子也是这样，他手里拿着武器呢。卡厄斯大夫来了，别让他们碰在一起。
+				</span>
+			</p>
+			<p class="stagedir">店主、卡厄斯及勒格比上。</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="2-0-70">
+			不，好牧师先生，把您的剑收起来吧。
+					<a class="line" href="#2-0-70">70</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="2-0-72">
+			卡厄斯大夫，您也收起来吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="2-0-74">
+			把他们的剑夺下来，由着他们对骂一场；让他们保全了皮肉，只管把英国话撕个粉碎吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="2-0-76">
+			请你让我在你的耳边问你一句话，你为什么失约不来？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="2-0-78">
+					<i class="parenthetical">向卡厄斯旁白</i>
+			不要生气，有话慢慢讲。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="2-0-80">
+			哼，你是个懦夫，你是个狗东西猴崽子！
+					<a class="line" href="#2-0-80">80</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="2-0-82">
+					<i class="parenthetical">向卡厄斯旁白</i>
+			别人在寻我们的开心，我们不要上他们的当，伤了各人的和气，我愿意和你交个朋友，我以后补报你好啦。
+					<i class="parenthetical">高声</i>
+			我要把你的便壶摔在你的狗头上，谁叫你约了人家自己不来！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="2-0-84">
+			他妈的！勒格比——老板，我没有等他来送命吗？我不是在约定的地方等了他好久吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="2-0-86">
+			我是个相信耶稣基督的人，我不会说假话，这儿才是你约定的地方，我们这位老板可以替我证明。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="2-0-88">
+			我说，你这位法国大夫，你这位威尔士牧师，一个替人医治身体，一个替人医治灵魂，你也不要吵，我也不要闹，大家算了吧！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="2-0-90">
+			喂，那倒是很好，好极了！
+					<a class="line" href="#2-0-90">90</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="2-0-92">
+			我说，大家静下来，听我店主说话。你们看我的手段巧不巧？主意高不高？计策妙不妙？咱们少得了这位医生吗？少不了，他要给我开方服药。咱们少得了这位牧师，这位休师傅吗？少不了，他要给我念经讲道。来，一位在家人，一位出家人，大家跟我握握手。好，老实告诉你们吧，你们两个人都给我骗啦，我叫你们一个人到这儿，一个人到那儿，大家扑了个空。现在我们已经知道你们两位都是好汉，谁的身上也不曾伤了一根毛，落得喝杯酒，大家讲和了吧。来，把他们的剑拿去当了。来，孩子们，大家跟我来。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="2-0-94">
+			真是一个疯老板！——各位，大家跟着他去吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="2-0-96">
+					<i class="parenthetical">旁白</i>
+			啊，可爱的安·培琪！
+					<i class="parenthetical">夏禄、斯兰德、培琪及店主同下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="2-0-98">
+			嘿！有这等事！你把我们当作傻瓜了吗？嘿！嘿！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="2-0-100">
+			好得很，他简直拿我们开玩笑。我说，咱们还是言归于好，大家商量出个办法，来向这个欺人的坏家伙，这个嘉德饭店的老板，报复一下吧。
+					<a class="line" href="#2-0-100">100</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="2-0-102">
+			很好，我完全赞成。他答应带我来看安·培琪，原来也是句骗人的话，他妈的！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="2-0-104">
+			好，我要打破他的头。咱们走吧。
+					<i class="parenthetical">同下。</i>
+				</span>
+			</p>
+		</div>
+		<div class="scene">
+			<h3>第二场　　温莎街道 </h3>
+			<p class="stagedir">培琪大娘及罗宾上。</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-1-3">
+			走慢点儿，小滑头；你一向都是跟在人家屁股后面跑的，现在倒要抢上人家前头啦。我问你，你愿意我跟着你走呢，还是你愿意跟着主人走？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗宾</b>
+				<span class="line" id="2-1-5">
+			我愿意像一个男子汉那样在您前头走，不愿意像一个小鬼那样跟着他走。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-1-7">
+			唷！你倒真是个小油嘴，我看你将来很可以到宫廷里去呢。
+				</span>
+			</p>
+			<p class="stagedir">福德上。</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="2-1-10">
+			培琪嫂子，咱们碰见得巧极啦。您上哪儿去？
+					<a class="line" href="#2-1-10">10</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-1-12">
+			福德大爷，我正要去瞧您家嫂子哩。她在家吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="2-1-14">
+			在家，她因为没有伴，正闷得发慌。照我看来，要是你们两人的男人都死掉了，你们两人大可以结为夫妻呢。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-1-16">
+			您不用担心，我们各人会再去嫁一个男人的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="2-1-18">
+			您这个可爱的小鬼头是哪儿来的？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-1-20">
+			我总记不起把他送给我丈夫的那个人叫什么名字。喂，你说你那个骑士姓甚名谁？
+					<a class="line" href="#2-1-20">20</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗宾</b>
+				<span class="line" id="2-1-22">
+			约翰·福斯塔夫爵士。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="2-1-24">
+			约翰·福斯塔夫爵士！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-1-26">
+			对了，对了，正是他；我顶不会记人家的名字。他跟我的丈夫非常要好。您家嫂子真的在家吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="2-1-28">
+			真的在家。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-1-30">
+			那么，少陪了，福德大爷，我巴不得立刻就看见她呢。
+					<i class="parenthetical">培琪大娘及罗宾下。</i>
+					<a class="line" href="#2-1-30">30</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="2-1-32">
+			培琪难道没有脑子吗？他难道一点都看不出，一点不会思想吗？哼，他的眼睛跟脑子一定都睡着了，因为他就是生了它们也不会去用的。嘿，这孩子可以送一封信到二十哩外的地方去，就像炮弹从炮口开到二百四十步外去一样容易。他放纵他的妻子，让她想入非非，为所欲为；现在她要去瞧我的妻子，还带着福斯塔夫的小厮！一个聪明人难道看不出苗头来吗？还带着福斯塔夫的小厮！好计策！他们已经完全布置好了；我们两家不贞的妻子，已经通同一气，一块儿去干这种不要脸的事啦。好，让我先去捉住那家伙，再去教训教训我的妻子，把这位假正经的培琪大娘的假面具揭了下来，让大家知道培琪是个冥顽不灵的忘八。我干了这一番轰轰烈烈的事情，人家一定会称赞我。
+					<i class="parenthetical">钟鸣</i>
+			时间已经到了，事不宜迟，我必须马上就去；我相信一定可以把福斯塔夫找到。人家都会称赞我，不会讥笑我，因为福斯塔夫一定跟我妻子在一起，就像地球是结实的一样毫无疑问。我就去。
+				</span>
+			</p>
+			<p class="stagedir">培琪、夏禄、斯兰德、店主、爱文斯、卡厄斯及勒格比上。</p>
+			<p>
+				<b class="speaker">培琪夏禄等</b>
+				<span class="line" id="2-1-35">
+			福德大爷，咱们遇见得巧极啦。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="2-1-37">
+			真是来了大队人马。我正要请各位到舍间去喝杯酒呢。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="2-1-39">
+			福德大爷，我有事不能奉陪，请您原谅。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="2-1-41">
+			福德大叔，我也要请您原谅，我们已经约好到安小姐家里吃饭，人家无论给我多少钱，也不能使我失她的约。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="2-1-43">
+			我们打算替培琪家小姐跟我这位斯兰德贤侄攀一门亲事，今天就可以得到回音。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="2-1-45">
+			培琪大叔，我希望您不会拒绝我。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="2-1-47">
+			我是一定答应的，斯兰德少爷；可是卡厄斯大夫，我的内人却看中您哩。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="2-1-49">
+			嗯，是的，而且那姑娘也爱着我，我家那个快嘴桂嫂已经这样告诉我了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="2-1-51">
+			您觉得那位年轻的范顿怎样？他会跳跃，他会舞蹈，他的眼睛里闪耀着青春，他会写诗，他会说漂亮话，他的身上有春天的香味；他一定会成功的，他一定会成功的。他好象已经到了手、放进了口袋、连扣子都扣上了；他一定会成功的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="2-1-53">
+			可是他要是不能得到我的允许，就不会成功。这位绅士没有家产，他常常跟那位胡闹的王子
+					<i class="parenthetical">④</i>
+				</span>
+				<span class="line" id="2-1-54">
+			他们在一起厮混，他的地位太高，他所知道的事情也太多啦。不，我的财产是不能让他染指的。要是他跟她结婚，就让他把她空身娶了过去；我这份家私要归我自己作主，我可不能答应让他分了去。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="2-1-56">
+			请你们中间无论哪几位赏我一个面子，到舍间吃便饭；除了酒菜之外，还有新鲜的玩意儿，我有一头怪物要拿出来给你们欣赏欣赏。卡厄斯大夫，您一定要去；培琪大爷，您也去；还有休师傅，您也去。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="2-1-58">
+			好，那么再见吧；你们去了，我们到培琪大爷家里求起婚来，说话也可以方便一些。
+					<i class="parenthetical">夏禄、斯兰德下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="2-1-60">
+			勒格比，你先回家去，我就来。
+					<i class="parenthetical">勒格比下。</i>
+					<a class="line" href="#2-1-60">60</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="2-1-62">
+			回头见，我的好朋友们；我要回去陪我的好骑士福斯塔夫喝酒去。
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="2-1-64">
+					<i class="parenthetical">旁白</i>
+			对不起。我要先让他出一场丑哩。——列位，请了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">众人</b>
+				<span class="line" id="2-1-66">
+			请了，我们倒要瞧瞧那个怪物去。
+					<i class="parenthetical">同下。</i>
+				</span>
+			</p>
+		</div>
+		<div class="scene">
+			<h3>第三场　　福德家中一室 </h3>
+			<p class="stagedir">福德大娘及培琪大娘上。</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-3">
+			喂，约翰！喂，劳勃！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-2-5">
+			赶快，赶快！——那个盛脏衣服的篓子呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-7">
+			已经预备好了。喂，罗宾！
+				</span>
+			</p>
+			<p class="stagedir">二仆携篓上。</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-2-10">
+			来，来，来。
+					<a class="line" href="#2-2-10">10</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-12">
+			这儿，放下来。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-2-14">
+			你吩咐他们怎样做，干干脆脆几句话就得了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-16">
+			好，约翰和劳勃，我早就对你们说过了，叫你们在酿酒房的近旁等着不要走开，我一叫你们，你们就跑来，马上把这篓子扛了出去，跟着那些洗衣服的人一起到野地里去，跑得越快越好，一到那里，就把它扔在泰晤士河旁边的烂泥沟里。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-2-18">
+			听见了没有？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-20">
+			我已经告诉过他们好几次了，他们不会弄错的。快去，我一叫你们，你们就来。
+					<i class="parenthetical">二仆下。</i>
+					<a class="line" href="#2-2-20">20</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-2-22">
+			小罗宾来了。
+				</span>
+			</p>
+			<p class="stagedir">罗宾上。</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-25">
+			啊，我的小鹰儿！你带什么信息来了？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗宾</b>
+				<span class="line" id="2-2-27">
+			福德奶奶，我家主人约翰爵士已经从您的后门进来了，他要跟您谈几句话。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-2-29">
+			你这小鬼，你有没有在你主人面前搬嘴弄舌？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗宾</b>
+				<span class="line" id="2-2-31">
+			我可以发誓，我的主人不知道您也在这儿；他还向我说，要是我把他到这儿来的事情告诉了您，他一定要把我撵走。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-2-33">
+			这才是个好孩子，你嘴巴闭得紧，我一定替你做一身新衣服穿。现在我先去躲起来。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-35">
+			好的。你去告诉你的主人，说屋子里只有我一个人。
+					<i class="parenthetical">罗宾下</i>
+			培琪嫂子，你别忘了你的戏。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-2-37">
+			你放心吧，我要是这场戏演不好，你尽管喝倒彩好了。
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-39">
+			好，让我们教训教训这个肮脏的脓包，这个满肚子臭水的胖冬瓜，叫他知道鸽子和老鸦的分别。
+				</span>
+			</p>
+			<p class="stagedir">福斯塔夫上。</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="2-2-42">
+			我的天上的明珠，你果然给我捉到了吗？我已经活得很长久了，现在让我死去吧，因为我的心愿已经完全达到了。啊，这幸福的时辰！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-44">
+			嗳哟，好爵爷！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="2-2-46">
+			好娘子，我不会说话，那些口是心非的好听话，我一句也不会。我现在心里正在起着一个罪恶的念头，但愿你的丈夫早早死了，我一定要娶你回去，做我的夫人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-48">
+			我做您的夫人！唉，爵爷！那我怎么做得像呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="2-2-50">
+			在整个法兰西宫廷里也找不出像你这样一位漂亮的夫人。瞧你的眼睛比金刚钻还亮；你的秀美的额角，戴上无论哪一种威尼斯流行的新式帽子，都是一样合适的。
+					<a class="line" href="#2-2-50">50</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-52">
+			爵爷，像我这样的村婆娘，只好用青布包包头，能够不给人家笑话，也就算了，哪里配得上讲什么打扮。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="2-2-54">
+			嗳哟，你说这样话，未免太侮辱了你自己啦。你要是到宫廷里去，一定可以大出风头；你那端庄的步伐，穿起圆圆的围裙来，一定走一步路都是仪态万方。命运虽然不曾照顾你，造物却给了你绝世的姿容，你就是有意把它遮掩，也是遮掩不了的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-56">
+			您太过奖啦，我怎么有这样的好处呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="2-2-58">
+			那么我为什么爱你呢？这就可以表明在你的身上，的确有一点与众不同的地方。我不会像那些油头粉面、一身骚气的轻薄少年一样，说你是这样、那样，把你捧上天去；可是我爱你，我爱的只是你，你是值得我爱的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-60">
+			别骗我啦，爵爷，我怕您爱着培琪嫂子哩。
+					<a class="line" href="#2-2-60">60</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="2-2-62">
+			难道我放着大门不走，偏偏要去走那倒楣的、黑??的旁门吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-64">
+			好，天知道我是怎样爱着您，您总有一天会明白我的心的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="2-2-66">
+			希望你永远不要变心，我总不会有负于你。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-68">
+			我怎么也得向您表明我的心迹，您别叫我在您身上白用了我的心呀；要不然我就不肯费这番心思了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">罗宾</b>
+				<span class="line" id="2-2-70">
+					<i class="parenthetical">在内</i>
+			福德奶扔！福德奶奶！培琪奶奶在门口，她满头是汗，气都喘不上来，慌慌张张的，一定要立刻跟您说话。
+					<a class="line" href="#2-2-70">70</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="2-2-72">
+			别让她看见我；我就躲在帐幕后面吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-74">
+			好，您快躲起来吧，她是个多嘴多舌的女人。
+					<i class="parenthetical">福斯塔夫匿幕后。</i>
+				</span>
+			</p>
+			<p class="stagedir">培琪大娘及罗宾重上。</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-77">
+			什么事？怎么啦？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-2-79">
+			嗳哟，福德嫂子！你干了什么事啦？你的脸从此丢尽，你再也不能做人啦！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-81">
+			什么事呀，好嫂子？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-2-83">
+			嗳哟，福德嫂子！你嫁了这么一位好丈夫，为什么要让他对你起疑心？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-85">
+			对我起什么疑心？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-2-87">
+			起什么疑心！算了，别装傻啦！总算我看错了人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-89">
+			唉，到底是怎么一回事呀？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-2-91">
+			我的好奶奶，你那汉子带了温莎城里所有的捕役，就要到这儿来啦；他说有一个男人在这屋子里，是你趁着他不在家的时候约来的，他们要来捉这奸夫哩。这回你可完啦！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-93">
+					<i class="parenthetical">旁白</i>
+			说响一点。——嗳哟，不会有这种事吧？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-2-95">
+			谢天谢地，但愿你这屋子里没有男人！可是半个温莎城里的人都跟在你丈夫背后，要到这儿来搜寻这么一个人，这件事情却是千真万确的。我抢先一步来通知你，要是你没有做过亏心事，那自然最好；倘然你真的有一个朋友在这儿，那么赶快带他出去吧。别怕，镇静一点。你必须保全你的名誉，不然你的一生从此完啦。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-97">
+			我怎么办呢？果然有一位绅士在这儿，他是我的好朋友；我自己丢脸倒还不要紧，只怕连累了他，要是能够把他弄出这间屋子，叫我损失一千镑钱我都愿意。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-2-99">
+			要命！你的汉子就要来啦，你还尽说废话！想想办法吧，这屋子里是藏不了他的。唉，我还当你是个好人！瞧，这儿有一个篓子，他要是不太高大，倒可以钻进去躲一下，再用些龌龊衣服堆在上面，让人家看见了，当做一篓预备送出去漂洗的衣服——啊，对了，就叫你家的两个仆人把他连篓一起抬了出去，岂不一干二净？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-101">
+			他太胖了，恐怕钻不进去，怎么好呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="2-2-103">
+					<i class="parenthetical">自幕后出</i>
+			让我看，让我看，啊，让我看！我进去，我进去。就照你朋友的话吧；我进去。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-2-105">
+			啊，福斯塔夫爵士！原来是你吗？你给我的信上怎么说的？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="2-2-107">
+			我爱你，我只爱你一个人；帮我离开这屋子；让我钻进去。我再也不——
+					<i class="parenthetical">钻入篓内，二妇以污衣覆其上。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-2-109">
+			孩子，你也来帮着把你的主人遮盖遮盖。福德嫂子，叫你的仆人进来吧。好一个欺人的骑士！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-111">
+			喂，约翰！劳勃！约翰！
+					<i class="parenthetical">罗宾下。</i>
+				</span>
+			</p>
+			<p class="stagedir">二仆重上。</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-114">
+			赶快把这一篓衣服抬起来。杠子在什么地方？嗳哟，瞧你们这样慢手慢脚的！把这些衣服送到洗衣服的那里去；快点！快点！
+				</span>
+			</p>
+			<p class="stagedir">福德、培琪、卡厄斯及爱文斯同上。</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="2-2-117">
+			各位请过来；要是我的疑心全无根据，你们尽管把我取笑好了。让我成为你们的笑柄；是我活该如此。啊！这是什么？你们把这篓子抬到哪儿去？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">仆人</b>
+				<span class="line" id="2-2-119">
+			抬到洗衣服的那里去。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-121">
+			咦，他们把它抬到什么地方，跟你有什么相干？你就是爱多管闲事，人家洗衣服，你也要问长问短的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="2-2-123">
+			哼，洗衣服！我倒希望把这屋子也洗洗干净呢，什么野畜生都可以跑进跑出——还是一头交配时期的野畜生呢！
+					<i class="parenthetical">二仆抬篓下</i>
+			各位朋友，昨天晚上我做了一个梦，让我把这个梦告诉你们听。这儿是我的钥匙，请你们跟我到房间里来搜一下，我相信我们一定会捉到那头狐狸的。让我先把这门锁上了。好，咱们捉狐狸去。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="2-2-125">
+			福德大爷，有话好讲，何必急成这个样子，让人家瞧着笑话。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="2-2-127">
+			对啦，培琪大爷。各位上去吧，你们马上就有新鲜的把戏看了；大家跟我来。
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="2-2-129">
+			这种吃醋简直是无理取闹。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="2-2-131">
+			我们法国就没有这种事，法国人是不兴吃醋的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="2-2-133">
+			咱们还是跟他上去吧，瞧他搜出什么来。
+					<i class="parenthetical">培琪、卡厄斯、爱文斯同下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-2-135">
+			咱们这计策岂不是一举两得？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-137">
+			我不知道愚弄我的丈夫跟愚弄福斯塔夫，比较起来哪一件事更使我高兴。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-2-139">
+			你的丈夫问那篓子里有什么东西的时候，他一定吓得要命。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-141">
+			我想他是应该洗个澡了，把他扔在水里，对于他也是有好处的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-2-143">
+			该死的骗人的坏蛋！我希望像他那一类的人都要得到这种报应。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-145">
+			我觉得我的丈夫有点知道福斯塔夫在这儿；我从来没有见过他像今天这样的一股醋劲。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-2-147">
+			让我想个计策把他试探试探。福斯塔夫那家伙虽然已经受到一次教训，可是像他那样荒唐惯了的人，一服药吃下去未必见效，我们应当让他多知道些厉害才是。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-149">
+			我们要不要再叫快嘴桂嫂那个傻女人到他那儿去，对他说这次把他扔在水里，实在是一时疏忽，并非故意，请他原谅，再约他一个日期，好让我们再把他作弄一次？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-2-151">
+			一定那么办；我们叫他明天八点钟来，替他压惊。
+				</span>
+			</p>
+			<p class="stagedir">福德、培琪、卡厄斯及爱文斯重上。</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="2-2-154">
+			我找不到他；这混蛋也许只会吹牛，他自己知道这种事情是办不到的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-2-156">
+					<i class="parenthetical">向福德大娘旁白</i>
+			你听见吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-158">
+					<i class="parenthetical">向培琪大娘旁白</i>
+			嗯，别说话。——福德大爷，您待我真是太好了，是不是？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="2-2-160">
+			是，是，是。
+					<a class="line" href="#2-2-160">160</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="2-2-162">
+			上帝保佑您以后再不要用这种龌龊心思猜疑人家！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="2-2-164">
+			阿门！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-2-166">
+			福德大爷，您真太对不起您自己啦。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="2-2-168">
+			是，是，是我不好。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="2-2-170">
+			这屋子里、房间里、箱子里、壁橱里，要是找得出一个人来，那么上帝在最后审判的日子饶恕我的罪恶吧！
+					<a class="line" href="#2-2-170">170</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="2-2-172">
+			我也找不出来，一个人也没有。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="2-2-174">
+			啧！啧！福德大爷！您不害羞吗？什么鬼附在您身上，叫您想起这种事情来呢？我希望您以后再不要发这种精神病了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="2-2-176">
+			培琪大爷，这都是我不好，自取其辱。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="2-2-178">
+			这都是您良心不好的缘故，尊夫人是一位大贤大德的娘子，五千个女人里头也挑不出像她这样的一个；不，就是五百个里也挑不出呢。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="2-2-180">
+			她真的是一个规矩女人。
+					<a class="line" href="#2-2-180">180</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="2-2-182">
+			好，我说过我请你们来吃饭。来，来，咱们先到公园里走走吧。请诸位多多原谅，我以后会告诉你们今天我有这一番举动的缘故。来，娘子。来，培琪嫂子。请你们原谅我，今天实在吵得太不像话了，请不要见怪！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="2-2-184">
+			列位，咱们进去吧，可是今天一定要把他大大地取笑一番。明天早晨我请你们到舍间吃一顿早饭，吃过早饭，就去打鸟去；我有一只很好的猎鹰，要请你们赏识赏识它的本领。诸位以为怎样？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="2-2-186">
+			一定奉陪。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="2-2-188">
+			要是只有一个人去，我就是第二个。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="2-2-190">
+			要是只有一个、两个人去，我就是第三个。
+					<a class="line" href="#2-2-190">190</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="2-2-192">
+			培琪大爷，请了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="2-2-194">
+			请你明天不要忘记嘉德饭店老板那个坏家伙。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="2-2-196">
+			很好，我一定不忘记。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="2-2-198">
+			这坏家伙，专爱开人家的玩笑！
+					<i class="parenthetical">同下。</i>
+				</span>
+			</p>
+		</div>
+		<div class="scene">
+			<h3>第四场　　培琪家中一室 </h3>
+			<p class="stagedir">范顿、安·培琪及快嘴桂嫂上；桂嫂立一旁。</p>
+			<p>
+				<b class="speaker">范顿</b>
+				<span class="line" id="2-3-3">
+			我知道我得不到你父亲的欢心，所以你别再叫我去跟他说话了，亲爱的小安。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">安</b>
+				<span class="line" id="2-3-5">
+			唉！那么怎么办呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">范顿</b>
+				<span class="line" id="2-3-7">
+			你应当自己作主才是。他反对我的理由，是说我的门第太高，又说我因为家产不够挥霍，想要靠他的钱来弥补弥补；此外他又举出种种理由，说我过去的行为太放荡，说我结交的都是一班胡闹的朋友；他老实不客气地对我说，我所以爱你，不过是把你看作一注财产而已。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">安</b>
+				<span class="line" id="2-3-9">
+			他说的话也许是对的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">范顿</b>
+				<span class="line" id="2-3-11">
+			不，我永远不会有这样的存心！安，我可以向你招认，我最初来向你求婚的目的，的确是为了你父亲的财产；可是自从我认识了你以后，我就觉得你的价值远超过一切的金银财富；我现在除了你美好的本身以外，再没有别的希求。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">安</b>
+				<span class="line" id="2-3-13">
+			好范顿大爷，您还是去向我父亲说说吧，多亲近亲近他吧。要是机会和最谦卑的恳求都不能使您达到目的，那么——您过来，我对您说。
+					<i class="parenthetical">二人在一旁谈话。</i>
+				</span>
+			</p>
+			<p class="stagedir">夏禄及斯兰德上。</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="2-3-16">
+			桂嫂，打断他们的谈话，让我的侄子自己去向她求婚。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="2-3-18">
+			成功失败，在此一试。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="2-3-20">
+			不要慌。
+					<a class="line" href="#2-3-20">20</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="2-3-22">
+			不，她不会使我发慌，我才不放在心上呢；可是我有点胆怯。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="2-3-24">
+			安，斯兰德少爷要跟你讲句话哩。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">安</b>
+				<span class="line" id="2-3-26">
+			我就来。
+					<i class="parenthetical">旁白</i>
+			这是我父亲中意的人。唉！有了一年三百镑的收入，顶不上眼的伧夫也就变成俊汉了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="2-3-28">
+			范大爷，您好？请您过来说句话。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="2-3-30">
+			她来了；侄儿，你上去吧。孩子，你要记得你有过父亲！
+					<a class="line" href="#2-3-30">30</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="2-3-32">
+			安小姐，我有过父亲，我的叔父可以告诉您许多关于他的很有趣的笑话。叔父，请您把我的父亲怎样从人家篱笆里偷了两只鹅的那个笑话讲给安小姐听吧，好叔父。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="2-3-34">
+			安小姐，我的侄儿很爱您。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="2-3-36">
+			对了，正像我爱葛罗斯特郡的无论哪一个女人一样。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="2-3-38">
+			他愿意像贵妇人一样地供养您。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="2-3-40">
+			这是一定的事，不管来的是什么人，尽管身分比我们乡绅人家要低。
+					<a class="line" href="#2-3-40">40</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="2-3-42">
+			他愿意在他的财产里划出一百五十镑钱来归在您的名下。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">安</b>
+				<span class="line" id="2-3-44">
+			夏禄老爷，他要求婚，还是让他自己说吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="2-3-46">
+			啊，谢谢您，我真感谢您的好意。侄儿，她叫你哩；我让你们两个人谈谈吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">安</b>
+				<span class="line" id="2-3-48">
+			斯兰德世兄。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="2-3-50">
+			是，好安小姐？
+					<a class="line" href="#2-3-50">50</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">安</b>
+				<span class="line" id="2-3-52">
+			您对我有什么高见？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="2-3-54">
+			我有什么高见？老天爷的心肝哪！真是的，这玩笑开得多么妙！我从来也没有过什么高见；我才不是那种昏头昏脑的家伙，我赞美上天。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">安</b>
+				<span class="line" id="2-3-56">
+			我是说，斯兰德世兄，你有什么话要跟我说？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="2-3-58">
+			实实在在说，我自己本来一点没有什么话要跟您说，都是令尊跟家叔两个人的主张。要是我有这运气，那固然很好，不然的话，就让别人来享受这个福分吧！他们可以告诉您许多我自己不会说的话，您还是去问您的父亲吧；他来了。
+				</span>
+			</p>
+			<p class="stagedir">培琪及培琪大娘上。</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="2-3-61">
+			啊，斯兰德少爷！安，你爱他吧。咦，怎么！范顿大爷，您到这儿来有什么事？我早就对您说过了，我的女儿已经有了人家；您还是一趟一趟地到我家里来，这不是太不成话了吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">范顿</b>
+				<span class="line" id="2-3-63">
+			啊，培琪大爷，您别生气。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-3-65">
+			范顿大爷，您以后别再来看我的女儿了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="2-3-67">
+			她是不会嫁给您的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">范顿</b>
+				<span class="line" id="2-3-69">
+			培琪大爷，请您听我说。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="2-3-71">
+			不，范顿大爷，我不要听您说话。来，夏禄老爷；来，斯兰德贤?伲?勖墙?グ伞７抖俅笠??也皇敲挥懈??得靼祝??翟谔?唤怖砝病?small&amp;gt;
+					<i class="parenthetical">培琪、夏禄、斯兰德同下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="2-3-73">
+			向培琪大娘说去。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">范顿</b>
+				<span class="line" id="2-3-75">
+			培琪大娘，我对于令嫒的一片至诚，天日可表，一切的阻碍、谴责和世俗的礼法，都不能使我灰心后退；我希望能够得到您的同意。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">安</b>
+				<span class="line" id="2-3-77">
+			好妈妈，别让我跟那个傻瓜结婚。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-3-79">
+			我是不愿让你嫁给他；我会替你找一个好一点的丈夫。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="2-3-81">
+			那就是我的主人卡厄斯大夫。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">安</b>
+				<span class="line" id="2-3-83">
+			唉！要是叫我嫁给那个医生，我宁愿让你们把我活埋了！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="2-3-85">
+			算了，别自寻烦恼啦。范顿大爷，我不愿帮您忙，也不愿跟您作梗，让我先去问问我的女儿，看她究竟对您有几分意思，慢慢地再说吧。现在我们失陪了，范顿大爷；她要是再不进去，她的父亲一定又要发脾气了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">范顿</b>
+				<span class="line" id="2-3-87">
+			再见，培琪大娘。再见，小安。
+					<i class="parenthetical">培琪大娘及安·培琪下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="2-3-89">
+			瞧，这都是我帮您的忙。我说，“您愿意把您的孩子随随便便嫁给一个傻瓜，一个医生吗？瞧范顿大爷多好！”这都是我帮您的忙。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">范顿</b>
+				<span class="line" id="2-3-91">
+			谢谢你；这一个戒指，请你今天晚上送给我的亲爱的小安。这几个钱是赏给你的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="2-3-93">
+			天老爷赐给您好福气！
+					<i class="parenthetical">范顿下</i>
+			他的心肠真好，一个女人碰见这样好心肠的人，就是为他到火里水里去也甘心。可是我倒希望我的主人娶到了安小姐；我也希望斯兰德少爷能够娶到她；天地良心，我也希望范顿大爷娶到她。我要替他们三个人同样出力，因为我已经答应过他们，说过的话总是要作准的；可是我要替范顿大爷特别出力。啊，两位奶奶还要叫我到福斯塔夫那儿去一趟呢，该死，我怎么还在这儿拉拉扯扯的！
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+		</div>
+		<div class="scene">
+			<h3>第五场　　嘉德饭店中一室 </h3>
+			<p class="stagedir">福斯塔夫及巴道夫上。</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="2-4-3">
+			喂，巴道夫！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">巴道夫</b>
+				<span class="line" id="2-4-5">
+			有，爵爷。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="2-4-7">
+			给我倒一碗酒来，放一块面包在里面。
+					<i class="parenthetical">巴道夫下</i>
+			想不到我活到今天，却给人装在篓子里抬出去，像一车屠夫切下来的肉骨肉屑一样倒在泰晤士河里！好，要是我再上人家这样一次当，我一定把我的脑髓敲出来，涂上牛油丢给狗吃。这两个混账东西把我扔在河里，简直就像淹死一只瞎眼老母狗的一窠小狗一样，不当一回事。你们瞧我这样胖大的身体，就可以知道我沉下水里去，是比别人格外快的，即使河底深得像地狱一样，我也会一下子就沉下去，要不是水浅多沙，我早就淹死啦；我最怕的就是淹死，因为一个人淹死了尸体会发胀，像我这样的人要是发起胀来，那还成什么样子！不是要变成一堆死人山了吗？
+				</span>
+			</p>
+			<p class="stagedir">巴道夫携酒重上。</p>
+			<p>
+				<b class="speaker">巴道夫</b>
+				<span class="line" id="2-4-10">
+			爵爷，桂嫂要见您说话。
+					<a class="line" href="#2-4-10">10</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="2-4-12">
+			来，我一肚子都是泰晤士河里的水，冷得好像欲火上升的时候吞下了雪块一样，让我倒下些酒去把它温一温吧。叫她进来。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">巴道夫</b>
+				<span class="line" id="2-4-14">
+			进来，妇人。
+				</span>
+			</p>
+			<p class="stagedir">快嘴桂嫂上。</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="2-4-17">
+			爵爷，您好？早安，爵爷！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="2-4-19">
+			把这些酒杯拿去了，再给我好好地煮一壶酒来。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">巴道夫</b>
+				<span class="line" id="2-4-21">
+			要不要放鸡蛋？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="2-4-23">
+			什么也别放；我不要小母鸡下的蛋放在我的酒里。
+					<i class="parenthetical">巴道夫下</i>
+			怎么？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="2-4-25">
+			呃，爵爷，福德娘子叫我来看看您。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="2-4-27">
+			别向我提起什么“福德”大娘啦！我“浮”在水面上“浮”够了；要不是她，我怎么会给人丢在河里，满满了一肚子的水。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="2-4-29">
+			嗳哟！那怎么怪得了她？那两个仆人把她气死了，谁想得到他们竟误会了她的意思。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="2-4-31">
+			我也是气死了，会去应一个傻女人的约。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="2-4-33">
+			爵爷，她为了这件事，心里说不出地难过呢；看见了她那种伤心的样子，谁都会心软的。她的丈夫今天一早就去打鸟去了，她请您在八点到九点之间，再到她家里去一次。我必须赶快把她的话向您交代清楚。您放心好了，这一回她一定会好好地补报您的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="2-4-35">
+			好，你回去对她说，我一定来；叫她想一想哪一个男人不是朝三暮四，像我这样的男人，可是不容易找到的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="2-4-37">
+			我一定这样对她说。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="2-4-39">
+			去说给她听吧。你说是在九点到十点之间吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="2-4-41">
+			八点到九点之间，爵爷。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="2-4-43">
+			好，你去吧，我一定来就是了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="2-4-45">
+			再会了，爵爷。
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="2-4-47">
+			白罗克到这时候还不来，倒有些奇怪；他寄信来叫我等在这儿不要出去的。我很喜欢他的钱。啊！他来啦。
+				</span>
+			</p>
+			<p class="stagedir">福德上。</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="2-4-50">
+			您好，爵爷！
+					<a class="line" href="#2-4-50">50</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="2-4-52">
+			啊，白罗克大爷，您是来探问我到福德老婆那儿去的经过吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="2-4-54">
+			我正是要来问您这件事。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="2-4-56">
+			白罗克大爷，我不愿对您撒谎，昨天我是按照她约定的时间到她家里去的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="2-4-58">
+			那么您进行得顺利不顺利呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="2-4-60">
+			不必说起，白罗克大爷。
+					<a class="line" href="#2-4-60">60</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="2-4-62">
+			怎么？难道她又变卦了吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="2-4-64">
+			那倒不是，白罗克大爷，都是她的丈夫，那只贼头贼脑的死乌电，一天到晚见神见鬼地疑心他的妻子；我跟她抱也抱过了，嘴也亲过了，誓也发过了，一本喜剧刚刚念好引子，他就疯疯癫癫地带了一大批狐群狗党，气势汹汹地说是要到家里来捉奸。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="2-4-66">
+			啊！那时候您正在屋子里吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="2-4-68">
+			那时候我正在屋子里。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="2-4-70">
+			他没有把您搜到吗？
+					<a class="line" href="#2-4-70">70</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="2-4-72">
+			您听我说下去。总算我命中有救，来了一位培琪大娘，报告我们福德就要来了的消息；福德家的女人吓得毫无主意，只好听了她的计策，把我装进一只盛脏衣服的篓子里去。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="2-4-74">
+			盛脏衣服的篓子！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="2-4-76">
+			正是一只盛脏衣服的篓子！把我跟那些脏衬衫、臭袜子、油腻的手巾，一股脑儿塞在一起；白罗克大爷，您想想这股气味叫人可受得了？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="2-4-78">
+			您在那篓子里待多久？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="2-4-80">
+			别急，白罗克大爷，您听我说下去，就可以知道我为了您的缘故去勾引这个妇人，吃了多少苦。她们把我这样装进了篓子以后，就叫两个混蛋仆人把我当做一篓脏衣服，抬到洗衣服的那里去；他们刚把我抬上肩走到门口，就碰见他们的主人，那个醋天醋地的家伙，问他们这里面装的是什么东西；我怕这个疯子真的要搜起篓子来，吓得浑身乱抖，可是命运注定他要做一个忘八，居然他没有搜；好，于是他就到屋子里去搜查，我也就冒充着脏衣服出去啦。可是白罗克大爷，您听着，还有下文呢。我一共差不多死了三次：第一次，因为碰在这个吃醋的、带着一批娄罗的忘八羔子手里，把我吓得死去活来；第二次，我让他们把我塞在篓里，像一柄插在鞘子里的宝剑一样，头朝地，脚朝天，再用那些油腻得恶心的衣服把我闷起来，您想，像我这样胃口的人，本来就是像牛油一样遇到了热气会溶化的，不闷死总算是??天之幸；到末了，脂油跟汗水把我煎得半熟以后，这两个混蛋仆人就把我像一个滚热的出笼包子似的，向泰晤士河里丢了下去，白罗克大爷，您想，我简直像一块给铁匠打得通红的马蹄铁，放下水里，连河水都滋拉滋拉地叫起来呢！
+					<a class="line" href="#2-4-80">80</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="2-4-82">
+			爵爷，您为我受了这许多苦，我真是抱歉万分。这样看来，我的希望是永远达不到的了，您未必会再去一试吧？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="2-4-84">
+			白罗克大爷，别说他们把我扔在泰晤士河里，就是把我扔到火山洞里，我也不会就此把她放手的。她的男人今天早上打鸟去了，我已经又得到了她的信，约我八点到九点之间再去。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="2-4-86">
+			现在八点钟已经过了，爵爷。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="2-4-88">
+			真的吗？那么我要去赴约了。您有空的时候再来吧，我一定会让您知道我进行得怎样；总而言之，她一定会到您手里的。再见，白罗克大爷，您一定可以得到她；白罗克大爷，您一定可以叫福德做一个大忘八。
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="2-4-90">
+			哼！嘿！这是一场梦景吗？我在做梦吗？我在睡觉吗？福德，醒来！醒来！你的最好的外衣上有了一个窟窿了，福德大爷！这就是娶了妻子的好处！这就是脏衣服篓子的用处！好，我要让他知道我究竟是什么人；我要现在就去把这奸夫捉住，他在我的家里，这回一定不让他逃走，他一定逃不了。也许魔鬼会帮助他躲起来，这回我一定要把无论什么希奇古怪的地方都一起搜到，连放小钱的钱袋、连胡椒瓶子都要倒出来看看，看他能躲到哪里去。忘八虽然已经做定了，可是我不能就此甘心呀，我要叫他们看看，忘八也不是好欺侮的。
+					<i class="parenthetical">下。</i>
+					<a class="line" href="#2-4-90">90</a>
+				</span>
+			</p>
+		</div>
+	</div>
+	<div class="act">
+		<h2>第四幕</h2>
+		<div class="scene">
+			<h3>第一场　　街道 </h3>
+			<p class="stagedir">培琪大娘、快嘴桂嫂及威廉上。</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-0-3">
+			你想他现在是不是已经在福德家了？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="3-0-5">
+			这时候他一定已经去了，或者就要去了。可是他因为给人扔在河里，很生气哩。福德大娘请您快点过去。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-0-7">
+			等我把这孩子送上学，我就去。瞧，他的先生来了，今天大概又是放假。
+				</span>
+			</p>
+			<p class="stagedir">爱文斯上。</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-0-10">
+			啊，休师傅！今天不上课吗？
+					<a class="line" href="#3-0-10">10</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="3-0-12">
+			不上课，斯兰德少爷放孩子们一天假。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="3-0-14">
+			真是个好人！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-0-16">
+			休师傅，我的丈夫说，我这孩子一点儿也念不进书；请你出几个拉丁文文法题目考考他吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="3-0-18">
+			走过来，威廉；把头抬起来；来吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-0-20">
+			喂，走过去；把头抬起来，回答老师的问题，别害怕。
+					<a class="line" href="#3-0-20">20</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="3-0-22">
+			威廉，名词有几个“数”？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">威廉</b>
+				<span class="line" id="3-0-24">
+			两个
+					<i class="parenthetical">⑤</i>
+				</span>
+				<span class="line" id="3-0-25">
+			。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="3-0-27">
+			说真的，恐怕还得加上一个“数”，不是老听人家说：“算数！”
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="3-0-29">
+			少噜苏！“美”是怎么说的，威廉？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">威廉</b>
+				<span class="line" id="3-0-31">
+			“标致”。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="3-0-33">
+			婊子！比“婊子”更美的东西还有的是呢。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="3-0-35">
+			你真是个头脑简单的女人，闭上你的嘴吧。“lapis”解释什么，威廉？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">威廉</b>
+				<span class="line" id="3-0-37">
+			石子。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="3-0-39">
+			“石子”又解释什么，威廉？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">威廉</b>
+				<span class="line" id="3-0-41">
+			岩石。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="3-0-43">
+			不，是“Lapis”；请你把这个记住。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">威廉</b>
+				<span class="line" id="3-0-45">
+			Lapis。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="3-0-47">
+			真是个好孩子。威廉，“冠词”是从什么地方借来的？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">威廉</b>
+				<span class="line" id="3-0-49">
+			“冠词”是从“代名词”借来的，有这样几个变格——“单数”“主格”是：hic，haec，hoc。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="3-0-51">
+			“主格”：hig，hag，hog；
+					<i class="parenthetical">⑥</i>
+				</span>
+				<span class="line" id="3-0-52">
+			请你听好——“所有格”：hujus。好吧，“对格”你怎么说？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">威廉</b>
+				<span class="line" id="3-0-54">
+			“对格”：hinc。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="3-0-56">
+			请你记住了，孩子；“对格”：hung，hang，hog。
+					<i class="parenthetical">⑦</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="3-0-58">
+			“hang　hog”就是拉丁文里的“火腿”，我跟你说，错不了。
+					<i class="parenthetical">⑧</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="3-0-60">
+			少来唠叨，你这女人。“称呼格”是怎么变的，威廉？
+					<a class="line" href="#3-0-60">60</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">威廉</b>
+				<span class="line" id="3-0-62">
+			噢——“称呼格”，噢——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="3-0-64">
+			记住，威廉；“称呼格”曰“无”。
+					<i class="parenthetical">⑨</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="3-0-66">
+			“胡”萝卜的根才好吃呢。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="3-0-68">
+			你这女人，少开口。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-0-70">
+			少说话！
+					<a class="line" href="#3-0-70">70</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="3-0-72">
+			最后的“复数属格”该怎么说，威廉？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">威廉</b>
+				<span class="line" id="3-0-74">
+			复数属格！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="3-0-76">
+			对。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">威廉</b>
+				<span class="line" id="3-0-78">
+			属格——horum，harum，horum。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="3-0-80">
+			珍妮的人格！她是个婊子，孩子，别提她的名字。
+					<a class="line" href="#3-0-80">80</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="3-0-82">
+			你这女人，太不知羞耻了！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="3-0-84">
+			你教孩子念这样一些字眼儿才太邪门儿了——教孩子念“嫖呀”“喝呀”，他们没有人教，一眨巴眼也就学会吃喝嫖赌了——什么“嫖呀”“喝呀”，亏你说得出口！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="3-0-86">
+			女人，你可是个疯婆娘？你一点儿不懂得你的“格”，你的“数”，你的“性”吗？天下哪儿去找像你这样的蠢女人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-0-88">
+			请你少说话吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="3-0-90">
+			威廉，说给我听，代名词的几种变格。
+					<a class="line" href="#3-0-90">90</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">威廉</b>
+				<span class="line" id="3-0-92">
+			嗳哟，我忘了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="3-0-94">
+			那是qui，quæ，quod；要是你把你的quis忘了，quæs忘了，quods忘了，小心你的屁股吧。现在去玩儿吧，去吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-0-96">
+			我怕他不肯用功读书，他倒还算好。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="3-0-98">
+			他记性好，一下子就记住了。再见，培琪大娘。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-0-100">
+			再见，休师傅。
+					<i class="parenthetical">休师傅下</i>
+			孩子，你先回家去。来，我们已经耽搁得太久了。
+					<i class="parenthetical">同下。</i>
+					<a class="line" href="#3-0-100">100</a>
+				</span>
+			</p>
+		</div>
+		<div class="scene">
+			<h3>第二场　　福德家中一室 </h3>
+			<p class="stagedir">福斯塔夫及福德大娘上。</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="3-1-3">
+			娘子，你的懊恼已经使我忘记了我身受的种种痛苦。你既然这样一片真心对待我，我也决不会有丝毫亏负你；我不仅要跟你恩爱一番，还一定会加意奉承，格外讨好，管保教你心满意足就是了。可是你相信你的丈夫这回一定不会再来了吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-1-5">
+			好爵爷，他打鸟去了，一定不会早回来的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-1-7">
+					<i class="parenthetical">在内</i>
+			喂！福德嫂子！喂！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-1-9">
+			爵爷，您进去一下。
+					<i class="parenthetical">福斯塔夫下。</i>
+				</span>
+			</p>
+			<p class="stagedir">培琪大娘上。</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-1-12">
+			啊，心肝！你屋子里还有什么人吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-1-14">
+			没有，就是自己家里几个人。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-1-16">
+			真的吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-1-18">
+			真的。
+					<i class="parenthetical">向培琪大娘旁白</i>
+			大声一点说。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-1-20">
+			真的没有什么人，那我就放心啦。
+					<a class="line" href="#3-1-20">20</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-1-22">
+			为什么？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-1-24">
+			为什么，我的奶奶，你那汉子的老毛病又发作啦。他正在那儿拉着我的丈夫，痛骂那些有妻子的男人，不分青红皂白地咒骂着天下所有的女人，还把拳头捏紧了敲着自己的额角，嚷道：“快把绿帽子戴上吧，快把绿帽子戴上吧！”无论什么疯子狂人，比起他这种疯狂的样子来，都会变成顶文雅顶安静的人了。那个胖骑士不在这儿，真是运气！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-1-26">
+			怎么，他又说起他吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-1-28">
+			不说起他还说起谁？他发誓说上次他来搜他的时候，他是给装在篓子里抬出去的；他一口咬定说他现在就在这儿，一定要叫我的丈夫和同去的那班人停止了打鸟，陪着他再来试验一次他疑心得对不对。我真高兴那骑士不在这儿，这回他该明白他自己的傻气了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-1-30">
+			培琪嫂子，他离开这儿有多远？
+					<a class="line" href="#3-1-30">30</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-1-32">
+			只有一点点路，就在街的尽头，一会儿就来了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-1-34">
+			完了！那骑士正在这儿呢。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-1-36">
+			那么你的脸要丢尽，他的命也保不住啦。你真是个宝货！快打发他走吧！快打发他走吧！丢脸还是小事，弄出人命案子来可不是玩的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-1-38">
+			叫他到哪儿去呢？我怎样把他送出去呢？还是把他装在篓子里吗？
+				</span>
+			</p>
+			<p class="stagedir">福斯塔夫重上。</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="3-1-41">
+			不，我再也不躲在篓子里了。还是让我趁他没有来，赶快出去吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-1-43">
+			唉！福德的三个弟兄手里拿着枪，把守着门口，什么人都不让出去；否则您倒可以溜出去的。可是您干吗又到这儿来呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="3-1-45">
+			那么我怎么办呢？还是让我钻到烟囱里去吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-1-47">
+			他们平常打鸟回来，鸟枪里剩下的子弹都是往烟囱里放的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-1-49">
+			还是灶洞里倒可以躲一躲。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="3-1-51">
+			在什么地方？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-1-53">
+			他一定会找到那个地方的。他已经把所有的柜啦、橱啦、板箱啦、废箱啦、铁箱啦、井啦、地窖啦，以及诸如此类的地方，一起记在笔记簿上，只要照着单子一处处搜寻，总会把您搜到的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="3-1-55">
+			那么我还是出去。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-1-57">
+			爵爷，您要是就照您的本来面目跑出去，那您休想活命。除非化装一下——
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-1-59">
+			我们把他怎样化装起来呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-1-61">
+			唉！我不知道。哪里找得到一身像他那样身材的女人衣服？否则叫他戴上一顶帽子，披上一条围巾，头上罩一块布，也可以混了出去。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="3-1-63">
+			好心肝，乖心肝，替我想想法子。只要安全无事，什么丢脸的事我都愿意干。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-1-65">
+			我家女用人的姑母，就是那个住在勃伦府的胖婆子，倒有一件罩衫在这儿楼上。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-1-67">
+			对了，那正好给他穿，她的身材是跟他一样大的；而且她的那顶粗呢帽和围巾也在这儿。爵爷，您快奔上去吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-1-69">
+			去，去，好爵爷；让我跟培琪嫂子再给您找一方包头的布儿。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-1-71">
+			快点，快点！我们马上就来给您打扮，您先把那罩衫穿上再说。
+					<i class="parenthetical">福斯塔夫下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-1-73">
+			我希望我那汉子能够瞧见他扮成这个样子；他一见这个勃伦府的老婆子就眼中冒火，他说她是个妖妇，不许她走进我们家里，说是一看见她就要打她。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-1-75">
+			但愿上天有眼，让他尝一尝你丈夫的棍棒的滋味！但愿那棍棒落在他身上的时候，有魔鬼附在你丈夫的手里！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-1-77">
+			可是我那汉子真的就要来了吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-1-79">
+			真的，他直奔而来；他还在说起那篓子呢，也不知道他哪里得来的消息。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-1-81">
+			让我们再试他一下。我仍旧去叫我的仆人把那篓子抬到门口，让他看见，就像上一次一样。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-1-83">
+			可是他立刻就要来啦，还是先去把他装扮做那个勃伦府的巫婆吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-1-85">
+			我先去吩咐我的仆人，叫他们把篓子预备好了。你先上去，我马上就把他的包头布带上来。
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-1-87">
+			该死的狗东西！这种人就是作弄他一千次也不算罪过。
+				</span>
+				<span class="line" id="3-1-88">
+			不要看我们一味胡闹，
+				</span>
+				<span class="line" id="3-1-89">
+			　这蠢猪是他自取其殃；
+				</span>
+				<span class="line" id="3-1-90">
+			我们要告诉世人知道，
+					<a class="line" href="#3-1-90">90</a>
+				</span>
+				<span class="line" id="3-1-91">
+			　风流娘们不一定轻狂。
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+			<p class="stagedir">福德大娘率二仆重上。</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-1-94">
+			你们再把那篓子抬出去；大爷快要到门口了，他要是叫你们放下来，你们就听他的话放下来。快点，马上就去。
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">仆甲</b>
+				<span class="line" id="3-1-96">
+			来，来，把它抬起来。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">仆乙</b>
+				<span class="line" id="3-1-98">
+			但愿这篓子里不要再装满了爵士才好。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">仆甲</b>
+				<span class="line" id="3-1-100">
+			我也希望不再像前次一样；抬一篓的铅都没有那么重哩。
+					<a class="line" href="#3-1-100">100</a>
+				</span>
+			</p>
+			<p class="stagedir">福德、培琪、夏禄、卡厄斯及爱文斯同上。</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="3-1-103">
+			不错，培琪大爷，可是要是真有这回事，您还有法子替我洗去污名吗？狗才，把这篓子放下来；又有人来拜访过我的妻子了。把年轻的男人装在篓子里抬进抬出！你们这两个混账的家伙也不是好东西！你们都是串通了一气来算计我的。现在这个鬼可要叫他出丑了。喂，我的太太，你出来！瞧瞧你给他们洗些什么好衣服！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="3-1-105">
+			这真太过分了！福德大爷，您要是再这样疯下去，我们真要把您铐起来了，免得闹出什么乱子来。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="3-1-107">
+			嗳哟，这简直是发疯！像疯狗一样发疯！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="3-1-109">
+			真的，福德大爷，这真有点儿不大好。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="3-1-111">
+			我也是这样说哩。——
+				</span>
+			</p>
+			<p class="stagedir">福德大娘重上。</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="3-1-114">
+			过来，福德大娘，咱们这位贞洁的妇人，端庄的妻子，贤德的人儿，可惜嫁给了一个爱吃醋的傻瓜！娘子，是我无缘无故瞎起疑心吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-1-116">
+			天日为证，你要是疑心我有什么不规矩的行为，那你的确太会多心了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="3-1-118">
+			说得好，不要脸的东西！你尽管嘴硬吧。过来，狗才！
+					<i class="parenthetical">翻出篓中衣服。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="3-1-120">
+			这真太过分了！
+					<a class="line" href="#3-1-120">120</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-1-122">
+			你好意思吗？别去翻那衣服了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="3-1-124">
+			我就会把你的秘密揭穿的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="3-1-126">
+			这简直是岂有此理。还不把你妻子的衣服拿起来吗？去吧，去吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="3-1-128">
+			把这篓子倒空了！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-1-130">
+			为什么呀，傻子，为什么呀？
+					<a class="line" href="#3-1-130">130</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="3-1-132">
+			培琪大爷，不瞒您说，昨天就有一个人装在这篓子里从我的家里抬出去，谁知道今天他不会仍旧在这里面？我相信他一定在我家里，我的消息是绝对可靠的，我的疑心是完全有根据的。给我把这些衣服一起拿出来。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-1-134">
+			你要是在这里面找出一个男人来，就把他当个虱子掐死好了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="3-1-136">
+			没有什么人在这里面。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="3-1-138">
+			福德大爷，这真太不成话了，真太不成话了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="3-1-140">
+			福德大爷，您应该常常祷告，不要随着自己的心一味胡思乱想；吃醋也没有这样吃法。
+					<a class="line" href="#3-1-140">140</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="3-1-142">
+			好，他没有躲在这里面。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="3-1-144">
+			除了在您自己脑子里以外，您根本就找不到这样一个人。
+					<i class="parenthetical">二仆将篓抬下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="3-1-146">
+			帮我再把我的屋子搜一回，要是再找不到我所要找的人，你们尽管把我嘲笑得体无完肤好了；让我永远做你们餐席上谈笑的资料，要是人家提起吃醋的男人来，就把我当作一个现成的例子，因为我会在一枚空的核桃壳里找寻妻子的情人。请你们再帮我这一次忙，替我搜一下，好让我死了心。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-1-148">
+			喂，培琪嫂子！您陪着那位老太太下来吧；我的丈夫要上楼来了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="3-1-150">
+			老太太！哪里来的老太太？
+					<a class="line" href="#3-1-150">150</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-1-152">
+			就是我家女仆的姑妈，住在勃伦府的那个老婆子。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="3-1-154">
+			哼，这妖妇，这贼老婆子！我不是不许她走进我的屋子里吗？她又是给什么人带信来的，是不是？我们都是头脑简单的人，不懂得求神问卜这些玩意儿；什么画符、念咒、起课这一类鬼把戏，我们全不懂得。快给我滚下来，你这妖妇，鬼老太婆！滚下来！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-1-156">
+			不，我的好大爷！列位大爷，别让他打这可怜的老婆子。
+				</span>
+			</p>
+			<p class="stagedir">培琪大娘偕福斯塔夫女装重上。</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-1-159">
+			来，普拉老婆婆；来，搀着我的手。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="3-1-161">
+			我要“泼辣辣”地揍她一顿呢。——
+					<i class="parenthetical">打福斯塔夫</i>
+			滚出去，你这妖妇，你这贱货，你这臭猫，你这鬼老太婆！滚出去！滚出去！我要请你去见神见鬼呢，我要给你算算命呢。
+				</span>
+			</p>
+			<p class="stagedir">（福斯塔夫下。）</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-1-164">
+			你羞不羞？这可怜的老妇人差不多给你打死了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-1-166">
+			欺负一个苦老太婆，真有你的！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="3-1-168">
+			该死的妖妇！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="3-1-170">
+			我想这妇人的确是一个妖妇；我不喜欢长胡须的女人，我看见她的围巾下面露出几根胡须呢。
+					<a class="line" href="#3-1-170">170</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="3-1-172">
+			列位，请你们跟我来好不好？看看我究竟是不是瞎起疑心。要是我完全无理取闹，请你们以后再不要相信我的话。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="3-1-174">
+			咱们就再顺顺他的意思吧。各位，大家都来。
+					<i class="parenthetical">福德、培琪、夏禄、卡厄斯、爱文斯同下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-1-176">
+			他把他打得真可怜。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-1-178">
+			这一顿打才打得痛快呢。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-1-180">
+			我想把那棒儿放在祭坛上供奉起来，它今天立下了很大的功劳。
+					<a class="line" href="#3-1-180">180</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-1-182">
+			我倒有一个意思，不知道你以为怎样？我们横竖名节无亏，问心无愧，索性一不做，二不休，再把他作弄一番好不好？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-1-184">
+			他吃过了这两次苦头，一定把他的色胆都吓破了；除非魔鬼盘据在他心里，大概他不会再来冒犯我们了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-1-186">
+			我们要不要把我们怎样作弄他的情形告诉我们的丈夫知道？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-1-188">
+			很好，这样也可以点破你那汉子的疑心。要是他们认为这个荒唐的胖爵士还有应加惩处的必要，那么仍旧可以委托我们全权办理的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-1-190">
+			我想他们一定要让他当着众人出一次丑；我们这一个笑话也一定要这样才可以告一段落。
+					<a class="line" href="#3-1-190">190</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-1-192">
+			好，那么我们就去商量办法吧；我的脾气是想到就做，不让事情耽搁下去的。
+					<i class="parenthetical">同下。</i>
+				</span>
+			</p>
+		</div>
+		<div class="scene">
+			<h3>第三场　　嘉德饭店中一室 </h3>
+			<p class="stagedir">店主及巴道夫上。</p>
+			<p>
+				<b class="speaker">巴道夫</b>
+				<span class="line" id="3-2-3">
+			老板，那几个德国人要问您借三匹马；公爵明天要上朝来了，他们要去迎接他。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="3-2-5">
+			什么公爵来得这样秘密？我不曾在宫廷里听见人家说起。让我去跟那几个客人谈谈。他们会说英国话吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">巴道夫</b>
+				<span class="line" id="3-2-7">
+			会说的，老板；我去叫他们来。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="3-2-9">
+			马可以借给他们，可是我不能让他们白骑，世上没有这样便宜的事情。他们已经住了我的房子一个星期了，我已经为了他们回绝了多少别的客人；我可不能跟他们客气，这笔损失是一定要叫他们赔偿的。来。
+					<i class="parenthetical">同下。</i>
+				</span>
+			</p>
+		</div>
+		<div class="scene">
+			<h3>第四场　福德家中一室 </h3>
+			<p class="stagedir">培琪、福德、培琪大娘、福德大娘及爱文斯上。</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="3-3-3">
+			女人家有这样的心思，难得难得！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="3-3-5">
+			他是同时寄信给你们两个人的吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-3-7">
+			我们在一刻钟内同时接到。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="3-3-9">
+			娘子，请你原谅我。从此以后，我一切听任你；我宁愿疑心太阳失去了热力，不愿疑心你有不贞的行为。你已经使一个对于你的贤德缺少信心的人，变成你的一个忠实的信徒了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="3-3-11">
+			好了，好了，别说下去了。太冒冒失失固然不好，太服服帖帖可也不对。我们还是来商量计策吧；让我们的妻子为了给大家解解闷，再跟这个胖老头子约好一个时间，到了那时候，我们就去捉住他，把他羞辱一顿。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="3-3-13">
+			她们刚才说起的那个办法，再好没有了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="3-3-15">
+			怎么？约他在半夜里到林苑里去相会吗？嘿！他再也不会来的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="3-3-17">
+			你们说他已经给丢在河里，还给人当做一个老婆子痛打了一顿，我想他一定吓怕了，不会再来了；他的肉体已经受到责罚，他一定不敢再起欲念了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="3-3-19">
+			我也这样想。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-3-21">
+			你们只要商量商量等他来了怎样对付他，我们两人自会想法子叫他来的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-3-23">
+			有一个古老的传说，说是曾经在这儿温莎地方做过管林子的猎夫赫恩，鬼魂常常在冬天的深夜里出现，绕着一株橡树兜圈子，头上还长着又粗又大的角，手里摇着一串链子，发出怕人的声音；他一出来，树木就要枯黄，牲畜就要害病，乳牛的乳汁会变成血液。这一个传说从前代那些迷信的人们嘴里流传下来，就好像真有这回事一样，你们各位也都听见过的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="3-3-25">
+			是呀，有许多人不敢在深夜里经过这株赫恩的橡树呢。可是你为什么要提起它呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-3-27">
+			这就是我们的计策：我们要叫福斯塔夫头上装了两只大角，扮做赫恩的样子，在那橡树的旁边等着我们。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="3-3-29">
+			好，就算他听着你们这样打扮着来了，你们预备把他怎么样呢？你有什么妙计呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-3-31">
+			那我们也已经想好了：我们先叫我的女儿安和我的小儿子，还有三四个跟他们差不多大的孩子，大家打扮成一队精灵的样子，穿着绿色的和白色的衣服，各人头上顶着一圈蜡烛，手里拿着响铃，埋伏在树旁的土坑里；等福斯塔夫跟我们相会的时候，他们就一拥而出，嘴里唱着各色各样的歌儿；我们一看见他们出来，就假装吃惊逃走了，然后让他们把他团团围住，把这龌龊的爵士你拧一把，我刺一下，还要质问他为什么在这仙人们游戏的时候，胆敢装扮做那种秽恶的形状，闯进神圣的地方来。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="3-3-33">
+			这些假扮的精灵们要把他拧得遍体鳞伤，还用蜡烛烫他的皮肤，直等他招认一切为止。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-3-35">
+			等他招认以后，我们大家就一起出来，?巯滤?慕牵?阉?宦啡⌒ψ呕丶摇
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="3-3-37">
+			孩子们倒要叫他们练习得熟一点，否则会露出破绽来的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="3-3-39">
+			我可以教这些孩子们怎样做；我自己也要扮做一个猴崽子，用蜡烛去烫这爵士哩。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="3-3-41">
+			那好极啦。我去替他们买些面具来。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-3-43">
+			我的小安要扮做一个仙后，穿着很漂亮的白袍子。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="3-3-45">
+			我去买缎子来给她做衣服。
+					<i class="parenthetical">旁的</i>
+			到了那个时候，我可以叫斯兰德把安偷走，到伊登去跟她结婚。——你们马上就派人到福斯塔夫那里去吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="3-3-47">
+			不，我还要用白罗克的名字去见他一次，他会把什么话都告诉我。他一定会来的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-3-49">
+			不怕他不来。我们这些精灵们的一切应用的东西和饰物，也该赶快预备起来了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="3-3-51">
+			我们就去办起来吧；这是个很好玩的玩意儿，而且也是光明正大的恶作剧。
+					<i class="parenthetical">培琪、福德、爱文斯同下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="3-3-53">
+			福德嫂子，你就去找桂嫂，叫她到福斯塔夫那里去，探探他的意思。
+					<i class="parenthetical">福德大娘下</i>
+			我现在要到卡厄斯大夫那里去，他是我看中的人，除了他谁也不能娶我的小安。那个斯兰德虽然有家私，却是一个呆子，我的丈夫偏偏喜欢他。这医生又有钱，他的朋友在宫廷里又有势力，只有他才配做她的丈夫，即使有二万个更了不得的人来向她求婚，我也不给他们。
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+		</div>
+		<div class="scene">
+			<h3>第五场　嘉德饭店中一室 </h3>
+			<p class="stagedir">店主及辛普儿上。</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="3-4-3">
+			你要干吗，乡下佬，蠢东西？说吧，讲吧，干干脆脆的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">辛普儿</b>
+				<span class="line" id="3-4-5">
+			呃，老板，我是斯兰德少爷叫我来跟约翰·福斯塔夫爵士说话的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="3-4-7">
+			那边就是他的房间、他的公馆、他的床铺，你瞧门上新画着浪子回家故事的就是。只要你去敲敲门，喊他一声，他就会跟你胡说八道。去敲他的门吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">辛普儿</b>
+				<span class="line" id="3-4-9">
+			刚才有一个胖大的老妇人跑进他的房间里去，请您让我在这儿等她下来吧；我本来是要跟她说话的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="3-4-11">
+			哈！一个胖女人！也许是来偷东西的，让我叫他一声。喂，骑士！好爵爷！你在房间里吗？使劲回答我，你的店主东——你的老朋友在叫你哪。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="3-4-13">
+					<i class="parenthetical">在上</i>
+			什么事，老板？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="3-4-15">
+			这儿有一个流浪的鞑靼人等着你的胖婆娘下来。叫她下来，好家伙，叫她下来；我的屋子是干干净净的，不能让你们干那些鬼鬼祟祟的勾当。哼，不要脸！
+				</span>
+			</p>
+			<p class="stagedir">福斯塔夫上。</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="3-4-18">
+			老板，刚才是有一个胖老婆子在我这儿，可是现在她已经走了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">辛普儿</b>
+				<span class="line" id="3-4-20">
+			请问一声，爵爷，她就是勃伦府那个算命的女人吗？
+					<a class="line" href="#3-4-20">20</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="3-4-22">
+			对啦，螺蛳精；你问她干吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">辛普儿</b>
+				<span class="line" id="3-4-24">
+			爵爷，我家主人斯兰德少爷因为瞧见她在街上走过，所以叫我来问问她，他有一串链子给一个叫做尼姆的骗去了，不知道那链子还在不在那尼姆的手里。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="3-4-26">
+			我已经跟那老婆子讲起过这件事了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">辛普儿</b>
+				<span class="line" id="3-4-28">
+			请问爵爷，她怎么说呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="3-4-30">
+			呃，她说，那个从斯兰德手里把那链子骗去的人，就是偷他链子的人。
+					<a class="line" href="#3-4-30">30</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">辛普儿</b>
+				<span class="line" id="3-4-32">
+			我希望我能够当面跟她谈谈；我家少爷还叫我问她别的事情哩。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="3-4-34">
+			什么事情？说出来听听看。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="3-4-36">
+			对了，快说。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">辛普儿</b>
+				<span class="line" id="3-4-38">
+			爵爷，我家少爷吩咐我要保守秘密呢。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="3-4-40">
+			你要是不说出来，就叫你死。
+					<a class="line" href="#3-4-40">40</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">辛普儿</b>
+				<span class="line" id="3-4-42">
+			啊，实在没有什么事情，不过是关于培琪家小姐的事情，我家少爷叫我来问问看，他命里能不能娶她做妻子。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="3-4-44">
+			那可要看他的命运怎样了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">辛普儿</b>
+				<span class="line" id="3-4-46">
+			您怎么说？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="3-4-48">
+			娶得到是他的命，娶不到也是他的命。你回去告诉主人，就说那老妇人这样对我说的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">辛普儿</b>
+				<span class="line" id="3-4-50">
+			我可以这样告诉他吗？
+					<a class="line" href="#3-4-50">50</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="3-4-52">
+			是的，乡下佬，你尽管这样说好了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">辛普儿</b>
+				<span class="line" id="3-4-54">
+			多谢爵爷；我家少爷听见了这样的消息，一定会十分高兴的。
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="3-4-56">
+			你真聪明，爵爷，你真聪明。真有一个算命的婆子在你房间里吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="3-4-58">
+			是的，老板，她刚才还在我这儿；她教给我许多我一生从来没有学过的智慧，我不但没有花半个钱的学费，而且她反倒给我酬劳呢。
+				</span>
+			</p>
+			<p class="stagedir">巴道夫上。</p>
+			<p>
+				<b class="speaker">巴道夫</b>
+				<span class="line" id="3-4-61">
+			嗳哟，老板，不好了！又是骗子，尽是些骗子！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="3-4-63">
+			我的马呢？蠢奴才，好好地对我说。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">巴道夫</b>
+				<span class="line" id="3-4-65">
+			都跟着那些骗子们跑掉啦；一过了伊登，他们就把我从马上推下来，把我丢在一个烂泥潭里，他们就像三个德国鬼子似的，策马加鞭，飞也似的去了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="3-4-67">
+			狗才，他们是去迎接公爵去的。别说他们逃走，德国人都是规规矩矩的。
+				</span>
+			</p>
+			<p class="stagedir">爱文斯上。</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="3-4-70">
+			老板在哪儿？
+					<a class="line" href="#3-4-70">70</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="3-4-72">
+			师傅，什么事？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="3-4-74">
+			留心你的客人。我有一个朋友到城里来，他告诉我有三个德国骗子，一路上骗人家的马匹金钱；里亭、梅登海、科白路，各家旅店都上了他们的当。我是一片好心来通知你，你当心些吧；你是个很乖巧的人，专爱开人家的玩笑，要是你也被人家骗了，那未免太笑话啦。再见。
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+			<p class="stagedir">卡厄斯上。</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="3-4-77">
+			店主东呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="3-4-79">
+			卡厄斯大夫，我正在这儿心乱如麻呢。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡尼斯</b>
+				<span class="line" id="3-4-81">
+			我不懂你的意思；可是人家告诉我，你正在准备着隆重地招待一个德国的公爵，可是我不骗你，我在宫廷里就不知道有什么公爵要来。我是一片好心来通知你。再见。
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="3-4-83">
+			狗才，快去喊人去捉贼！骑士，帮帮我忙，我这回可完了！狗才，快跑，捉贼！完了！完了！
+					<i class="parenthetical">店主及巴道夫下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="3-4-85">
+			我但愿全世界的人都受骗，因为我自己也受了骗，而且还挨了打。要是宫廷里的人听见了我怎样一次次的化身，给人当衣服洗，用棍子打，他们一定会把我身上的油一滴一滴溶下来，去擦渔夫的靴子；他们一定会用俏皮话把我挖苦得像一只干瘪的梨一样丧气。自从那一次赖了赌债以后，我一直交着坏运。好，要是我在临终以前还来得及念祷告，我一定要忏悔。
+				</span>
+			</p>
+			<p class="stagedir">快嘴桂嫂上。</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="3-4-88">
+			啊，又是谁叫你来的？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="3-4-90">
+			除了那两个人还有谁？
+					<a class="line" href="#3-4-90">90</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="3-4-92">
+			让魔鬼跟他的老娘把那两个人抓了去吧！趁早把她们这样打发了吧。我已经为了她们吃过多少苦，男人本来是容易变心的，谁受得了这样的欺负！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="3-4-94">
+			您以为她们没有吃苦吗？说来才叫人伤心哪，尤其是那位福德娘子，天可怜见的，给她的汉子打得身上一块青一块黑的，简直找不出一处白净的地方。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="3-4-96">
+			什么一块青一块黑的，我自己给他打得五颜六色，浑身挂彩呢；我还差一点给他们当做勃伦府的妖妇抓了去。要不是我急中生智，把一个老太婆的举动装扮得活龙活现，我早已给混蛋官差们锁上脚镣，办我一个妖言惑众的罪名了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="3-4-98">
+			爵爷，让我到您房间里去跟您说话，您就会明白一切，而且包在我身上，一定会叫您满意的。这儿有一封信，您看了就知道了。天哪！把你们拉拢在一起，真麻烦死了！你们中间一定有谁得罪了天，所以才这样颠颠倒倒的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="3-4-100">
+			那么你跟我上楼，到我的房间里来吧。
+					<i class="parenthetical">同下</i>
+					<a class="line" href="#3-4-100">100</a>
+				</span>
+			</p>
+		</div>
+		<div class="scene">
+			<h3>第六场　嘉德饭店中另一室 </h3>
+			<p class="stagedir">范顿及店主上。</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="3-5-3">
+			范顿大爷，别跟我说话，我一肚子都是闷气，我想索性这桩生意也不做了。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">范顿</b>
+				<span class="line" id="3-5-5">
+			可是你听我说。我要你帮我做一件事，事成之后，我不但赔偿你的全部损失，而且还愿意送给你黄金百镑，作为酬谢。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="3-5-7">
+			好，范顿大爷，您说吧。我不知道我能不能帮您的忙，可是至少我不会泄漏秘密。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">范顿</b>
+				<span class="line" id="3-5-9">
+			我曾经屡次告诉你我对于培琪家安小姐的深切的爱情；她对我也已经表示默许了，要是她自己作得了主，我一定可以如愿以偿的。刚才我收到了她一封信，信里所说起的事情，你要是知道了，一定会拍手称奇；原来她给我出了个好主意，而这主意又是跟一个笑料分不开的，要说到我们的事儿，就得提到那个笑料，要给你讲那个笑料，就得说一说我们的事儿。那胖骑士福斯塔夫不免要给他们捉弄，受一番惊吓了；究竟要开什么玩笑，我一五一十都跟你说了吧。
+					<i class="parenthetical">指信</i>
+			听着，我的好老板，今夜十二点钟到一点钟之间，在赫恩橡树的近旁，我的亲爱的小安要扮成仙后的样子，为什么要这样打扮，这儿写得很明白。她父亲叫她趁着大家开玩笑开得乱哄哄的时候，就穿着这身服装，跟斯兰德悄悄地溜到伊登去结婚，她已经答应他了。可是她母亲竭力反对她嫁给斯兰德，决意把她嫁给卡厄斯，她也已经约好那个医生，叫他也趁着人家忙得不留心的时候，用同样的方式把她带到教长家里去，请一个牧师替他们立刻成婚；她对于她母亲的这个计策，也已经假装服从的样子，答应了那医生了。他们的计划是这样的：她的父亲要她全身穿着白的衣服，以便认识，斯兰德看准了时机，就搀着她的手，叫她跟着走，她就跟着他走；她的母亲为了让那医生容易辨认起见，——因为他们大家都是戴着面具的——却叫她穿着宽大的浅绿色的袍子，头上系着飘扬的丝带，那医生一看有了下手的机会，便上去把她的手捏一把，这一个暗号便是叫她跟着他走的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="3-5-11">
+			她预备欺骗她的父亲呢，还是欺骗她的母亲？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">范顿</b>
+				<span class="line" id="3-5-13">
+			我的好老板，她要把他们两人一起骗了，跟我一块儿溜走。所以我要请你费心去替我找一个牧师，十二点钟到一点钟之间在教堂里等着我，为我们举行正式的婚礼。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">店主</b>
+				<span class="line" id="3-5-15">
+			好，您去实行您的计划吧，我一定给您找牧师去。只要把那位姑娘带来，牧师是不成问题的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">范顿</b>
+				<span class="line" id="3-5-17">
+			多谢多谢，我一定永远记住你的恩德，而且我马上就会报答你的。
+					<i class="parenthetical">同下。</i>
+				</span>
+			</p>
+		</div>
+	</div>
+	<div class="act">
+		<h2>第五幕</h2>
+		<div class="scene">
+			<h3>第一场　嘉德饭店中一室 </h3>
+			<p class="stagedir">福斯塔夫及快嘴桂嫂上。</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="4-0-3">
+			请你别再噜哩噜苏了，去吧，我一定不失约就是了。这已经是第三次啦，我希望单数是吉利的。去吧，去吧！人家说单数是用来占卜生、死、机缘的。去吧！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">桂嫂</b>
+				<span class="line" id="4-0-5">
+			我去给您弄一根链子来，再去设法找一对角来。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="4-0-7">
+			好，去吧；别耽搁时间了。抬起你的头来，扭扭屁股走吧。
+					<i class="parenthetical">桂嫂下。</i>
+				</span>
+			</p>
+			<p class="stagedir">福德上。</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="4-0-10">
+			啊，白罗克大爷！白罗克大爷，事情成功不成功，今天晚上就可以知道。请您在半夜时候，到赫恩橡树那儿去，就可以看见新鲜的事儿。
+					<a class="line" href="#4-0-10">10</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="4-0-12">
+			您昨天不是对我说过，要到她那儿去赴约吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="4-0-14">
+			白罗克大爷，我昨天到她家里去的时候，正像您现在看见我一样，是个可怜的老头儿；可是白罗克大爷，我从她家里出来的时候，却变成一个苦命的老婆子了。白罗克大爷，她的丈夫，福德那个混蛋，简直是个疯狂的吃醋鬼投胎。他欺我是个女人，把我没头没脑一顿打；可是，白罗克大爷，要是我穿着男人的衣服，别说他是个福德，就算他是个身长丈二的天神，拿着一根千斤重的梁柱向我打来，我也不怕他。我现在还有要事，请您跟我一路走吧，白罗克大爷，我可以把一切的事情完全告诉您。自从我小时候偷鹅、赖学、抽陀螺挨打以后，直到现在才重新尝到挨打的滋味。跟我来，我要告诉您关于这个叫做福德的混蛋的古怪事儿；今天晚上我就可以向他报复，我一定会把他的妻子送到您的手里。跟我来。白罗克大爷，您就有新鲜事儿看了！跟我来。
+					<i class="parenthetical">同下。</i>
+				</span>
+			</p>
+		</div>
+		<div class="scene">
+			<h3>第二场　温莎林苑 </h3>
+			<p class="stagedir">培琪、夏禄及斯兰德上。</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="4-1-3">
+			来，来，咱们就躲在这座古堡的壕沟里，等我们那班精灵们的火光出现以后再出来。斯兰德贤婿，记着我的女儿。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="4-1-5">
+			好，一定记着；我已经跟她当面谈过，约好了用什么口号互相通知。我看见她穿着白衣服，就上去对她说“?蕖保??突卮鹞摇安患?谩保?庋?颐蔷筒换崛洗砝病
+				</span>
+			</p>
+			<p>
+				<b class="speaker">夏禄</b>
+				<span class="line" id="4-1-7">
+			那也好，可是何必嚷什么“?蕖绷ǎ?裁础安患?谩绷ǎ?阒灰?炊?舜┌滓路?娜司托欣病Ｖ右丫?檬?懔恕
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="4-1-9">
+			天乌沉沉的，精灵和火光在这时候出现，再好没有了。愿上天保佑我们的游戏成功！除了魔鬼以外，谁都没有恶意；我们只要看谁的头上有角，就知道他是魔鬼。去吧，大家跟我来。
+					<i class="parenthetical">同下。</i>
+				</span>
+			</p>
+		</div>
+		<div class="scene">
+			<h3>第三场　温莎街道 </h3>
+			<p class="stagedir">培琪大娘、福德大娘及卡厄斯上。</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="4-2-3">
+			大夫，我的女儿是穿绿的；您看时机一到，便过去搀她的手，带她到教长家里去，赶快把事情办了。现在您一个人先到林苑里去，我们两个人是要一块儿去的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="4-2-5">
+			我知道我应当怎么办。再见。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="4-2-7">
+			再见，大夫。
+					<i class="parenthetical">卡厄斯下</i>
+			我的丈夫把福斯塔夫羞辱过了以后，知道这医生已经跟我的女儿结婚，一定会把一场高兴，化作满腔怒火的；可是管他呢，与其让他害得我将来心碎，宁可眼前挨他一顿臭骂。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="4-2-9">
+			小安和她的一队精灵现在在什么地方？还有那个威尔士鬼子休牧师呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="4-2-11">
+			他们都把灯遮得暗暗的，躲在赫恩橡树近旁的一个土坑里；一等到福斯塔夫跟我们会见的时候，他们就立刻在黑夜里出现。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="4-2-13">
+			那一定会叫他大吃一惊的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="4-2-15">
+			要是吓不倒他，我们也要把他讥笑一番；要是他果然吓倒了，我们还是要讥笑他的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="4-2-17">
+			咱们这回不怕他不上圈套。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="4-2-19">
+			像他这种淫棍，欺骗他、教训他也是好事。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="4-2-21">
+			时间快到啦，到橡树底下去，到橡树底下去！
+					<i class="parenthetical">同下。</i>
+				</span>
+			</p>
+		</div>
+		<div class="scene">
+			<h3>第四场　温莎林苑 </h3>
+			<p class="stagedir">爱文斯化装率扮演精灵的一群上。</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="4-3-3">
+			跑，跑，精灵们，来；别忘了你们各人的词句。大家放大胆子，跟我跑下这土坑里，等我一发号令，就照我吩咐你们的做起来。来，来；跑，跑。
+					<i class="parenthetical">同下。</i>
+				</span>
+			</p>
+		</div>
+		<div class="scene">
+			<h3>第五场　林苑中的另一部分 </h3>
+			<p class="stagedir">福斯塔夫顶公鹿头扮赫恩上。</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="4-4-3">
+			温莎的钟已经敲了十二点，时间快到了。好色的天神们，照顾照顾我吧！记着，乔武大神，你曾经为了你的情人欧罗巴⑩的缘故，化身做一头公牛，爱情使你头上生角。强力的爱啊！它会使畜生变成人类，也会使人类变成畜生。而且，乔武大神，你为了你心爱的勒达
+					<i class="parenthetical">⑾</i>
+				</span>
+				<span class="line" id="4-4-4">
+			，还化身做过一只天鹅呢。万能的爱啊！你差一点儿把天神的尊容变得像一只蠢鹅！这真是罪过哪：首先不该变成一头畜生——啊，老天，这罪过可没有一点人气味！接着又不该变做了一头野禽——想想吧，老天，这可真是禽兽一般的罪过！既然天神们也都这样贪淫，我们可怜的凡人又有什么办法呢？至于讲到我，那么我是这儿温莎地方的一匹公鹿；在这树林子里，也可以算得上顶胖的了。天神，让我过一个凉快的交配期吧，否则谁能责备我不该排泄些脂肪呢。——谁来啦？我的母鹿吗？
+				</span>
+			</p>
+			<p class="stagedir">福德大娘及培琪大娘上。</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="4-4-7">
+			爵爷，你在这儿吗，我的公鹿？我的亲爱的公鹿？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="4-4-9">
+			我的黑尾巴的母鹿！让天上落下马铃薯般大的雨点来吧，让它配着淫曲儿的调子响起雷来吧，让糖梅子、春情草像冰雹雪花般落下来吧，只要让我躲在你的怀里，什么泼辣的大风大雨我都不怕。
+					<i class="parenthetical">拥抱福德大娘。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="4-4-11">
+			培琪嫂子也跟我一起来了呢，好人儿。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="4-4-13">
+			那么你们把我当作偷来的公鹿一般切开来，各人分一条大腿去，留下两块肋条肉给我自己，肩膀肉赏给那看园子的，还有这两只角，送给你们的丈夫做个纪念品吧。哈哈！你们瞧我像不像猎人赫恩？丘匹德是个有良心的孩子，现在他让我尝到甜头了。我用鬼魂的名义欢迎你们！
+					<i class="parenthetical">内喧声。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="4-4-15">
+			嗳哟！什么声音？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="4-4-17">
+			天老爷饶恕我们的罪过吧！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="4-4-19">
+			又是什么事情？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘培琪大娘</b>
+				<span class="line" id="4-4-21">
+			快逃！快逃！
+					<i class="parenthetical">二人奔下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="4-4-23">
+			我想多半是魔鬼不愿意让我下地狱，因为我身上的油太多啦，恐怕在地狱里惹起一场大火来，否则他不会这样一次一次地跟我捣蛋。
+				</span>
+			</p>
+			<p class="stagedir">爱文斯乔装山羊神萨特⑿，毕斯托尔扮小妖，安·培琪扮仙后，威廉及若干儿童各扮精灵侍从，头插小蜡烛，同上。</p>
+			<p>
+				<b class="speaker">安</b>
+				<span class="line" id="4-4-26">
+			黑的，灰的，绿的，白的精灵们，
+				</span>
+				<span class="line" id="4-4-27">
+			月光下的狂欢者，黑夜里的幽魂，
+				</span>
+				<span class="line" id="4-4-28">
+			你们是没有父母的造化的儿女，
+				</span>
+				<span class="line" id="4-4-29">
+			不要忘记了你们各人的职务。
+				</span>
+				<span class="line" id="4-4-30">
+			传令的小妖，替我向众精灵宣告。
+					<a class="line" href="#4-4-30">30</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毕斯托尔</b>
+				<span class="line" id="4-4-32">
+			众精灵，静听召唤，不许喧吵！
+				</span>
+				<span class="line" id="4-4-33">
+			蟋蟀儿，你去跳进人家的烟囱，
+				</span>
+				<span class="line" id="4-4-34">
+			看他们炉里的灰屑有没有扫空；
+				</span>
+				<span class="line" id="4-4-35">
+			我们的仙后最恨贪懒的婢子，
+				</span>
+				<span class="line" id="4-4-36">
+			看见了就把她拧得浑身青紫。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="4-4-38">
+			他们都是些精灵，谁要是跟他们说话，就不得活命；让我闭上眼睛趴下来吧，神仙们的事情是不许凡人窥看的。
+					<i class="parenthetical">俯伏地上。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="4-4-40">
+			比德在哪里？你去看有谁家的姑娘，
+					<a class="line" href="#4-4-40">40</a>
+				</span>
+				<span class="line" id="4-4-41">
+			　念了三遍祈祷方才睡上眠床，
+				</span>
+				<span class="line" id="4-4-42">
+			　你就悄悄地替她把妄想收束，
+				</span>
+				<span class="line" id="4-4-43">
+			　让她睡得像婴儿一样甜熟；
+				</span>
+				<span class="line" id="4-4-44">
+			　谁要是临睡前不思量自己的过错，
+				</span>
+				<span class="line" id="4-4-45">
+			　你要叫他们腰麻背疼，手脚酸楚。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">安</b>
+				<span class="line" id="4-4-47">
+			去，去，小精灵！
+				</span>
+				<span class="line" id="4-4-48">
+			把温莎古堡内外搜寻：
+				</span>
+				<span class="line" id="4-4-49">
+			每一间神圣的华堂散播着幸运，
+				</span>
+				<span class="line" id="4-4-50">
+			让它巍然卓立，永无毁损，
+					<a class="line" href="#4-4-50">50</a>
+				</span>
+				<span class="line" id="4-4-51">
+			祝福它宅基巩固，门户长新，
+				</span>
+				<span class="line" id="4-4-52">
+			辉煌的大厦恰称着贤德的主人！
+				</span>
+				<span class="line" id="4-4-53">
+			每一个尊严的宝座用心扫洗，
+				</span>
+				<span class="line" id="4-4-54">
+			洒满了祓邪垢的鲜花香水，
+				</span>
+				<span class="line" id="4-4-55">
+			祝福那文棂绣瓦，画栋雕梁，
+				</span>
+				<span class="line" id="4-4-56">
+			千秋万岁永远照耀着荣光！
+				</span>
+				<span class="line" id="4-4-57">
+			每夜每夜你们手搀手在草地上，
+				</span>
+				<span class="line" id="4-4-58">
+			拉成一个圆圈儿跳舞歌唱，
+				</span>
+				<span class="line" id="4-4-59">
+			清晨的草上留下你们的足迹，
+				</span>
+				<span class="line" id="4-4-60">
+			一团团葱翠新绿的颜色；
+					<a class="line" href="#4-4-60">60</a>
+				</span>
+				<span class="line" id="4-4-61">
+			再用青紫粉白的各色鲜花，
+				</span>
+				<span class="line" id="4-4-62">
+			写下了天书仙语，“清心去邪”，
+				</span>
+				<span class="line" id="4-4-63">
+			像一簇簇五彩缤纷的珠玉，
+				</span>
+				<span class="line" id="4-4-64">
+			像英俊骑士所穿的锦绣衣?；
+				</span>
+				<span class="line" id="4-4-65">
+			草地是神仙的纸，花是神仙的符?。
+				</span>
+				<span class="line" id="4-4-66">
+			去，去，往东的向东，往西的向西！
+				</span>
+				<span class="line" id="4-4-67">
+			等到钟鸣一下，可不要忘了
+				</span>
+				<span class="line" id="4-4-68">
+			我们还要绕着赫恩橡树舞蹈。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="4-4-70">
+			大家排着队，大家手牵手，
+					<a class="line" href="#4-4-70">70</a>
+				</span>
+				<span class="line" id="4-4-71">
+			　二十个萤虫给我们点亮灯笼，
+				</span>
+				<span class="line" id="4-4-72">
+			　照着我们树荫下舞影憧憧。
+				</span>
+				<span class="line" id="4-4-73">
+			　且慢！哪里来的生人气？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="4-4-75">
+			天老爷保佑我不要给那个威尔士老怪瞧见，他会叫我变成一块干酪哩！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毕斯托尔</b>
+				<span class="line" id="4-4-77">
+			坏东西！你是个天生的孽种。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">安</b>
+				<span class="line" id="4-4-79">
+			让我用炼狱火把他指尖灼烫，
+				</span>
+				<span class="line" id="4-4-80">
+			看他的心地是纯洁还是肮脏：
+					<a class="line" href="#4-4-80">80</a>
+				</span>
+				<span class="line" id="4-4-81">
+			他要是心无污秽，火不能伤，
+				</span>
+				<span class="line" id="4-4-82">
+			哀号呼痛的一定居心不良。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">毕斯托尔</b>
+				<span class="line" id="4-4-84">
+			来，试一试！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="4-4-86">
+			来，看这木头怕不怕火熏。
+					<i class="parenthetical">众以烛烫福斯塔夫。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="4-4-88">
+			啊！啊！啊！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="4-4-90">
+			坏透了，坏透了，这家伙淫毒攻心！
+					<a class="line" href="#4-4-90">90</a>
+				</span>
+				<span class="line" id="4-4-91">
+			　精灵们，唱个歌儿取笑他；
+				</span>
+				<span class="line" id="4-4-92">
+			　围着他窜窜跳跳，拧得他遍体酸麻。
+				</span>
+				<span class="line" id="4-4-93">
+			　　歌
+				</span>
+				<span class="line" id="4-4-94">
+			哼，罪恶的妄想！
+				</span>
+				<span class="line" id="4-4-95">
+			哼，淫欲的孽障！
+				</span>
+				<span class="line" id="4-4-96">
+			淫欲是一把血火，
+				</span>
+				<span class="line" id="4-4-97">
+			不洁的邪念把它点亮，
+				</span>
+				<span class="line" id="4-4-98">
+			痴心扇着它的火焰，
+				</span>
+				<span class="line" id="4-4-99">
+			妄想把它愈吹愈旺。
+				</span>
+				<span class="line" id="4-4-100">
+			精灵们，拧着他，
+					<a class="line" href="#4-4-100">100</a>
+				</span>
+				<span class="line" id="4-4-101">
+			不要把恶人宽放；
+				</span>
+				<span class="line" id="4-4-102">
+			拧他，烧他，
+				</span>
+				<span class="line" id="4-4-103">
+			拖着他团团转，
+				</span>
+				<span class="line" id="4-4-104">
+			直等星月烛光一齐黑暗。
+				</span>
+			</p>
+			<p class="stagedir">精灵等一面唱歌，一面拧福斯塔夫。卡厄斯自一旁上，将一穿绿衣的精灵偷走；斯兰德自另一旁上，将一穿白衣的精灵偷走；范顿上，将安·培琪偷走。内猎人号角声，犬吠声，众精灵纷纷散去。福斯塔夫扯下鹿头起立。</p>
+			<p class="stagedir">培琪、福德、培琪大娘、福德大娘同上，将福斯塔夫捉住。</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="4-4-108">
+			嗳，别逃呀；现在您可给我们瞧见啦；难道您只好扮扮猎人赫恩吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="4-4-110">
+			好了好了，咱们不用尽跟他开玩笑啦。好爵爷，您现在喜不喜欢温莎的娘儿们？看见这一对漂亮的鹿角吗，丈夫？把这对鹿角扔在林子里不是比拿到城里去更合式些吗？
+					<a class="line" href="#4-4-110">110</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="4-4-112">
+			爵爷，现在究竟谁是个大忘八？白罗克大爷，福斯塔夫是个混蛋，是个混账忘八蛋；瞧他的头上还长着角哩，白罗克大爷！白罗克大爷，他从福德那里什么好处也没有得到，只得到了一只脏衣服的篓子，一顿棒儿，还有二十镑钱，那笔钱是要向他追还的，白罗克大爷；我已经把他的马扣留起来做抵押了，白罗克大爷。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="4-4-114">
+			爵爷，只怪我们运气不好，没有缘分，总是好事多磨。以后我再不把您当做我的情人了，可是我会永远记着您是我的公鹿。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="4-4-116">
+			我现在才明白我受了你们愚弄，做了一头蠢驴啦。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="4-4-118">
+			岂止蠢驴，还是笨牛呢，这都是一目了然的事。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="4-4-120">
+			原来这些都不是精灵吗？我曾经三、四次疑心他们不是什么精灵，可是一则因为我自己做贼心虚，二则因为突如其来的怪事，把我吓昏了头，所以会把这种破绽百出的骗局当做真实，虽然荒谬得不近情理，也会使我深信不疑，可见一个人做了坏事，虽有天大的聪明，也会受人之愚的。
+					<a class="line" href="#4-4-120">120</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="4-4-122">
+			福斯塔夫爵士，您只要敬奉上帝，消除欲念，精灵们就不会来拧您的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="4-4-124">
+			说得有理，休大仙。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="4-4-126">
+			还有您的嫉妒心也要除掉才好。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="4-4-128">
+			我以后再不疑心我的妻子了，除非有一天你会说道地的英国话来追求我的老婆。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="4-4-130">
+			难道我已经把我的脑子剜出来放在太阳里晒干了，所以连这样明显的骗局也看不出来吗？难道一只威尔士的老山羊都会捉弄我？难道我该用威尔士土布给自己做一顶傻子戴的鸡冠帽吗？这么说，我连吃烤过的干酪都会把自己哽住了呢。
+					<a class="line" href="#4-4-130">130</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="4-4-132">
+			钢酪是熬不出什么扭油来的——你这个大肚子倒是装满了扭油呢。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="4-4-134">
+			又是“钢酪”，又是“扭油”！想不到我活到今天，却让那一个连英国话都说不像的家伙来取笑吗？罢了罢了！这也算是我贪欢好色的下场！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="4-4-136">
+			爵爷，我们虽然愿意把那些三从四德的道理一脚踢得远远的，为了寻欢作乐，甘心死后下地狱；可是什么鬼附在您身上，叫您相信我们会喜欢您呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="4-4-138">
+			像你这样的一只杂碎布丁？一袋烂麻线？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="4-4-140">
+			一个浸胖的浮尸？
+					<a class="line" href="#4-4-140">140</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="4-4-142">
+			又老、又冷、又干枯，再加上一肚子的肮脏？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="4-4-144">
+			像魔鬼一样到处造谣生事？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="4-4-146">
+			一个穷光蛋的孤老头子？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="4-4-148">
+			像个泼老太婆一样千刁万恶？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="4-4-150">
+			一味花天酒地，玩玩女人，喝喝白酒蜜酒，喝醉了酒白瞪着眼睛骂人吵架？
+					<a class="line" href="#4-4-150">150</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="4-4-152">
+			好，尽你们说吧；算我倒楣落在你们手里，我也懒得跟这头威尔士山羊斗嘴了。无论哪个无知无识的傻瓜都可以欺负我，悉听你们把我怎样处置吧。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="4-4-154">
+			好，爵爷，我们要带您到温莎去看一位白罗克大爷，您骗了他的钱，却没有替他把事情办好；您现在已经吃过不少苦了，要是再叫您把那笔钱还出来，我想您一定要万分心痛吧？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德大娘</b>
+				<span class="line" id="4-4-156">
+			不，丈夫，他已经受到报应，那笔钱就算了吧；冤家宜解不宜结，咱们不要逼人太甚。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="4-4-158">
+			好，咱们拉拉手，过去的事情，以后不用再提啦。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="4-4-160">
+			骑士，不要懊恼，今天晚上请你到我家里来喝杯乳酒。我的妻子刚才把你取笑，等会儿我也要请你陪我把她取笑取笑。告诉她，斯兰德已经跟她的女儿结了婚啦。
+					<a class="line" href="#4-4-160">160</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="4-4-162">
+					<i class="parenthetical">旁白</i>
+			博士们不会信他的胡说。要是安·培琪是我的女儿，那么这个时候她已经做了卡厄斯大夫的太太啦。
+				</span>
+			</p>
+			<p class="stagedir">斯兰德上。</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="4-4-165">
+			哎哟！哎哟！岳父大人，不好了！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="4-4-167">
+			怎么，怎么，贤婿，你已经把事情办好了吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="4-4-169">
+			办好了！哼，我要让葛罗斯特郡人都知道这件事；否则还是让你们把我吊死了吧！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="4-4-171">
+			什么事情，贤婿？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="4-4-173">
+			我到了伊登那里去本来是要跟安·培琪小姐结婚的，谁知道她是一个又高又大、笨头笨脑的男孩子；倘不是在教堂里，我一定要把他揍一顿，说不定他也要把我揍一顿。我还以为他真的就是安·培琪哩——真是白忙了一场！——谁知道他是驿站长的儿子。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="4-4-175">
+			那么一定是你看错了人啦。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="4-4-177">
+			那还用说吗？我把一个男孩子当做女孩子，当然是看错了人啦。要是我真的跟他结了婚，虽然他穿着女人的衣服，我也不会要他的。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="4-4-179">
+			这是你自己太笨的缘故。我不是告诉你怎样从衣服上认出我的女儿来吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">斯兰德</b>
+				<span class="line" id="4-4-181">
+			我看见她穿着白衣服，便上去喊了一声“?蕖保??鹩ξ乙簧?安患?谩保??癜哺?以は仍己玫囊谎?凰??浪?皇前玻?词擎湔境さ亩?印
+				</span>
+			</p>
+			<p>
+				<b class="speaker">爱文斯</b>
+				<span class="line" id="4-4-183">
+			耶稣基督！斯兰德少爷，难道您生着眼睛不会看，竟会去跟一个男孩子结婚吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="4-4-185">
+			我心里乱得很，怎么办呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="4-4-187">
+			好官人，别生气，我因为知道了你的计划，所以叫女儿改穿绿衣服；不瞒你说，她现在已经跟卡厄斯医生一同到了教长家里，在那里举行婚礼啦。
+				</span>
+			</p>
+			<p class="stagedir">卡厄斯上。</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="4-4-190">
+			培琪大娘呢？哼，我上了人家的当啦！我跟一个男孩子结了婚，一个乡下男孩子，不是安·培琪。我上了当啦！
+					<a class="line" href="#4-4-190">190</a>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="4-4-192">
+			怎么，你不是看见她穿着绿衣服的吗？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">卡厄斯</b>
+				<span class="line" id="4-4-194">
+			是的，可是那是个男孩子；我一定要叫全温莎的人评个理去。
+					<i class="parenthetical">下。</i>
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="4-4-196">
+			这可奇了。谁把真的安带了去呢？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="4-4-198">
+			我心里怪不安的。范顿大爷来了。
+				</span>
+			</p>
+			<p class="stagedir">范顿及安·培琪上。</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="4-4-201">
+			啊，范顿大爷！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">安</b>
+				<span class="line" id="4-4-203">
+			好爸爸，原谅我！好妈妈，原谅我！
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="4-4-205">
+			小姐，你怎么不跟斯兰德少爷一块儿去？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="4-4-207">
+			姑娘，你怎么不跟卡厄斯大夫一块儿去？
+				</span>
+			</p>
+			<p>
+				<b class="speaker">范顿</b>
+				<span class="line" id="4-4-209">
+			你们不要把她问得心慌意乱，让我把实在的情形告诉你们吧。你们用可耻的手段，想叫她嫁给她所不爱的人；可是她跟我两个人久已心心相许，到了现在，更觉得什么都不能把我们两人拆开。她所犯的过失是神圣的，我们虽然欺骗了你们，却不能说是不正当的诡计，更不能说是忤逆不孝，因为她要避免强迫婚姻所造成的无数不幸的日子，只有用这办法。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="4-4-211">
+			木已成舟，培琪大爷，您也不必发呆啦。在恋爱的事情上，都是上天亲自安排好的；金钱可以买田地，娶妻只能靠运气。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="4-4-213">
+			我很高兴，虽然我遭了你们的算计，你们的箭却也会发而不中。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪</b>
+				<span class="line" id="4-4-215">
+			算了，有什么办法呢？——范顿，愿上天给你快乐！拗不过来的事情，也只好将就过去。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福斯塔夫</b>
+				<span class="line" id="4-4-217">
+			猎狗在晚上出来，哪只鹿也不能幸免。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">培琪大娘</b>
+				<span class="line" id="4-4-219">
+			好，我也不再想这样想那样了。范顿大爷，愿上天给您许许多多快乐的日子！官人，我们大家回家去，在火炉旁边把今天的笑话谈笑一番吧；请约翰爵士和大家都去。
+				</span>
+			</p>
+			<p>
+				<b class="speaker">福德</b>
+				<span class="line" id="4-4-221">
+			很好。爵爷，您对白罗克并没有失信，因为他今天晚上真的要去陪福德大娘一起睡觉了。
+					<i class="parenthetical">同下。</i>
+				</span>
+			</p>
+		</div>
+	</div>
+	<div class="act">
+		<h2>注释</h2>
+		<div class="scene">
+			<h3> </h3>
+			<p>
+				<span class="line" id="5-0-1">
+			“借光”，原文“quarter”，是纹章学中的术语。欧洲封建贵族都各有代表族系的纹章；把妻家纹章中的图形移入自己的纹章，称为“quarter”。
+				</span>
+				<span class="line" id="5-0-2">
+			意即钻别人堆里去做扒手的勾当。
+				</span>
+				<span class="line" id="5-0-3">
+			当时医生治病，先验病人小便，所以店主用“尿”讥笑卡厄斯医生。
+				</span>
+				<span class="line" id="5-0-4">
+			指亨利四世的太子，后为亨利五世。
+				</span>
+				<span class="line" id="5-0-5">
+			即“少数”和“多数”。
+				</span>
+				<span class="line" id="5-0-6">
+			休牧师是威尔士人，发音重浊，把“c”念成“g”。
+				</span>
+				<span class="line" id="5-0-7">
+			休牧师是威尔士人，发音重浊，把“c”念成“g”。
+				</span>
+				<span class="line" id="5-0-8">
+			“hang  hog”在英语中听来像“挂猪肉”，所以桂嫂猜想是“火腿”。
+				</span>
+				<span class="line" id="5-0-9">
+			拉丁文指示代名词共有五格，而无“称呼格”；所以休牧师用拉丁文提醒威廉：“曰‘无’”。拉丁文“无”（caret）近似英语中的“胡萝卜”（carrot），因此又引起桂嫂的一番插话。
+				</span>
+				<span class="line" id="5-0-10">
+			欧罗巴（Europa），希腊罗马神话中的美女，为天神乔武所爱，乔武化为公牛载之而去。
+					<a class="line" href="#5-0-10">10</a>
+				</span>
+				<span class="line" id="5-0-11">
+			勒达（Leda），希腊罗马神话中斯巴达王后，天神乔武化为天鹅将她占有。
+				</span>
+				<span class="line" id="5-0-12">
+			萨特（Satyr），希腊罗马神话中人身马尾、遨游山林的怪物。
+				</span>
+			</p>
+		</div>
+	</div>
+</body>
+</html>
