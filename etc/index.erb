@@ -1,25 +1,27 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset=utf-8>
-  <title>Readable Shakespeare Plays</title>
-  <link rel="stylesheet" type="text/css" href="style.css">
-</head>
-<body>
-  <h1>Readable Shakespeare Plays</h1>
-  <p class="caution"><span class="warning">WARNING:</span> This is an unfinished work in progress made by <a href="http://www.twitter.com/beng">@beng</a>.
-  Enter at your own risk.
-  Nothing too serious, but some of the plays are incomplete and some need a bit of tidying up.
-  If you'd like to help, get in touch or have a peek at the <a href="https://github.com/techbelly/the-plays-the-thing">github project</a>. 
-  </p>
-  
-  <div class="playlist">
-  <% for play in index  %><p>
-    <a href="<%= play[:file] %>"><%= play[:title] %></a><br />
-    <%= play[:subtitle] %>
-    </p>
-  <% end %>
-</div>
-</body>
-</html>
+	<head>
+		<meta charset=utf-8>
+		<title>莎士比亞.中国 / Readable Shakespeare Plays In Chinese</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	<body>
+		<a href="https://github.com/edent/xn--nlqx4w7ypemw.xn--fiqs8s"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
+		<h1>Readable Shakespeare Plays</h1>
+		<p class="caution">
+			<span class="warning">WARNING:</span> 
+			This is an unfinished work in progress made by <a href="https://twitter.com/edent">@edent</a>.<br />
+			Nothing too serious, but some of the plays are incomplete and some need a bit of tidying up.<br />
+			If you'd like to help, get in touch or have a peek at the <a href="https://github.com/edent/xn--nlqx4w7ypemw.xn--fiqs8s">github project</a>. 
+		</p>
 
+		<div class="playlist">
+			<% for play in index  %>
+			<p>
+ 				<a href="<%= play[:file] %>"><%= play[:title] %></a><br />
+ 				<%= play[:subtitle] %>
+ 			</p>
+			<% end %>
+		</div>
+	</body>
+</html>

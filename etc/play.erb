@@ -1,14 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset=utf-8>
-  <title><%= play[:title] %></title>
-  <link rel="stylesheet" type="text/css" href="style.css">
+	<meta charset=utf-8>
+	<title><%= play[:title] %></title>
+	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-  <h1><%= play[:title] %></h1>
+	<a href="https://github.com/edent/xn--nlqx4w7ypemw.xn--fiqs8s/blob/master/src/preprocessed/<%= play[:title] %>.xml"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
 
-  <h2><%= play[:dptitle] %></h2>
+	<h1><%= play[:title] %></h1>
+
+	<h2><%= play[:dptitle] %></h2>
 
 <%- for person in play[:persons] %>
 <p class="speaker"><%= person %></p>
@@ -22,39 +24,39 @@
 <%- line_index = 0 %>
 <div class="scene">
 <h3><%= scene[:title] %> </h3>
-<%-     for part in scene[:parts] -%>
-<%-       if part[:stagedir] -%>
+<%-		 for part in scene[:parts] -%>
+<%-			 if part[:stagedir] -%>
 <p class="stagedir"><%= part[:stagedir] %></p>
-<%-           line_index += 1 %>
-<%-       else -%>
+<%-					 line_index += 1 %>
+<%-			 else -%>
 <p>
-<%-         for speaker in part[:speakers] -%>
+<%-				 for speaker in part[:speakers] -%>
 <b class="speaker"><%= speaker %></b>
-<%-           line_index += 1 %>
-<%-         end -%>
-<%-         for l in part[:lines] -%>
-<%-           line_index += 1 %>
+<%-					 line_index += 1 %>
+<%-				 end -%>
+<%-				 for l in part[:lines] -%>
+<%-					 line_index += 1 %>
 <span class="line" id="<%= act_idx %>-<%= scene_idx %>-<%= line_index %>">
-<%-           if l[:type] == :stagedir -%>
+<%-					 if l[:type] == :stagedir -%>
 <i class="<%= l[:type] %>"><%= l[:text].strip %></i><br />
-<%-           else -%>
-<%-             for n in l[:lines] -%>
-<%-               if n[:type] == :parenthetical -%>
+<%-					 else -%>
+<%-						 for n in l[:lines] -%>
+<%-							 if n[:type] == :parenthetical -%>
 <i class="parenthetical"><%= n[:text].strip %></i>
-<%-               else -%>
+<%-							 else -%>
 <%= n[:text].strip %>
-<%-               end -%>
-<%-             end -%>
-<%-             if line_index % 10 == 0 %>
-  <a class="line" href="#<%= act_idx %>-<%= scene_idx %>-<%= line_index %>"><%= line_index %></a>
-<%-             end %>
-<%-           end -%></span>
-<%-         end -%>
+<%-							 end -%>
+<%-						 end -%>
+<%-						 if line_index % 10 == 0 %>
+	<a class="line" href="#<%= act_idx %>-<%= scene_idx %>-<%= line_index %>"><%= line_index %></a>
+<%-						 end %>
+<%-					 end -%></span>
+<%-				 end -%>
 </p>
-<%-       end -%>
-<%-     end -%>
+<%-			 end -%>
+<%-		 end -%>
 </div>
-<%-   end -%> 
+<%-	 end -%> 
 </div>
 <%- end -%>
 </body>
