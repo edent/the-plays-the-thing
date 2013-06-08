@@ -1,229 +1,205 @@
-/*@font-face {
-  font-family: 'titles';
-  src: url('fonts/Xin di paper-cut compact.ttf');
-}
 @font-face {
-  font-family: 'headings';
-  src: url('fonts/STXINGKA%20compact.ttf');
-}
-@font-face {
-  font-family: 'character';
-  src: url('fonts/HanWangKaiBold-Gb5compact.ttf');
-}
-@font-face {
-  font-family: 'text';
-  src: url('fonts/Han yi Jia shu Font.ttf');
-}
-*/
-
-@font-face {
-  font-family: 'text';
-  src: url('fonts/HYd2gj.ttf');
+		font-family: 'StxingkaiHeadings';
+		src: url('fonts/stxingka_unique_compact-webfont.eot');
+		src: url('fonts/stxingka_unique_compact-webfont.eot?#iefix') format('embedded-opentype'),
+				 url('fonts/stxingka_unique_compact-webfont.woff') format('woff'),
+				 url('fonts/stxingka_unique_compact-webfont.ttf') format('truetype');
+		font-weight: normal;
+		font-style: normal;
 }
 
 @font-face {
-    font-family: 'StxingkaiHeadings';
-    src: url('fonts/edentstxingkai-webfont.eot');
-    src: url('fonts/edentstxingkai-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/edentstxingkai-webfont.woff') format('woff'),
-         url('fonts/edentstxingkai-webfont.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-
+		font-family: 'HDZB_36';
+		src: url('fonts/HDZB_36_UNIQUE.eot');
+		src: url('fonts/HDZB_36_UNIQUE.eot?#iefix') format('embedded-opentype'),
+				 url('fonts/HDZB_36_UNIQUE.woff') format('woff'),
+				 url('fonts/HDZB_36_UNIQUE.ttf') format('truetype');
+		font-weight: normal;
+		font-style: normal;
 }
 
-
-
-
 @font-face {
-    font-family: 'HanwangkaiboldCharacters';
-    src: url('fonts/hanwangkaibold-gb5compact-webfont.eot');
-    src: url('fonts/hanwangkaibold-gb5compact-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/hanwangkaibold-gb5compact-webfont.woff') format('woff'),
-         url('fonts/hanwangkaibold-gb5compact-webfont.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'PaperCutTitles';
-    src: url('fonts/xindipaper-cutcompact-webfont.eot');
-    src: url('fonts/xindipaper-cutcompact-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/xindipaper-cutcompact-webfont.woff') format('woff'),
-         url('fonts/xindipaper-cutcompact-webfont.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-
+		font-family: 'PaperCutTitles';
+		src: url('fonts/xin_di_paper-cut_font_-__simplified_chinese_unique-webfont.eot');
+		src: url('fonts/xin_di_paper-cut_font_-__simplified_chinese_unique-webfont.eot?#iefix') format('embedded-opentype'),
+				 url('fonts/xin_di_paper-cut_font_-__simplified_chinese_unique-webfont.woff') format('woff'),
+				 url('fonts/xin_di_paper-cut_font_-__simplified_chinese_unique-webfont.ttf') format('truetype');
+		font-weight: normal;
+		font-style: normal;
 }
 
 body {
-  font-family: 'text';
-  font-size: 100%;
+	font-family: 'HDZB_36';
+	font-size: 100%;
 }
+
 p {
-  font-family: 'text';
-  font-size: 200%;
+	font-family: 'HDZB_36';
+	font-size: 200%;
 }
 
 h1 {
-  font-family: 'PaperCutTitles';
-  font-weight: normal;
-  font-size: 700%;
-  text-align: center;
+	font-family: 'PaperCutTitles';
+	font-weight: normal;
+	font-size: 700%;
+	text-align: center;
 }
 
+.english {
+	font-family: 'Helvetica';
+}
+
+/*
 .playlist {
-  -moz-column-count:3;
-  -webkit-column-count:3;
-  column-count:3;
+	-moz-column-count:3;
+	-webkit-column-count:3;
+	column-count:3;
 }
 
 .playlist p {
-    -webkit-column-break-inside:avoid;
-    -moz-column-break-inside:avoid;
-    column-break-inside:avoid;
+		-webkit-column-break-inside:avoid;
+		-moz-column-break-inside:avoid;
+		column-break-inside:avoid;
 }
 
 .playlist p:first-child {
-  margin-top: 0;
+	margin-top: 0;
 }
 
 .caution {
-  font-style: italic;
-  font-size: 90%
+	font-style: italic;
+	font-size: 90%
 }
+*/
 a {
-  color: #b20e0e;
+	color: #b20e0e;
 }
+/*
 .caution span.warning {
-  color: #b20e0e;
+	color: #b20e0e;
 }
+*/
 
 body {
-  width: 540px;
-  margin: 0 auto;
+	width: 30em;
 }
 
 .scene p.stagedir {
-  text-indent: 0px;
-  margin: 21px;
+	text-indent: 0px;
+	margin: 21px;
 }
 
 .scene p.stagedir, i.stagedir {
-  display: block;
-  font-style: italic;
-  font-size: 150%;
-  text-indent: 0px;
-  text-indent: 0px;
-  margin: 21px;
+	display: block;
+	font-style: italic;
+	font-size: 150%;
+	text-indent: 0px;
+	text-indent: 0px;
+	margin: 21px;
 }
 
 i.stagedir + br {
-  display: none;
+	display: none;
 }
 
 i.stagedir:before, i.parenthetical:before {
-  content:"(";
+	content:"(";
 }
 
 i.stagedir:after, i.parenthetical:after {
-  content:")";
+	content:")";
 }
 
 .scene p {
-  text-align: left;
+	text-align: left;
 }
 
 span.line {
-  display: block;
+	display: block;
 }
 
 span.line a:hover {
-  text-decoration: underline;
-  color: #b96d6d; /*#b20e0e; */
+	text-decoration: underline;
+	color: #b96d6d; /*#b20e0e; */
 }
 
 span.line a {
-  color: #ccc; /*#b20e0e; */
-  float: left;
-  text-decoration: none;
-  position: relative;
-  right: 200px;
-  padding: 0px; 
-  width: 0px;
-  text-align: right;
-  display: block;
+	color: #ccc; /*#b20e0e; */
+	float: left;
+	text-decoration: none;
+	position: relative;
+	right: 200px;
+	padding: 0px; 
+	width: 0px;
+	text-align: right;
+	display: block;
 }
 
 .scene {
-    padding: 0;
-    border: none;
-    border-bottom: medium double #333;
-    color: #333;
-    text-align: center;
+		padding: 0;
+		border: none;
+		border-bottom: medium double #333;
+		color: #333;
+		text-align: center;
 }
 
 .scene:after {
-    content: "❦";
-    display: inline-block;
-    position: relative;
-    top: 0.8em;
-    margin: auto;
-    font-size: 1.5em;
-    padding: 0 0.25em;
-    background: white;
+		content: "❦";
+		display: inline-block;
+		position: relative;
+		top: 0.8em;
+		margin: auto;
+		font-size: 1.5em;
+		padding: 0 0.25em;
+		background: white;
 }
 
 b.speaker {
-  font-family: 'HanwangkaiboldCharacters';
-  font-weight: normal;
-  font-size: 100%;
-  content:after:"\00a0\00a0";
-  color: #b20e0e;
-  margin: 0;
+	font-family: 'HDZB_36';
+	font-weight: normal;
+	font-size: 100%;
+	content:after:"\00a0\00a0";
+	color: #b20e0e;
+	margin: 0;
 }
 
 .scene p, b.speaker {
 }
 
 .act h2 {
-  text-align: center;
-  font-family: 'StxingkaiHeadings';
-  font-size: 450%;
-  font-weight: normal;
+	text-align: center;
+	font-family: 'StxingkaiHeadings';
+	font-size: 450%;
+	font-weight: normal;
 }
 
 h2 {
-  text-align: center;
-  font-family: 'StxingkaiHeadings';
-  font-size: 450%;
-  font-weight: normal;
+	text-align: center;
+	font-family: 'StxingkaiHeadings';
+	font-size: 450%;
+	font-weight: normal;
 }
 
 h3 {
-  text-align: center;
-  font-family: 'StxingkaiHeadings';
-  font-size: 350%;
-  font-weight: normal;
+	text-align: center;
+	font-family: 'StxingkaiHeadings';
+	font-size: 350%;
+	font-weight: normal;
 }
 
 b.speaker:after {
-  content:"\00a0";
+	content:"\00a0";
 }
 
 b.speaker + i.parenthetical:after {
-  content:")\00a0";
+	content:")\00a0";
 }
 
 .scene p {
-  padding-left: 10px;
+	padding-left: 10px;
 }
 
 .scene p b {
-  text-indent: -10px;
-  display: inline-block;
+	text-indent: -10px;
+	display: inline-block;
 }

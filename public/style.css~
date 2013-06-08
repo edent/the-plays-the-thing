@@ -1,19 +1,51 @@
 @font-face {
-  font-family: 'titles';
-  src: url('fonts/Xin di paper-cut Font -  Simplified Chinese .ttf');
+    font-family: 'text';
+    src: url('fonts/wt006_UNIQUE.eot');
+    src: url('fonts/wt006_UNIQUE.eot?#iefix') format('embedded-opentype'),
+         url('fonts/wt006_UNIQUE.woff') format('woff'),
+         url('fonts/wt006_UNIQUE.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
+
 @font-face {
-  font-family: 'headings';
-  src: url('fonts/STXINGKA.ttf');
+    font-family: 'StxingkaiHeadings';
+    src: url('fonts/cda6c0d548e05e6c-subsetofstxingkai-webfont.eot');
+    src: url('fonts/cda6c0d548e05e6c-subsetofstxingkai-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/cda6c0d548e05e6c-subsetofstxingkai-webfont.woff') format('woff'),
+         url('fonts/cda6c0d548e05e6c-subsetofstxingkai-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
+
+
+
+
 @font-face {
-  font-family: 'character';
-  src: url('fonts/wts11.ttf');
+    font-family: 'HanwangkaiboldCharacters';
+    src: url('fonts/wts11_unique_compact-webfont.eot');
+    src: url('fonts/wts11_unique_compact-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/wts11_unique_compact-webfont.woff') format('woff'),
+         url('fonts/wts11_unique_compact-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
 }
+
+
+
+
 @font-face {
-  font-family: 'text';
-  src: url('fonts/Han yi Jia shu Font.ttf');
+    font-family: 'PaperCutTitles';
+    src: url('fonts/subsetofsentypapercut-webfont.eot');
+    src: url('fonts/subsetofsentypapercut-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/subsetofsentypapercut-webfont.woff') format('woff'),
+         url('fonts/subsetofsentypapercut-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
 }
+
 body {
   font-family: 'text';
   font-size: 100%;
@@ -24,7 +56,7 @@ p {
 }
 
 h1 {
-  font-family: 'titles';
+  font-family: 'PaperCutTitles';
   font-weight: normal;
   font-size: 700%;
   text-align: center;
@@ -133,7 +165,7 @@ span.line a {
 }
 
 b.speaker {
-  font-family: 'character';
+  font-family: 'HanwangkaiboldCharacters';
   font-weight: normal;
   font-size: 100%;
   content:after:"\00a0\00a0";
@@ -146,21 +178,21 @@ b.speaker {
 
 .act h2 {
   text-align: center;
-  font-family: 'headings';
+  font-family: 'StxingkaiHeadings';
   font-size: 450%;
   font-weight: normal;
 }
 
 h2 {
   text-align: center;
-  font-family: 'headings';
+  font-family: 'StxingkaiHeadings';
   font-size: 450%;
   font-weight: normal;
 }
 
 h3 {
   text-align: center;
-  font-family: 'headings';
+  font-family: 'StxingkaiHeadings';
   font-size: 350%;
   font-weight: normal;
 }
