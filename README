@@ -1,6 +1,8 @@
 A first attempt at making Chinese translations of Shakespeare's plays into something pleasant to read.
 
-Licence
+http://莎士比亚.中国/
+
+Licence(s)
 
 Ruby Code: forked from https://github.com/techbelly/the-plays-the-thing/ - no licence specified.
 
@@ -12,4 +14,6 @@ Fonts: HDZB_36.TTF from http://www.certifiedchinesetranslation.com/fonts/Chinese
 
 Other fonts found online.
 
-WOFF & EOT generated via http://www.fontsquirrel.com/tools/webfont-generator and FontForge
+TTF2EOT: forked from http://code.google.com/p/ttf2eot/ - GPLv2
+
+WOFF generated via FontForge
