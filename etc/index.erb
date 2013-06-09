@@ -17,20 +17,26 @@
 		</script>
 		<a href="https://github.com/edent/xn--jlQ54W7yPemW.xn--fiqs8s"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
 		<h1>威廉·莎士比亚</h1>
-		<h2><a href="http://zh.wikipedia.org/wiki/%E6%9C%B1%E7%94%9F%E8%B1%AA">朱生豪</a> &amp; <a href="http://shkspr.mobi/blog/">Terence Eden</a></h2>
-		<p>我的 名字 是 Terence Eden。 我 会 说 中国语 是 很 不好。不过, 我 喜欢 莎士比亚的 戏剧。 这些美丽的副本。 请欣赏他们。谢谢。</p>
-		<p class="english">My name is Terence Eden. I speak Mandarin very badly. However, I love Shakespeare's plays. Here are some beautiful copies. Please enjoy them. Thank You.</p>
+		<h2><a href="http://zh.wikipedia.org/wiki/%E6%9C%B1%E7%94%9F%E8%B1%AA">朱生豪</a></h2>
+		<div class="content">
+			<p>我的 名字 是 <a href="http://shkspr.mobi/blog/">Terence Eden</a>。 我 会 说 中国语 是 很 不好。<br />
+				不过, 我 喜欢 莎士比亚的 戏剧。 这些美丽的副本。 请欣赏他们。<br />
+				谢谢。</p>
+			<p class="english">My name is <a href="http://shkspr.mobi/blog/">Terence Eden</a>. I speak Mandarin very badly.<br />
+				However, I love Shakespeare's plays. Here are some beautiful copies. Please enjoy them.<br />
+				Thank You.</p>
 
-		<% for play in index  %>
-		<p>
-			<a href="<%= play[:file] %>"><%= play[:title] %></a> - <span class="english"><%= play[:subtitle] %></span>
-		</p>
-		<% end %>
+			<% for play in index  %>
+			<p>
+				<a href="<%= play[:file] %>" class="PlayTitles"><%= play[:title] %></a><br /><span class="english"><%= play[:subtitle] %></span>
+			</p>
+			<% end %>
 
-		<hr />
-		
-		<p class="english">The Chinese writer <a href="http://en.wikipedia.org/wiki/Zhu_Shenghao">Zhu Shenghao</a> translated many of Shakespeare's plays before his death in 1944.  There are no comprehensive online copies, so I have assembled these from multiple sources. According to <a href="http://en.wikisource.org/wiki/Copyright_Law_of_the_People%27s_Republic_of_China_(2010)#Section_3_Term_of_Protection">Chinese copyright law</a> the rights expire fifty years after the author's death.</p>
-		<p class="english">This is a work in progress.  I am sure there are many mistakes! If you'd like to help improve the plays, please take a look at the <a href="https://github.com/edent/xn--jlQ54W7yPemW.xn--fiQs8S">GitHub project</a></p>
-
+			<hr />
+			
+			<p class="english">The Chinese writer <a href="http://en.wikipedia.org/wiki/Zhu_Shenghao">Zhu Shenghao</a> translated many of Shakespeare's plays before his death in 1944.  There are no comprehensive online copies, so I have assembled these from multiple sources. According to <a href="http://en.wikisource.org/wiki/Copyright_Law_of_the_People%27s_Republic_of_China_(2010)#Section_3_Term_of_Protection">Chinese copyright law</a> the rights expire fifty years after the author's death.</p>
+			
+			<p class="english">This is a work in progress.  I am sure there are many mistakes! If you'd like to help improve the plays, please take a look at the <a href="https://github.com/edent/xn--jlQ54W7yPemW.xn--fiQs8S">GitHub project</a></p>
+		</div>
 	</body>
 </html>
