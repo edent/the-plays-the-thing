@@ -10,10 +10,12 @@ Font Optimizer: forked from https://github.com/fnp/librarian/tree/master/librari
 
 PHP Code: created by @edent - MIT licence.
 
-Fonts: HDZB_36.TTF from http://www.certifiedchinesetranslation.com/fonts/Chinese.html
+Fonts: HDZB_36.TTF & HDZB_70.TTF from http://www.certifiedchinesetranslation.com/fonts/Chinese.html
 
 Other fonts found online.
 
 TTF2EOT: forked from http://code.google.com/p/ttf2eot/ - GPLv2
 
 WOFF generated via FontForge
+
+Background Image: http://mudcu.be/bg/
