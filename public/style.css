@@ -45,6 +45,7 @@ body {
 	margin-right: auto;
 	background: #ffefd5;
 	background-image: url("images/bg.jpg");
+	line-height:300%;
 }
 
 .content {
@@ -63,6 +64,7 @@ h1 {
 	font-family: 'PaperCutTitles';
 	font-weight: normal;
 	font-size: 700%;
+	line-height:150%;
 	text-align: center;
 }
 
